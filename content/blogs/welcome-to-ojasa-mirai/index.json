@@ -1,0 +1,20 @@
+{
+  "slug": "welcome-to-ojasa-mirai",
+  "title": "Welcome to Ojasa Mirai Blog",
+  "excerpt": "Explore practical articles on AI development and career insights for aspiring GenAI developers. Start your journey here!",
+  "content": "<p>Welcome to the Ojasa Mirai Blog! We're thrilled to have you here as we embark on an exciting journey through the world of Artificial Intelligence and Generative AI development.</p><h2>What You'll Find Here</h2><p>Our blog is designed to be your go-to resource for:</p><ul><li><strong>Career Advice</strong>: Navigate your path in AI development with expert guidance</li><li><strong>Getting Started Guides</strong>: Learn the fundamentals of AI and GenAI development</li><li><strong>Project Tutorials</strong>: Build real-world projects and gain hands-on experience</li><li><strong>Industry Trends</strong>: Stay updated with the latest developments in AI</li></ul><h2>Our Mission</h2><p>At Ojasa Mirai, we believe in making AI education accessible, practical, and engaging. Our articles are written by industry professionals who are passionate about sharing their knowledge and helping you succeed.</p><h3>What Makes Us Different</h3><p>Unlike other resources that focus on theory alone, we emphasize:</p><ol><li>Practical, actionable insights you can implement immediately</li><li>Real-world examples and case studies</li><li>Clear explanations without unnecessary jargon</li><li>A community-driven approach to learning</li></ol><h2>Get Started</h2><p>Browse through our categories, explore our featured articles, or use the search function to find exactly what you're looking for. Don't forget to subscribe to our newsletter to receive weekly insights directly in your inbox!</p><p>Happy learning! 🚀</p>",
+  "category": "Getting Started",
+  "tags": ["welcome", "introduction", "ai", "genai"],
+  "author": "Ojasa Mirai Team",
+  "authorBio": "Team of GenAI experts and industry professionals dedicated to empowering the next generation of AI developers.",
+  "publishedAt": "2025-01-06T00:00:00Z",
+  "updatedAt": "2025-01-06T00:00:00Z",
+  "readTime": "3 min",
+  "featured": true,
+  "popular": true,
+  "seo": {
+    "metaTitle": "Welcome to Ojasa Mirai Blog | AI Development Resources",
+    "metaDescription": "Explore practical articles on AI development, career insights, and project tutorials for aspiring GenAI developers.",
+    "keywords": ["ai blog", "genai resources", "ai development", "career guidance"]
+  }
+}
