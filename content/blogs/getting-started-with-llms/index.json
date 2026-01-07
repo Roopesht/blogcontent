@@ -12,6 +12,7 @@
   "readTime": "10 min",
   "featured": false,
   "popular": true,
+  "heroImage": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&h=400&fit=crop",
   "seo": {
     "metaTitle": "Getting Started with Large Language Models | LLM Tutorial",
     "metaDescription": "Learn how to work with Large Language Models. Build your first LLM application with practical examples and best practices.",
