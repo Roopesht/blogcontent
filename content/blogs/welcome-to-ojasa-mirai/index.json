@@ -12,6 +12,7 @@
   "readTime": "3 min",
   "featured": true,
   "popular": true,
+  "heroImage": "https://github.com/Roopesht/blogcontent/blob/main/content/blogs/welcome-to-ojasa-mirai/hero.jpg?raw=true",
   "seo": {
     "metaTitle": "Welcome to Ojasa Mirai Blog | AI Development Resources",
     "metaDescription": "Explore practical articles on AI development, career insights, and project tutorials for aspiring GenAI developers.",

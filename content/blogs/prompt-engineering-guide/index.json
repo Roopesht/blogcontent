@@ -12,6 +12,7 @@
   "readTime": "12 min",
   "featured": false,
   "popular": false,
+  "heroImage": "https://github.com/Roopesht/blogcontent/blob/main/content/blogs/prompt-engineering-guide/hero.jpg?raw=true",
   "seo": {
     "metaTitle": "Complete Prompt Engineering Guide | Master AI Prompts",
     "metaDescription": "Learn prompt engineering techniques to get better results from AI models. Comprehensive guide with examples and best practices.",

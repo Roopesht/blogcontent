@@ -12,6 +12,7 @@
   "readTime": "15 min",
   "featured": false,
   "popular": false,
+  "heroImage": "https://github.com/Roopesht/blogcontent/blob/main/content/blogs/building-first-chatbot/hero.jpg?raw=true",
   "seo": {
     "metaTitle": "Build Your First AI Chatbot | Step-by-Step Tutorial",
     "metaDescription": "Learn how to build an AI-powered chatbot from scratch. Complete tutorial with code examples, RAG implementation, and deployment guide.",
