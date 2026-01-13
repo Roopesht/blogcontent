@@ -28,10 +28,11 @@
       "data": "<h2>Closing Question</h2><p>If AI tools are already preventing beginner mistakes for you, how will you know whether you’re improving — or simply being assisted?</p>"
     },
     {
-      "type": "expandable",
+      "type": "paragraph", 
       "title": "What to do if this resonated",
       "data": "If AI is already shaping how you write code, the real question is how you learn alongside it. We built the Beginners Course on Fullstack + AI for developers who want clarity, not shortcuts — focusing on systems, patterns, and using AI as leverage."
     }
+
   ],
   "cta": {
     "ctaDescription": "If AI is already shaping how you write code, the real question is how you learn alongside it. We built the Beginners Course on Fullstack + AI for developers who want clarity, not shortcuts — focusing on systems, patterns, and using AI as leverage.",
