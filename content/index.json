@@ -4,7 +4,12 @@
     "title": "Welcome to Ojasa Mirai Blog",
     "excerpt": "Explore practical articles on AI development and career insights for aspiring GenAI developers. Start your journey here!",
     "category": "Getting Started",
-    "tags": ["welcome", "introduction", "ai", "genai"],
+    "tags": [
+      "welcome",
+      "introduction",
+      "ai",
+      "genai"
+    ],
     "author": "Ojasa Mirai Team",
     "publishedAt": "2026-01-06T00:00:00Z",
     "updatedAt": "2026-01-06T00:00:00Z",
@@ -18,7 +23,13 @@
     "title": "AI Roadmap for Beginners 2026",
     "excerpt": "A comprehensive guide to starting your AI journey in 2026. Learn the essential skills, tools, and path to becoming an AI developer.",
     "category": "Career Advice",
-    "tags": ["ai", "career", "beginner", "roadmap", "learning-path"],
+    "tags": [
+      "ai",
+      "career",
+      "beginner",
+      "roadmap",
+      "learning-path"
+    ],
     "author": "Ojasa Mirai Team",
     "publishedAt": "2026-01-05T00:00:00Z",
     "updatedAt": "2026-01-05T00:00:00Z",
@@ -32,7 +43,12 @@
     "title": "Getting Started with Large Language Models",
     "excerpt": "A practical introduction to working with LLMs. Understand the fundamentals and build your first LLM application.",
     "category": "Getting Started",
-    "tags": ["llm", "tutorial", "beginner", "genai"],
+    "tags": [
+      "llm",
+      "tutorial",
+      "beginner",
+      "genai"
+    ],
     "author": "Roopesh Kumar",
     "publishedAt": "2026-01-04T00:00:00Z",
     "updatedAt": "2026-01-04T00:00:00Z",
@@ -46,7 +62,12 @@
     "title": "The Complete Prompt Engineering Guide",
     "excerpt": "Master the art of prompt engineering. Learn techniques to get better results from AI models and build effective prompts.",
     "category": "Project Tutorials",
-    "tags": ["prompts", "llm", "tutorial", "best-practices"],
+    "tags": [
+      "prompts",
+      "llm",
+      "tutorial",
+      "best-practices"
+    ],
     "author": "Ojasa Mirai Team",
     "publishedAt": "2026-01-03T00:00:00Z",
     "updatedAt": "2026-01-03T00:00:00Z",
@@ -60,7 +81,12 @@
     "title": "AI Industry Trends to Watch in 2026",
     "excerpt": "Stay ahead of the curve with our analysis of the latest AI industry trends and what they mean for developers.",
     "category": "Industry Trends",
-    "tags": ["trends", "industry", "ai", "future"],
+    "tags": [
+      "trends",
+      "industry",
+      "ai",
+      "future"
+    ],
     "author": "Ojasa Mirai Team",
     "publishedAt": "2026-01-02T00:00:00Z",
     "updatedAt": "2026-01-02T00:00:00Z",
@@ -74,7 +100,12 @@
     "title": "Building Your First AI Chatbot",
     "excerpt": "Step-by-step tutorial on building your first AI-powered chatbot using modern frameworks and tools.",
     "category": "Project Tutorials",
-    "tags": ["chatbot", "tutorial", "project", "hands-on"],
+    "tags": [
+      "chatbot",
+      "tutorial",
+      "project",
+      "hands-on"
+    ],
     "author": "Roopesh Kumar",
     "publishedAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-01-01T00:00:00Z",
@@ -82,5 +113,27 @@
     "featured": false,
     "popular": false,
     "thumbnailUrl": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&h=400&fit=crop"
+  },
+  {
+    "slug": "ai-roadmap-2026",
+    "title": "AI Roadmap for Beginners 2026",
+    "excerpt": "A practical roadmap for beginners starting their AI journey in 2026. Learn what to focus on, what to ignore, and how to build skills step by step.",
+    "category": "Career Advice",
+    "tags": [
+      "ai",
+      "career",
+      "beginner",
+      "roadmap",
+      "learning-path",
+      "fullstack-ai"
+    ],
+    "author": "Ojasa Mirai Team",
+    "authorBio": "Team of GenAI practitioners and educators focused on helping developers transition thoughtfully into Fullstack + AI roles.",
+    "publishedAt": "2026-01-05T00:00:00Z",
+    "updatedAt": "2026-01-05T00:00:00Z",
+    "readTime": "8 min",
+    "featured": false,
+    "popular": true,
+    "thumbnailUrl": "/images/fullstack-expectations-shift-2026/hero.jpg",
   }
 ]
