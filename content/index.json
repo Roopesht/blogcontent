@@ -134,5 +134,28 @@
     "featured": false,
     "popular": true,
     "thumbnailUrl": "https://blog.ojasamirai.com/images/fullstack-expectations-shift-2026.png"
-  }
+  },
+  {
+    "slug": "claude-cowork-what-software-engineers-must-know-2026",
+    "title": "Cowork Just Launched. Software Engineering Will Never Be the Same.",
+    "excerpt": "Anthropic's Claude Cowork isn't just another productivity tool. It's the moment AI stopped being a tool for engineers — and became a capability for everyone. Here's what that means for your career.",
+    "category": "Career & Skills",
+    "tags": [
+      "claude-cowork",
+      "claude-code",
+      "fullstack",
+      "ai",
+      "career-growth",
+      "software-engineering",
+      "ai-agents",
+      "learning"
+    ],
+    "author": "Roopesh Tayaloor",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "readTime": "8 min",
+    "featured": true,
+    "popular": true,
+    "thumbnailUrl": "https://blog.ojasamirai.com/images/claude-cowork-software-engineers-2026.png"
+  },
 ]
