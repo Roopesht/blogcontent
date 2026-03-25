@@ -2,64 +2,62 @@
   "slug": "dal-tadka",
   "title": "Dal Tadka",
   "description": "Creamy toor dal tempered with ghee, garlic and whole spices. A comforting North Indian staple.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=400",
   "heroImageUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=800",
-  "defaultServings": 4,
+  "difficulty": "easy",
   "prepTime": 15,
   "cookTime": 30,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["North Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free"],
+  "healthTags": ["diabetic-friendly", "heart-healthy"],
+  "category": "Dal",
+  "featured": true,
+  "popular": true,
   "variants": [
     {
-      "id": "standard",
-      "label": "Standard",
-      "description": "Balanced spice, stovetop method",
-      "isDefault": true,
+      "name": "Standard",
       "adjustments": {}
     },
     {
-      "id": "spicy",
-      "label": "Extra Spicy",
-      "description": "Doubles the green chilli and red chilli powder",
+      "name": "Extra Spicy",
       "adjustments": {
         "green-chilli": { "multiplier": 2 },
         "red-chilli-powder": { "multiplier": 2 }
       }
-    },
-    {
-      "id": "quick",
-      "label": "Quick (Pressure Cooker)",
-      "description": "20 min total — skip soaking, use pressure cooker",
-      "adjustments": {}
     }
   ],
   "ingredients": [
-    { "ingredientSlug": "toor-dal", "amount": 1, "unit": "cup", "notes": "washed, soaked 30 min" },
-    { "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
-    { "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
-    { "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
-    { "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
-    { "ingredientSlug": "tomato", "amount": 1, "unit": "medium", "notes": "chopped" },
-    { "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole", "notes": "slit" },
-    { "ingredientSlug": "red-chilli-powder", "amount": 0.5, "unit": "tsp" },
-    { "ingredientSlug": "garam-masala", "amount": 0.25, "unit": "tsp" },
-    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
+    { "id": 1, "name": "Toor Dal", "ingredientSlug": "toor-dal", "amount": 1, "unit": "cup", "notes": "washed, soaked 30 min" },
+    { "id": 2, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
+    { "id": 3, "name": "Ghee", "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
+    { "id": 4, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
+    { "id": 5, "name": "Garlic", "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
+    { "id": 6, "name": "Tomato", "ingredientSlug": "tomato", "amount": 1, "unit": "medium", "notes": "chopped" },
+    { "id": 7, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole", "notes": "slit" },
+    { "id": 8, "name": "Red Chilli Powder", "ingredientSlug": "red-chilli-powder", "amount": 0.5, "unit": "tsp" },
+    { "id": 9, "name": "Garam Masala", "ingredientSlug": "garam-masala", "amount": 0.25, "unit": "tsp" },
+    { "id": 10, "name": "Salt", "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
   ],
   "steps": [
     {
-      "id": "boil-dal",
-      "summary": "Cook the dal until completely soft and creamy.",
-      "duration": "20 min",
+      "order": 1,
+      "instruction": "Cook the dal until completely soft and creamy.",
+      "duration": 20,
+      "tips": ["Add a small piece of butter while boiling for extra creaminess."],
       "subSteps": [
         "Drain soaked dal and transfer to a heavy pot.",
         "Add 3 cups water, turmeric, and 1/2 tsp salt.",
         "Bring to a boil over high heat, then reduce to medium-low.",
         "Cover and simmer for 20 minutes, stirring occasionally.",
         "Mash lightly with the back of a ladle until creamy."
-      ],
-      "tip": "Add a small piece of butter while boiling for extra creaminess."
+      ]
     },
     {
-      "id": "make-tadka",
-      "summary": "Prepare the fragrant ghee tempering (tadka).",
-      "duration": "5 min",
+      "order": 2,
+      "instruction": "Prepare the fragrant ghee tempering (tadka).",
+      "duration": 5,
       "subSteps": [
         "Heat ghee in a small pan over medium-high heat until shimmering.",
         "Add cumin seeds — they should sizzle and pop within 10 seconds.",
@@ -70,9 +68,9 @@
       ]
     },
     {
-      "id": "combine",
-      "summary": "Pour the tadka over the dal and simmer together.",
-      "duration": "5 min",
+      "order": 3,
+      "instruction": "Pour the tadka over the dal and simmer together.",
+      "duration": 5,
       "subSteps": [
         "Pour the hot tadka directly over the cooked dal.",
         "Stir to combine and adjust salt.",

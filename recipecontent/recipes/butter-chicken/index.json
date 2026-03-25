@@ -2,31 +2,31 @@
   "slug": "butter-chicken",
   "title": "Butter Chicken",
   "description": "Tender chicken in a creamy, buttery tomato sauce. A crowd-pleaser and restaurant favourite.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=400",
   "heroImageUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=800",
-  "defaultServings": 4,
+  "difficulty": "medium",
   "prepTime": 30,
   "cookTime": 25,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["North Indian", "Mughlai"],
+  "dietaryTags": [],
+  "healthTags": ["high-protein"],
+  "category": "Chicken",
   "variants": [
     {
-      "id": "standard",
-      "label": "Standard",
-      "description": "Classic creamy version",
-      "isDefault": true,
+      "name": "Standard",
       "adjustments": {}
     },
     {
-      "id": "spicy",
-      "label": "Extra Spicy",
-      "description": "With more chilli and spices",
+      "name": "Extra Spicy",
       "adjustments": {
         "red-chilli-powder": { "multiplier": 1.5 },
         "garam-masala": { "multiplier": 1.5 }
       }
     },
     {
-      "id": "light",
-      "label": "Light Version",
-      "description": "Less cream and butter",
+      "name": "Light Version",
       "adjustments": {
         "heavy-cream": { "multiplier": 0.5 },
         "butter": { "multiplier": 0.5 }
@@ -34,27 +34,27 @@
     }
   ],
   "ingredients": [
-    { "ingredientSlug": "chicken", "amount": 600, "unit": "g", "notes": "boneless, cut into chunks" },
-    { "ingredientSlug": "yogurt", "amount": 0.5, "unit": "cup", "notes": "for marination" },
-    { "ingredientSlug": "tomato-puree", "amount": 1, "unit": "cup" },
-    { "ingredientSlug": "heavy-cream", "amount": 0.75, "unit": "cup" },
-    { "ingredientSlug": "butter", "amount": 3, "unit": "tbsp" },
-    { "ingredientSlug": "onion", "amount": 2, "unit": "large", "notes": "chopped" },
-    { "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
-    { "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
-    { "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole" },
-    { "ingredientSlug": "garam-masala", "amount": 1, "unit": "tsp" },
-    { "ingredientSlug": "red-chilli-powder", "amount": 1, "unit": "tsp" },
-    { "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
-    { "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
-    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" },
-    { "ingredientSlug": "cilantro", "amount": 2, "unit": "tbsp", "notes": "for garnish" }
+    { "id": 1, "name": "Chicken", "ingredientSlug": "chicken", "amount": 600, "unit": "g", "notes": "boneless, cut into chunks" },
+    { "id": 2, "name": "Yogurt", "ingredientSlug": "yogurt", "amount": 0.5, "unit": "cup", "notes": "for marination" },
+    { "id": 3, "name": "Tomato Puree", "ingredientSlug": "tomato-puree", "amount": 1, "unit": "cup" },
+    { "id": 4, "name": "Heavy Cream", "ingredientSlug": "heavy-cream", "amount": 0.75, "unit": "cup" },
+    { "id": 5, "name": "Butter", "ingredientSlug": "butter", "amount": 3, "unit": "tbsp" },
+    { "id": 6, "name": "Onion", "ingredientSlug": "onion", "amount": 2, "unit": "large", "notes": "chopped" },
+    { "id": 7, "name": "Ginger", "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
+    { "id": 8, "name": "Garlic", "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
+    { "id": 9, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole" },
+    { "id": 10, "name": "Garam Masala", "ingredientSlug": "garam-masala", "amount": 1, "unit": "tsp" },
+    { "id": 11, "name": "Red Chilli Powder", "ingredientSlug": "red-chilli-powder", "amount": 1, "unit": "tsp" },
+    { "id": 12, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
+    { "id": 13, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
+    { "id": 14, "name": "Salt", "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" },
+    { "id": 15, "name": "Cilantro", "ingredientSlug": "cilantro", "amount": 2, "unit": "tbsp", "notes": "for garnish" }
   ],
   "steps": [
     {
-      "id": "marinate",
-      "summary": "Marinate chicken in yogurt and spices.",
-      "duration": "30 min",
+      "order": 1,
+      "instruction": "Marinate chicken in yogurt and spices.",
+      "duration": 30,
       "subSteps": [
         "Mix yogurt with turmeric, red chilli powder, 1/2 tsp salt, and ginger-garlic paste.",
         "Add chicken chunks and mix well.",
@@ -64,9 +64,10 @@
       ]
     },
     {
-      "id": "make-sauce",
-      "summary": "Prepare the creamy tomato-butter sauce.",
-      "duration": "20 min",
+      "order": 2,
+      "instruction": "Prepare the creamy tomato-butter sauce.",
+      "duration": 20,
+      "tips": ["The sauce should be smooth and rich. If too thick, add a splash of water."],
       "subSteps": [
         "Melt butter in a large pan over medium heat.",
         "Add cumin seeds and let them sizzle.",
@@ -78,13 +79,12 @@
         "Cook for 2 minutes for spices to bloom.",
         "Pour in heavy cream and stir well.",
         "Simmer for 3-4 minutes on low heat."
-      ],
-      "tip": "The sauce should be smooth and rich. If too thick, add a splash of water."
+      ]
     },
     {
-      "id": "combine",
-      "summary": "Add cooked chicken to the sauce and simmer.",
-      "duration": "5 min",
+      "order": 3,
+      "instruction": "Add cooked chicken to the sauce and simmer.",
+      "duration": 5,
       "subSteps": [
         "Add cooked chicken pieces to the sauce.",
         "Stir gently to coat all pieces with sauce.",

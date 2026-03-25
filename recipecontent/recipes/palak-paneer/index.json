@@ -1,23 +1,26 @@
 {
   "slug": "palak-paneer",
   "title": "Palak Paneer",
-  "description": "Creamy spinach curry with soft cottage cheese cubes. A restaurant favourite at any Indian kitchen.",
+  "description": "Creamy spinach curry with soft cottage cheese cubes. A restaurant favourite.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
   "heroImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800",
-  "defaultServings": 4,
+  "difficulty": "medium",
   "prepTime": 20,
   "cookTime": 25,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["North Indian"],
+  "dietaryTags": ["vegetarian"],
+  "healthTags": ["high-protein", "iron-rich"],
+  "category": "Paneer",
+  "featured": true,
   "variants": [
     {
-      "id": "standard",
-      "label": "Standard",
-      "description": "Classic creamy version",
-      "isDefault": true,
+      "name": "Standard",
       "adjustments": {}
     },
     {
-      "id": "light",
-      "label": "Light & Healthy",
-      "description": "Less cream, more veggies",
+      "name": "Light & Healthy",
       "adjustments": {
         "heavy-cream": { "multiplier": 0.5 },
         "ghee": { "multiplier": 0.75 }
@@ -25,23 +28,23 @@
     }
   ],
   "ingredients": [
-    { "ingredientSlug": "spinach", "amount": 500, "unit": "g", "notes": "fresh or frozen" },
-    { "ingredientSlug": "paneer", "amount": 250, "unit": "g", "notes": "cubed" },
-    { "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
-    { "ingredientSlug": "onion", "amount": 1, "unit": "large", "notes": "chopped" },
-    { "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
-    { "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
-    { "ingredientSlug": "tomato", "amount": 2, "unit": "medium", "notes": "chopped" },
-    { "ingredientSlug": "heavy-cream", "amount": 0.5, "unit": "cup" },
-    { "ingredientSlug": "cumin-seeds", "amount": 0.5, "unit": "tsp" },
-    { "ingredientSlug": "garam-masala", "amount": 0.5, "unit": "tsp" },
-    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
+    { "id": 1, "name": "Spinach", "ingredientSlug": "spinach", "amount": 500, "unit": "g", "notes": "fresh or frozen" },
+    { "id": 2, "name": "Paneer", "ingredientSlug": "paneer", "amount": 250, "unit": "g", "notes": "cubed" },
+    { "id": 3, "name": "Ghee", "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
+    { "id": 4, "name": "Onion", "ingredientSlug": "onion", "amount": 1, "unit": "large", "notes": "chopped" },
+    { "id": 5, "name": "Garlic", "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
+    { "id": 6, "name": "Ginger", "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
+    { "id": 7, "name": "Tomato", "ingredientSlug": "tomato", "amount": 2, "unit": "medium", "notes": "chopped" },
+    { "id": 8, "name": "Heavy Cream", "ingredientSlug": "heavy-cream", "amount": 0.5, "unit": "cup" },
+    { "id": 9, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 0.5, "unit": "tsp" },
+    { "id": 10, "name": "Garam Masala", "ingredientSlug": "garam-masala", "amount": 0.5, "unit": "tsp" },
+    { "id": 11, "name": "Salt", "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
   ],
   "steps": [
     {
-      "id": "blanch-spinach",
-      "summary": "Blanch and blend spinach into a smooth paste.",
-      "duration": "5 min",
+      "order": 1,
+      "instruction": "Blanch and blend spinach into a smooth paste.",
+      "duration": 5,
       "subSteps": [
         "Bring water to boil and add fresh spinach.",
         "Blanch for 2 minutes until soft.",
@@ -50,9 +53,9 @@
       ]
     },
     {
-      "id": "prepare-base",
-      "summary": "Sauté aromatics and tomatoes for the curry base.",
-      "duration": "10 min",
+      "order": 2,
+      "instruction": "Sauté aromatics and tomatoes for the curry base.",
+      "duration": 10,
       "subSteps": [
         "Heat ghee in a large pan.",
         "Add cumin seeds and let them sizzle.",
@@ -62,9 +65,9 @@
       ]
     },
     {
-      "id": "combine",
-      "summary": "Add spinach paste and paneer, finish with cream.",
-      "duration": "10 min",
+      "order": 3,
+      "instruction": "Add spinach paste and paneer, finish with cream.",
+      "duration": 10,
       "subSteps": [
         "Pour spinach paste into the pan.",
         "Stir well and cook for 3 minutes.",

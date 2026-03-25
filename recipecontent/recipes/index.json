@@ -3,6 +3,7 @@
     "slug": "dal-tadka",
     "title": "Dal Tadka",
     "description": "Creamy yellow lentils tempered with ghee and aromatic spices. A North Indian staple.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=400",
     "cuisines": ["North Indian"],
     "dietaryTags": ["vegetarian", "gluten-free"],
     "healthTags": ["diabetic-friendly", "heart-healthy"],
@@ -10,16 +11,16 @@
     "difficulty": "easy",
     "prepTime": 15,
     "cookTime": 30,
-    "defaultServings": 4,
+    "servings": 4,
     "featured": true,
     "popular": true,
-    "publishedAt": "2026-03-24T00:00:00Z",
-    "dataUrl": "https://raw.githubusercontent.com/Roopesht/recipecontent/main/content/recipes/dal-tadka/index.json"
+    "publishedAt": "2026-03-24T00:00:00Z"
   },
   {
     "slug": "palak-paneer",
     "title": "Palak Paneer",
     "description": "Creamy spinach curry with soft cottage cheese cubes. A restaurant favourite.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
     "cuisines": ["North Indian"],
     "dietaryTags": ["vegetarian"],
     "healthTags": ["high-protein", "iron-rich"],
@@ -27,15 +28,15 @@
     "difficulty": "medium",
     "prepTime": 20,
     "cookTime": 25,
-    "defaultServings": 4,
+    "servings": 4,
     "featured": true,
-    "publishedAt": "2026-03-23T00:00:00Z",
-    "dataUrl": "https://raw.githubusercontent.com/Roopesht/recipecontent/main/content/recipes/palak-paneer/index.json"
+    "publishedAt": "2026-03-23T00:00:00Z"
   },
   {
     "slug": "masala-dosa",
     "title": "Masala Dosa",
     "description": "Crispy rice and lentil crepe filled with spiced potato. South Indian breakfast classic.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cda1ec?w=400",
     "cuisines": ["South Indian"],
     "dietaryTags": ["vegetarian", "gluten-free"],
     "healthTags": ["low-calorie"],
@@ -43,15 +44,15 @@
     "difficulty": "hard",
     "prepTime": 480,
     "cookTime": 20,
-    "defaultServings": 2,
+    "servings": 2,
     "popular": true,
-    "publishedAt": "2026-03-22T00:00:00Z",
-    "dataUrl": "https://raw.githubusercontent.com/Roopesht/recipecontent/main/content/recipes/masala-dosa/index.json"
+    "publishedAt": "2026-03-22T00:00:00Z"
   },
   {
     "slug": "chole-bhature",
     "title": "Chole Bhature",
     "description": "Spiced chickpea curry with deep-fried fluffy bread. A Punjabi favourite.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1589301760014-d929fb3b6f10?w=400",
     "cuisines": ["Punjabi"],
     "dietaryTags": ["vegetarian"],
     "healthTags": [],
@@ -59,15 +60,15 @@
     "difficulty": "medium",
     "prepTime": 480,
     "cookTime": 30,
-    "defaultServings": 4,
+    "servings": 4,
     "featured": true,
-    "publishedAt": "2026-03-21T00:00:00Z",
-    "dataUrl": "https://raw.githubusercontent.com/Roopesht/recipecontent/main/content/recipes/chole-bhature/index.json"
+    "publishedAt": "2026-03-21T00:00:00Z"
   },
   {
     "slug": "biryani",
     "title": "Hyderabadi Biryani",
     "description": "Fragrant rice layered with marinated meat. A celebratory one-pot meal.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1603945652529-7490c3367b88?w=400",
     "cuisines": ["Hyderabadi", "North Indian"],
     "dietaryTags": [],
     "healthTags": ["high-protein"],
@@ -75,15 +76,15 @@
     "difficulty": "hard",
     "prepTime": 180,
     "cookTime": 45,
-    "defaultServings": 6,
+    "servings": 6,
     "popular": true,
-    "publishedAt": "2026-03-20T00:00:00Z",
-    "dataUrl": "https://raw.githubusercontent.com/Roopesht/recipecontent/main/content/recipes/biryani/index.json"
+    "publishedAt": "2026-03-20T00:00:00Z"
   },
   {
     "slug": "butter-chicken",
     "title": "Butter Chicken",
     "description": "Tender chicken in a creamy, buttery tomato sauce. A crowd-pleaser.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=400",
     "cuisines": ["North Indian", "Mughlai"],
     "dietaryTags": [],
     "healthTags": ["high-protein"],
@@ -91,8 +92,7 @@
     "difficulty": "medium",
     "prepTime": 30,
     "cookTime": 25,
-    "defaultServings": 4,
-    "publishedAt": "2026-03-19T00:00:00Z",
-    "dataUrl": "https://raw.githubusercontent.com/Roopesht/recipecontent/main/content/recipes/butter-chicken/index.json"
+    "servings": 4,
+    "publishedAt": "2026-03-19T00:00:00Z"
   }
 ]
