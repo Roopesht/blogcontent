@@ -47,6 +47,19 @@
         "Cut into 1-inch cubes.",
         "Keep aside until needed."
       ]
+    },
+    {
+      "order": 3,
+      "instruction": "Chop and prepare aromatics.",
+      "duration": 10,
+      "subSteps": [
+        "Chop onion into medium pieces.",
+        "Mince garlic cloves finely.",
+        "Mince ginger finely.",
+        "Chop tomatoes into small pieces.",
+        "Measure out cumin seeds, garam masala, and salt.",
+        "Keep ghee and heavy cream ready."
+      ]
     }
   ],
   "ingredients": [

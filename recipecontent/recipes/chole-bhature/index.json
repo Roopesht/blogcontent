@@ -43,13 +43,16 @@
     },
     {
       "order": 2,
-      "instruction": "Prepare aromatics and spices.",
-      "duration": 5,
+      "instruction": "Prepare aromatics and vegetables.",
+      "duration": 10,
       "subSteps": [
-        "Finely chop onions.",
+        "Finely chop onions into medium pieces.",
         "Mince ginger and garlic together.",
         "Slit green chillies lengthwise.",
-        "Keep all spices measured and ready."
+        "Crush or finely chop tomatoes.",
+        "Measure out cumin seeds, garam masala, red chilli powder, and turmeric.",
+        "Keep salt ready.",
+        "Have oil measured and ready."
       ]
     }
   ],

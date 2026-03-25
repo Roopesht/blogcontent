@@ -48,6 +48,16 @@
         "Deep fry onions in ghee until golden brown and crispy (reserve for garnish).",
         "Keep cilantro and mint leaves ready for garnishing."
       ]
+    },
+    {
+      "order": 3,
+      "instruction": "Measure and prepare whole spices.",
+      "duration": 5,
+      "subSteps": [
+        "Slit green chillies lengthwise.",
+        "Measure out bay leaves, cinnamon stick, green cardamom pods, black cardamom pods, cloves, and cumin seeds.",
+        "Arrange all spices in small bowls for easy access during cooking."
+      ]
     }
   ],
   "ingredients": [

@@ -39,6 +39,18 @@
         "Soak in 3 cups water for 30 minutes.",
         "This helps the dal cook faster and become creamier."
       ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare vegetables and spices.",
+      "duration": 10,
+      "subSteps": [
+        "Chop tomato into small pieces.",
+        "Slit green chillies lengthwise.",
+        "Mince garlic cloves finely.",
+        "Measure out cumin seeds, red chilli powder, garam masala, and salt.",
+        "Keep ghee ready in a small bowl."
+      ]
     }
   ],
   "ingredients": [

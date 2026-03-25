@@ -41,12 +41,15 @@
     {
       "order": 2,
       "instruction": "Prepare potato filling ingredients.",
-      "duration": 10,
+      "duration": 15,
       "subSteps": [
         "Boil potatoes until completely soft (10-15 minutes).",
-        "Peel and keep aside.",
+        "Peel potatoes while warm and keep aside.",
         "Chop onion into small pieces.",
-        "Slit green chillies lengthwise."
+        "Slit green chillies lengthwise.",
+        "Measure out mustard seeds, cumin seeds, turmeric, and salt.",
+        "Pluck fresh curry leaves from stems.",
+        "Keep ghee ready in a bowl."
       ]
     }
   ],
