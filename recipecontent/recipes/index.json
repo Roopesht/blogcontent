@@ -1,5 +1,21 @@
 [
   {
+    "slug": "bendakaya-roti-pachadi",
+    "title": "Bendakaya Roti Pachadi",
+    "description": "A classic Andhra-style okra chutney made with tamarind and finished with aromatic tempering. Best enjoyed with hot rice and ghee or soft chapati.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1604908554027-1c9c1c3f2a6b",
+    "cuisines": ["Andhra"],
+    "dietaryTags": ["vegetarian"],
+    "healthTags": [],
+    "category": "Chutney",
+    "difficulty": "easy",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 3,
+    "featured": true,
+    "publishedAt": "2026-03-25T00:00:00Z"
+  },
+  {
     "slug": "dal-tadka",
     "title": "Dal Tadka",
     "description": "Creamy yellow lentils tempered with ghee and aromatic spices. A North Indian staple.",

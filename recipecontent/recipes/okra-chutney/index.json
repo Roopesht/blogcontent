@@ -1,0 +1,193 @@
+{
+  "slug": "bendakaya-roti-pachadi",
+  "title": "Bendakaya Roti Pachadi",
+  "description": "A classic Andhra-style okra chutney made with tamarind and finished with aromatic tempering. Best enjoyed with hot rice and ghee or soft chapati.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1604908554027-1c9c1c3f2a6b",
+  "heroImageUrl": "https://images.unsplash.com/photo-1604908554027-1c9c1c3f2a6b",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": ["Andhra"],
+  "dietaryTags": ["vegetarian"],
+  "healthTags": [],
+  "category": "Chutney",
+  "featured": true,
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Wash and prepare all ingredients.",
+      "duration": 10,
+      "tips": [
+        "Ensure okra is completely dry before cooking to prevent sliminess."
+      ],
+      "subSteps": [
+        "Wash okra thoroughly and pat completely dry with a cloth.",
+        "Chop okra into small 1/4 inch pieces.",
+        "Chop onion into small pieces.",
+        "Slit green chillies lengthwise.",
+        "Peel and lightly crush garlic cloves.",
+        "Soak tamarind in warm water for 5 minutes and extract thick pulp."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Okra",
+      "ingredientSlug": "okra",
+      "amount": 250,
+      "unit": "g",
+      "notes": "washed, dried, chopped"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "chopped"
+    },
+    {
+      "id": 3,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 4,
+      "unit": "whole",
+      "notes": "slit"
+    },
+    {
+      "id": 4,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 8,
+      "unit": "cloves",
+      "notes": "5 for chutney, 3 for tempering"
+    },
+    {
+      "id": 5,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "lemon-sized",
+      "notes": "soaked and pulp extracted"
+    },
+    {
+      "id": 6,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "2 tbsp for cooking, 1 tbsp for tempering"
+    },
+    {
+      "id": 7,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "1 tsp in chutney, 0.5 tsp in tempering"
+    },
+    {
+      "id": 8,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 9,
+      "name": "Dry Red Chilli",
+      "ingredientSlug": "dry-red-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "for tempering"
+    },
+    {
+      "id": 10,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig",
+      "notes": "for tempering"
+    },
+    {
+      "id": 11,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.75,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook okra until dry and non-sticky.",
+      "duration": 15,
+      "tips": [
+        "Do not cover the pan, moisture will make okra sticky.",
+        "Cook until it looks slightly crisp and separated."
+      ],
+      "subSteps": [
+        "Heat 2 tbsp oil in a pan on medium flame.",
+        "Add chopped okra and sauté uncovered.",
+        "Cook for 12–15 minutes, stirring occasionally.",
+        "Okra will first release moisture, then turn dry and non-sticky.",
+        "Ensure it is fully cooked and slightly crisp."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Add aromatics and grind chutney.",
+      "duration": 5,
+      "subSteps": [
+        "Turn off the heat and add green chillies, garlic, and onion.",
+        "Mix well with residual heat until onions soften slightly.",
+        "Allow mixture to cool completely.",
+        "Transfer to mixer jar.",
+        "Add tamarind pulp and salt.",
+        "Grind to coarse or smooth consistency without adding water.",
+        "Transfer to serving bowl."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare tempering and finish.",
+      "duration": 5,
+      "subSteps": [
+        "Heat 1 tbsp oil in a small pan.",
+        "Add mustard seeds and let them splutter.",
+        "Add cumin seeds and sauté for 20–30 seconds.",
+        "Add dry red chillies and curry leaves.",
+        "Add crushed garlic and sauté until golden and fragrant.",
+        "Pour hot tempering over chutney.",
+        "Mix well before serving."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Spicy",
+      "adjustments": {
+        "green-chilli": { "multiplier": 1.5 },
+        "dry-red-chilli": { "multiplier": 1.5 }
+      }
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Bendakaya Roti Pachadi Recipe | Andhra Okra Chutney",
+    "metaDescription": "Authentic Andhra bendakaya roti pachadi made with okra, tamarind, and tempering. Simple, flavorful chutney for rice or chapati."
+  }
+}
