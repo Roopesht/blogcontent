@@ -1,0 +1,71 @@
+{
+  "slug": "turmeric",
+  "names": {
+    "en": "Turmeric",
+    "hi": "हल्दी (Haldi)",
+    "kn": "ಅರಿಶಿನ (Arishina)",
+    "ta": "மஞ்சள் (Manjal)",
+    "te": "పసుపు (Pasupu)",
+    "ml": "മഞ്ഞൾ (Manjal)"
+  },
+  "photoUrl": "https://images.unsplash.com/photo-1596040708322-af30d8c50f56?w=400",
+  "description": "A bright golden rhizome from the ginger family, essential to Indian cooking. Turmeric is prized for its warm, earthy flavor and powerful medicinal properties rooted in Ayurvedic tradition.",
+  "flavorProfile": "Earthy, slightly bitter, warm, mildly peppery with subtle sweetness",
+  "nutritionalProperties": [
+    {
+      "nutrient": "Curcumin",
+      "per100g": "3g",
+      "note": "Primary bioactive compound with anti-inflammatory properties"
+    },
+    {
+      "nutrient": "Iron",
+      "per100g": "41.4 mg"
+    },
+    {
+      "nutrient": "Manganese",
+      "per100g": "7.83 mg"
+    },
+    {
+      "nutrient": "Vitamin C",
+      "per100g": "25.9 mg"
+    },
+    {
+      "nutrient": "Fiber",
+      "per100g": "6.7 g"
+    }
+  ],
+  "medicinalProperties": [
+    {
+      "property": "Anti-inflammatory",
+      "description": "Curcumin in turmeric is a potent anti-inflammatory agent that inhibits NF-κB, a key inflammatory pathway. Used in Ayurveda for joint pain, arthritis, and general inflammation.",
+      "sources": ["Aggarwal BB et al., Biochem Pharmacol. 2007"]
+    },
+    {
+      "property": "Antioxidant",
+      "description": "Turmeric neutralizes free radicals and boosts the body's own antioxidant enzymes like superoxide dismutase and catalase.",
+      "sources": []
+    },
+    {
+      "property": "Digestive Aid",
+      "description": "Stimulates bile production and aids fat digestion. Traditional remedy for bloating, gas, and indigestion. Helps strengthen the digestive fire (Agni in Ayurveda).",
+      "sources": []
+    },
+    {
+      "property": "Brain Health",
+      "description": "May support cognitive function and potentially help prevent neurodegenerative diseases through its anti-inflammatory action.",
+      "sources": []
+    },
+    {
+      "property": "Liver Support",
+      "description": "Helps liver detoxification and protects against oxidative stress in the liver.",
+      "sources": []
+    }
+  ],
+  "commonSubstitutes": [
+    "Saffron (for color only, not flavor)",
+    "Annatto powder (for color in vegetarian dishes)",
+    "Ginger (for warmth and flavor, but not color)"
+  ],
+  "storageTips": "Store ground turmeric in an airtight container away from direct sunlight and heat. Keep in a cool, dark place. Fresh turmeric rhizomes can be refrigerated in a plastic bag for up to 3 weeks. Ground turmeric maintains potency for 6-12 months.",
+  "buyingTips": "Prefer organic turmeric for higher curcumin content. Look for bright, consistent golden color. Ceylon turmeric is considered premium. Avoid adulterated bright-orange powders which may contain lead oxide or other fillers. Buy whole rhizomes when possible and grind fresh for maximum potency."
+}

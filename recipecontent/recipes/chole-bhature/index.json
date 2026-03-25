@@ -1,0 +1,77 @@
+{
+  "slug": "chole-bhature",
+  "title": "Chole Bhature",
+  "description": "Spiced chickpea curry with deep-fried fluffy bread. A Punjabi favourite and street food staple.",
+  "heroImageUrl": "https://images.unsplash.com/photo-1589301760014-d929fb3b6f10?w=800",
+  "defaultServings": 4,
+  "prepTime": 480,
+  "cookTime": 30,
+  "variants": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Traditional Punjabi version",
+      "isDefault": true,
+      "adjustments": {}
+    },
+    {
+      "id": "mild",
+      "label": "Mild Spice",
+      "description": "For sensitive palates",
+      "adjustments": {
+        "red-chilli-powder": { "multiplier": 0.5 },
+        "garam-masala": { "multiplier": 0.75 }
+      }
+    }
+  ],
+  "ingredients": [
+    { "ingredientSlug": "chickpeas", "amount": 2, "unit": "cup", "notes": "soaked overnight, cooked" },
+    { "ingredientSlug": "onion", "amount": 2, "unit": "large", "notes": "finely chopped" },
+    { "ingredientSlug": "tomato", "amount": 3, "unit": "medium", "notes": "crushed" },
+    { "ingredientSlug": "ginger", "amount": 2, "unit": "tbsp", "notes": "minced" },
+    { "ingredientSlug": "garlic", "amount": 1, "unit": "tbsp", "notes": "minced" },
+    { "ingredientSlug": "green-chilli", "amount": 3, "unit": "whole" },
+    { "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "garam-masala", "amount": 1.5, "unit": "tsp" },
+    { "ingredientSlug": "red-chilli-powder", "amount": 2, "unit": "tsp" },
+    { "ingredientSlug": "turmeric", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "oil", "amount": 3, "unit": "tbsp" },
+    { "ingredientSlug": "salt", "amount": 1.5, "unit": "tsp", "notes": "to taste" }
+  ],
+  "steps": [
+    {
+      "id": "prepare-chole",
+      "summary": "Prepare chickpeas and cook until soft.",
+      "duration": "120 min",
+      "subSteps": [
+        "Soak chickpeas overnight (8-12 hours).",
+        "Drain and add fresh water.",
+        "Pressure cook for 4-5 whistles until completely soft.",
+        "Drain excess water, reserve 1 cup chickpea water.",
+        "Set aside."
+      ],
+      "tip": "Cooked chickpeas can be made a day ahead and stored in refrigerator."
+    },
+    {
+      "id": "make-curry",
+      "summary": "Prepare the flavorful chickpea curry.",
+      "duration": "30 min",
+      "subSteps": [
+        "Heat oil in a large pan, add cumin seeds.",
+        "Add finely chopped onions and cook until golden brown.",
+        "Add ginger, garlic, and green chillies, cook 2 minutes.",
+        "Add crushed tomatoes and cook until oil separates.",
+        "Add all spices: turmeric, red chilli powder, garam masala.",
+        "Cook spices for 1 minute in oil.",
+        "Add cooked chickpeas and reserved water.",
+        "Simmer for 10-12 minutes until flavors blend.",
+        "Adjust salt and spice according to taste."
+      ],
+      "tip": "The curry should be medium consistency — not too thick, not too watery."
+    }
+  ],
+  "seo": {
+    "metaTitle": "Chole Bhature Recipe — Authentic Punjabi Style",
+    "metaDescription": "Master this classic Punjabi recipe with step-by-step instructions for spiced chickpea curry."
+  }
+}

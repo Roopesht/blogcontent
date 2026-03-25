@@ -1,0 +1,79 @@
+{
+  "slug": "toor-dal",
+  "names": {
+    "en": "Toor Dal",
+    "hi": "तूर दाल / अरहर (Tur/Arhar)",
+    "kn": "ತೋರ ಬೀನ್ಸ್ (Tor Beans)",
+    "ta": "துவரம் பருப்பு (Tuvaram Paruppu)",
+    "te": "కందులు (Kandulu)",
+    "ml": "തുവര (Thuva)"
+  },
+  "photoUrl": "https://images.unsplash.com/photo-1599599810694-b5ac4dd37b61?w=400",
+  "description": "Golden yellow lentils from the pigeon pea plant, fundamental to Indian cuisine. Toor dal is a staple protein source in vegetarian diets and is celebrated for its subtle, slightly sweet flavor and creamy texture when cooked.",
+  "flavorProfile": "Subtle, slightly sweet, nutty, earthy, mild",
+  "nutritionalProperties": [
+    {
+      "nutrient": "Protein",
+      "per100g": "22 g",
+      "note": "Excellent plant-based protein source"
+    },
+    {
+      "nutrient": "Fiber",
+      "per100g": "15 g",
+      "note": "Supports digestive health"
+    },
+    {
+      "nutrient": "Iron",
+      "per100g": "5.23 mg",
+      "note": "Plant-based iron; pair with vitamin C for better absorption"
+    },
+    {
+      "nutrient": "Folate",
+      "per100g": "645 mcg",
+      "note": "Important for cell division"
+    },
+    {
+      "nutrient": "Manganese",
+      "per100g": "1.46 mg"
+    },
+    {
+      "nutrient": "Magnesium",
+      "per100g": "190 mg"
+    }
+  ],
+  "medicinalProperties": [
+    {
+      "property": "Blood Sugar Regulation",
+      "description": "High fiber content helps slow glucose absorption, making it beneficial for diabetics. The low glycemic index makes it a sustainable energy source.",
+      "sources": []
+    },
+    {
+      "property": "Heart Health",
+      "description": "Rich in polyphenols and fiber. Regular consumption is associated with lower cholesterol levels and reduced cardiovascular disease risk.",
+      "sources": []
+    },
+    {
+      "property": "Digestive Health",
+      "description": "Good source of resistant starch which feeds beneficial gut bacteria. Helps maintain healthy digestion and regular bowel movements.",
+      "sources": []
+    },
+    {
+      "property": "Iron for Vegetarians",
+      "description": "Plant-based iron source essential for vegetarians. Pair with vitamin C-rich foods for enhanced absorption.",
+      "sources": []
+    },
+    {
+      "property": "Weight Management",
+      "description": "High protein and fiber content promotes satiety and helps maintain healthy weight.",
+      "sources": []
+    }
+  ],
+  "commonSubstitutes": [
+    "Chana dal (smaller, milder flavor)",
+    "Moong dal (thinner, lighter)",
+    "Masur dal (red lentils, faster cooking)",
+    "White peas (thicker texture)"
+  ],
+  "storageTips": "Store dried toor dal in an airtight container in a cool, dry place away from moisture and sunlight. Properly stored dal lasts 1-2 years. Keep away from strong spices as it absorbs flavors easily. If you notice any discoloration or off smell, discard immediately.",
+  "buyingTips": "Choose clean, uniform golden-yellow dal without debris or discoloration. Avoid dal with an oily sheen (indicates age or poor storage). Buy from stores with high turnover for freshness. Organic, non-GMO toor dal is readily available. Check the date when purchasing—fresher dal cooks better and tastes superior."
+}

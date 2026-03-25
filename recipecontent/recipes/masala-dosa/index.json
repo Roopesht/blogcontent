@@ -1,0 +1,85 @@
+{
+  "slug": "masala-dosa",
+  "title": "Masala Dosa",
+  "description": "Crispy rice and lentil crepe filled with spiced potato. A South Indian breakfast classic.",
+  "heroImageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cda1ec?w=800",
+  "defaultServings": 2,
+  "prepTime": 480,
+  "cookTime": 20,
+  "variants": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Classic masala dosa",
+      "isDefault": true,
+      "adjustments": {}
+    },
+    {
+      "id": "paneer",
+      "label": "Paneer Dosa",
+      "description": "With paneer instead of potato",
+      "adjustments": {}
+    }
+  ],
+  "ingredients": [
+    { "ingredientSlug": "rice", "amount": 2, "unit": "cup", "notes": "for dosa, soaked 4 hours" },
+    { "ingredientSlug": "urad-dal", "amount": 0.75, "unit": "cup", "notes": "soaked 4 hours" },
+    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "potato", "amount": 3, "unit": "medium", "notes": "for filling" },
+    { "ingredientSlug": "onion", "amount": 1, "unit": "small", "notes": "for filling" },
+    { "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole", "notes": "for filling" },
+    { "ingredientSlug": "cumin-seeds", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "turmeric", "amount": 0.25, "unit": "tsp" },
+    { "ingredientSlug": "mustard-seeds", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "curry-leaves", "amount": 8, "unit": "leaves" },
+    { "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" }
+  ],
+  "steps": [
+    {
+      "id": "prepare-batter",
+      "summary": "Prepare dosa batter by grinding rice and dal.",
+      "duration": "360 min",
+      "subSteps": [
+        "Soak rice and urad dal separately for 4 hours.",
+        "Drain water completely.",
+        "Grind urad dal first until it becomes light and fluffy (about 10 minutes).",
+        "Add rice gradually and grind until smooth batter forms.",
+        "Mix in salt and let batter ferment overnight or 6-8 hours.",
+        "The batter should almost double in volume."
+      ],
+      "tip": "Fermented batter gives crispy dosas. You can skip fermentation but crispy texture may vary."
+    },
+    {
+      "id": "prepare-filling",
+      "summary": "Make the spiced potato filling.",
+      "duration": "15 min",
+      "subSteps": [
+        "Boil potatoes until soft and peel.",
+        "Mash potatoes lightly, keeping some chunks.",
+        "Heat ghee in a pan, add mustard seeds and let them pop.",
+        "Add curry leaves, green chillies, and onions.",
+        "Add mashed potatoes, turmeric, and salt.",
+        "Cook for 2 minutes and mix well."
+      ]
+    },
+    {
+      "id": "cook-dosa",
+      "summary": "Cook crispy dosas on a griddle.",
+      "duration": "20 min",
+      "subSteps": [
+        "Heat a dosa griddle or non-stick pan on high heat.",
+        "Pour a ladleful of batter in the center.",
+        "Immediately spread in circular motions to make thin crepe.",
+        "Drizzle ghee on edges.",
+        "When the bottom is golden, add a spoonful of filling.",
+        "Fold into triangle or roll and serve hot.",
+        "Serve with sambar and coconut chutney."
+      ],
+      "tip": "Use a spreader or the back of ladle to spread batter thin. First dosa might be imperfect — that's normal!"
+    }
+  ],
+  "seo": {
+    "metaTitle": "Masala Dosa Recipe — Crispy South Indian Breakfast",
+    "metaDescription": "Make crispy masala dosa at home with detailed step-by-step instructions for batter and filling."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "dal-tadka",
+  "title": "Dal Tadka",
+  "description": "Creamy toor dal tempered with ghee, garlic and whole spices. A comforting North Indian staple.",
+  "heroImageUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=800",
+  "defaultServings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "variants": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Balanced spice, stovetop method",
+      "isDefault": true,
+      "adjustments": {}
+    },
+    {
+      "id": "spicy",
+      "label": "Extra Spicy",
+      "description": "Doubles the green chilli and red chilli powder",
+      "adjustments": {
+        "green-chilli": { "multiplier": 2 },
+        "red-chilli-powder": { "multiplier": 2 }
+      }
+    },
+    {
+      "id": "quick",
+      "label": "Quick (Pressure Cooker)",
+      "description": "20 min total — skip soaking, use pressure cooker",
+      "adjustments": {}
+    }
+  ],
+  "ingredients": [
+    { "ingredientSlug": "toor-dal", "amount": 1, "unit": "cup", "notes": "washed, soaked 30 min" },
+    { "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
+    { "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
+    { "ingredientSlug": "tomato", "amount": 1, "unit": "medium", "notes": "chopped" },
+    { "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole", "notes": "slit" },
+    { "ingredientSlug": "red-chilli-powder", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "garam-masala", "amount": 0.25, "unit": "tsp" },
+    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
+  ],
+  "steps": [
+    {
+      "id": "boil-dal",
+      "summary": "Cook the dal until completely soft and creamy.",
+      "duration": "20 min",
+      "subSteps": [
+        "Drain soaked dal and transfer to a heavy pot.",
+        "Add 3 cups water, turmeric, and 1/2 tsp salt.",
+        "Bring to a boil over high heat, then reduce to medium-low.",
+        "Cover and simmer for 20 minutes, stirring occasionally.",
+        "Mash lightly with the back of a ladle until creamy."
+      ],
+      "tip": "Add a small piece of butter while boiling for extra creaminess."
+    },
+    {
+      "id": "make-tadka",
+      "summary": "Prepare the fragrant ghee tempering (tadka).",
+      "duration": "5 min",
+      "subSteps": [
+        "Heat ghee in a small pan over medium-high heat until shimmering.",
+        "Add cumin seeds — they should sizzle and pop within 10 seconds.",
+        "Add green chillies and cook 30 seconds.",
+        "Add minced garlic and cook until golden, about 1 minute.",
+        "Add chopped tomato and cook until completely softened, 3 minutes.",
+        "Stir in red chilli powder and garam masala. Cook 30 seconds."
+      ]
+    },
+    {
+      "id": "combine",
+      "summary": "Pour the tadka over the dal and simmer together.",
+      "duration": "5 min",
+      "subSteps": [
+        "Pour the hot tadka directly over the cooked dal.",
+        "Stir to combine and adjust salt.",
+        "Simmer together for 3–5 minutes for flavours to meld.",
+        "Garnish with fresh coriander."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Dal Tadka Recipe — Authentic Restaurant Style",
+    "metaDescription": "Make restaurant-style dal tadka at home with this easy step-by-step recipe. Creamy lentils with fragrant ghee tempering."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "butter-chicken",
+  "title": "Butter Chicken",
+  "description": "Tender chicken in a creamy, buttery tomato sauce. A crowd-pleaser and restaurant favourite.",
+  "heroImageUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=800",
+  "defaultServings": 4,
+  "prepTime": 30,
+  "cookTime": 25,
+  "variants": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Classic creamy version",
+      "isDefault": true,
+      "adjustments": {}
+    },
+    {
+      "id": "spicy",
+      "label": "Extra Spicy",
+      "description": "With more chilli and spices",
+      "adjustments": {
+        "red-chilli-powder": { "multiplier": 1.5 },
+        "garam-masala": { "multiplier": 1.5 }
+      }
+    },
+    {
+      "id": "light",
+      "label": "Light Version",
+      "description": "Less cream and butter",
+      "adjustments": {
+        "heavy-cream": { "multiplier": 0.5 },
+        "butter": { "multiplier": 0.5 }
+      }
+    }
+  ],
+  "ingredients": [
+    { "ingredientSlug": "chicken", "amount": 600, "unit": "g", "notes": "boneless, cut into chunks" },
+    { "ingredientSlug": "yogurt", "amount": 0.5, "unit": "cup", "notes": "for marination" },
+    { "ingredientSlug": "tomato-puree", "amount": 1, "unit": "cup" },
+    { "ingredientSlug": "heavy-cream", "amount": 0.75, "unit": "cup" },
+    { "ingredientSlug": "butter", "amount": 3, "unit": "tbsp" },
+    { "ingredientSlug": "onion", "amount": 2, "unit": "large", "notes": "chopped" },
+    { "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
+    { "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
+    { "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole" },
+    { "ingredientSlug": "garam-masala", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "red-chilli-powder", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" },
+    { "ingredientSlug": "cilantro", "amount": 2, "unit": "tbsp", "notes": "for garnish" }
+  ],
+  "steps": [
+    {
+      "id": "marinate",
+      "summary": "Marinate chicken in yogurt and spices.",
+      "duration": "30 min",
+      "subSteps": [
+        "Mix yogurt with turmeric, red chilli powder, 1/2 tsp salt, and ginger-garlic paste.",
+        "Add chicken chunks and mix well.",
+        "Let marinate for 30 minutes (or longer for better flavor).",
+        "Cook marinated chicken in a skillet until cooked through but not fully tender.",
+        "Set aside."
+      ]
+    },
+    {
+      "id": "make-sauce",
+      "summary": "Prepare the creamy tomato-butter sauce.",
+      "duration": "20 min",
+      "subSteps": [
+        "Melt butter in a large pan over medium heat.",
+        "Add cumin seeds and let them sizzle.",
+        "Add chopped onions and cook until golden.",
+        "Add minced ginger and garlic, cook for 1 minute.",
+        "Add tomato puree and cook for 5 minutes, stirring frequently.",
+        "The tomatoes should darken and oil should separate from sauce.",
+        "Add garam masala, red chilli powder, and salt.",
+        "Cook for 2 minutes for spices to bloom.",
+        "Pour in heavy cream and stir well.",
+        "Simmer for 3-4 minutes on low heat."
+      ],
+      "tip": "The sauce should be smooth and rich. If too thick, add a splash of water."
+    },
+    {
+      "id": "combine",
+      "summary": "Add cooked chicken to the sauce and simmer.",
+      "duration": "5 min",
+      "subSteps": [
+        "Add cooked chicken pieces to the sauce.",
+        "Stir gently to coat all pieces with sauce.",
+        "Simmer for 2-3 minutes on low heat.",
+        "Taste and adjust salt and spices.",
+        "Add a pinch of sugar if sauce is too acidic (optional).",
+        "Garnish with fresh cilantro and green chillies.",
+        "Serve hot with naan, rice, or paratha."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Butter Chicken Recipe — Creamy Restaurant Style",
+    "metaDescription": "Make authentic butter chicken at home with this easy step-by-step recipe. Perfect with naan and rice."
+  }
+}

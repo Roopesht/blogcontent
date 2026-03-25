@@ -1,0 +1,82 @@
+{
+  "slug": "palak-paneer",
+  "title": "Palak Paneer",
+  "description": "Creamy spinach curry with soft cottage cheese cubes. A restaurant favourite at any Indian kitchen.",
+  "heroImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800",
+  "defaultServings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "variants": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Classic creamy version",
+      "isDefault": true,
+      "adjustments": {}
+    },
+    {
+      "id": "light",
+      "label": "Light & Healthy",
+      "description": "Less cream, more veggies",
+      "adjustments": {
+        "heavy-cream": { "multiplier": 0.5 },
+        "ghee": { "multiplier": 0.75 }
+      }
+    }
+  ],
+  "ingredients": [
+    { "ingredientSlug": "spinach", "amount": 500, "unit": "g", "notes": "fresh or frozen" },
+    { "ingredientSlug": "paneer", "amount": 250, "unit": "g", "notes": "cubed" },
+    { "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
+    { "ingredientSlug": "onion", "amount": 1, "unit": "large", "notes": "chopped" },
+    { "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
+    { "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
+    { "ingredientSlug": "tomato", "amount": 2, "unit": "medium", "notes": "chopped" },
+    { "ingredientSlug": "heavy-cream", "amount": 0.5, "unit": "cup" },
+    { "ingredientSlug": "cumin-seeds", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "garam-masala", "amount": 0.5, "unit": "tsp" },
+    { "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
+  ],
+  "steps": [
+    {
+      "id": "blanch-spinach",
+      "summary": "Blanch and blend spinach into a smooth paste.",
+      "duration": "5 min",
+      "subSteps": [
+        "Bring water to boil and add fresh spinach.",
+        "Blanch for 2 minutes until soft.",
+        "Transfer to ice water to stop cooking.",
+        "Drain and blend into smooth paste."
+      ]
+    },
+    {
+      "id": "prepare-base",
+      "summary": "Sauté aromatics and tomatoes for the curry base.",
+      "duration": "10 min",
+      "subSteps": [
+        "Heat ghee in a large pan.",
+        "Add cumin seeds and let them sizzle.",
+        "Add chopped onions and cook until golden.",
+        "Add minced ginger and garlic, cook until fragrant.",
+        "Add tomatoes and cook until soft and mushy."
+      ]
+    },
+    {
+      "id": "combine",
+      "summary": "Add spinach paste and paneer, finish with cream.",
+      "duration": "10 min",
+      "subSteps": [
+        "Pour spinach paste into the pan.",
+        "Stir well and cook for 3 minutes.",
+        "Add garam masala and salt.",
+        "Gently add paneer cubes.",
+        "Pour in heavy cream and simmer for 3 minutes.",
+        "Taste and adjust seasoning."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Palak Paneer Recipe — Creamy Spinach Paneer Curry",
+    "metaDescription": "Learn how to make authentic palak paneer at home with fresh spinach and soft paneer in creamy sauce."
+  }
+}

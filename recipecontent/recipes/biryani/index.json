@@ -1,0 +1,90 @@
+{
+  "slug": "biryani",
+  "title": "Hyderabadi Biryani",
+  "description": "Fragrant rice layered with marinated meat and aromatic spices. A celebratory one-pot meal.",
+  "heroImageUrl": "https://images.unsplash.com/photo-1603945652529-7490c3367b88?w=800",
+  "defaultServings": 6,
+  "prepTime": 180,
+  "cookTime": 45,
+  "variants": [
+    {
+      "id": "standard",
+      "label": "Standard",
+      "description": "Classic Hyderabadi style with meat",
+      "isDefault": true,
+      "adjustments": {}
+    },
+    {
+      "id": "vegetarian",
+      "label": "Vegetarian",
+      "description": "With vegetables instead of meat",
+      "adjustments": {}
+    }
+  ],
+  "ingredients": [
+    { "ingredientSlug": "basmati-rice", "amount": 2, "unit": "cup", "notes": "soaked 30 min" },
+    { "ingredientSlug": "chicken", "amount": 800, "unit": "g", "notes": "cut into chunks" },
+    { "ingredientSlug": "yogurt", "amount": 1, "unit": "cup" },
+    { "ingredientSlug": "onion", "amount": 4, "unit": "large", "notes": "2 sliced, 2 fried" },
+    { "ingredientSlug": "ginger-garlic-paste", "amount": 2, "unit": "tbsp" },
+    { "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole" },
+    { "ingredientSlug": "cilantro", "amount": 0.25, "unit": "cup", "notes": "fresh" },
+    { "ingredientSlug": "mint", "amount": 0.25, "unit": "cup", "notes": "fresh" },
+    { "ingredientSlug": "ghee", "amount": 4, "unit": "tbsp" },
+    { "ingredientSlug": "bay-leaf", "amount": 3, "unit": "whole" },
+    { "ingredientSlug": "cinnamon", "amount": 1, "unit": "stick" },
+    { "ingredientSlug": "cardamom-green", "amount": 4, "unit": "pods" },
+    { "ingredientSlug": "cardamom-black", "amount": 2, "unit": "pods" },
+    { "ingredientSlug": "clove", "amount": 4, "unit": "whole" },
+    { "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
+    { "ingredientSlug": "salt", "amount": 2, "unit": "tsp", "notes": "to taste" }
+  ],
+  "steps": [
+    {
+      "id": "marinate",
+      "summary": "Marinate meat in yogurt and spices.",
+      "duration": "120 min",
+      "subSteps": [
+        "Mix yogurt with ginger-garlic paste and salt.",
+        "Add green chillies and half the cilantro-mint mixture.",
+        "Add chicken pieces and marinate for at least 2 hours.",
+        "Longer marination (4-6 hours or overnight) gives better flavor."
+      ]
+    },
+    {
+      "id": "cook-rice",
+      "summary": "Parboil rice with aromatic spices.",
+      "duration": "15 min",
+      "subSteps": [
+        "Bring water to boil with whole spices (bay leaf, cinnamon, cardamom, cloves).",
+        "Add soaked rice and salt.",
+        "Cook until 70% done (rice should be firm, not fully cooked).",
+        "Drain immediately."
+      ],
+      "tip": "Rice should still have a bite to it — it will fully cook in the biryani."
+    },
+    {
+      "id": "layer",
+      "summary": "Layer rice and marinated meat and cook together.",
+      "duration": "35 min",
+      "subSteps": [
+        "Heat ghee in a heavy-bottomed pot (preferably 5-liter capacity).",
+        "Layer half the marinated chicken at the bottom.",
+        "Spread half the parboiled rice over it.",
+        "Sprinkle remaining cilantro-mint, some fried onions.",
+        "Layer remaining chicken, then remaining rice.",
+        "Top with fried onions, cilantro, and mint.",
+        "Drizzle remaining ghee on top.",
+        "Cover with aluminum foil, then place a tight-fitting lid.",
+        "Cook on high heat for 2-3 minutes until steam forms.",
+        "Reduce to low heat and cook for 30 minutes (dum cooking).",
+        "Turn off heat and let it rest for 5 minutes without opening."
+      ],
+      "tip": "Dum cooking (steaming in a sealed pot) is key to biryani flavor and texture. Don't open the lid while cooking!"
+    }
+  ],
+  "seo": {
+    "metaTitle": "Hyderabadi Biryani Recipe — Authentic One-Pot Meal",
+    "metaDescription": "Learn to make restaurant-quality Hyderabadi biryani at home with this detailed recipe guide."
+  }
+}
