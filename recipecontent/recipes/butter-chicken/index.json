@@ -33,6 +33,33 @@
       }
     }
   ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare and marinate the chicken.",
+      "duration": 30,
+      "tips": ["Marinating for at least 30 minutes helps tenderize the chicken and infuse flavors. You can marinate for up to 4 hours for deeper flavor."],
+      "subSteps": [
+        "Cut chicken breasts into uniform bite-sized chunks (about 1.5 inches).",
+        "Mix yogurt with turmeric, red chilli powder, salt, and ginger-garlic paste.",
+        "Add chicken chunks and mix well to coat evenly.",
+        "Let marinate in the refrigerator for at least 30 minutes (overnight is even better)."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare aromatics and measure spices.",
+      "duration": 10,
+      "subSteps": [
+        "Chop onions into medium pieces.",
+        "Mince ginger and garlic together.",
+        "Slit green chillies lengthwise.",
+        "Measure out garam masala, red chilli powder, cumin seeds, and salt.",
+        "Keep tomato puree and heavy cream ready.",
+        "Chop fresh cilantro for garnish."
+      ]
+    }
+  ],
   "ingredients": [
     { "id": 1, "name": "Chicken", "ingredientSlug": "chicken", "amount": 600, "unit": "g", "notes": "boneless, cut into chunks" },
     { "id": 2, "name": "Yogurt", "ingredientSlug": "yogurt", "amount": 0.5, "unit": "cup", "notes": "for marination" },

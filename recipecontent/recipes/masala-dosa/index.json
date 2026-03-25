@@ -24,6 +24,32 @@
       "adjustments": {}
     }
   ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Soak rice and urad dal for dosa batter.",
+      "duration": 240,
+      "tips": ["This is the longest step - plan ahead. Longer soaking (4-8 hours) helps with fermentation"],
+      "subSteps": [
+        "Measure rice and urad dal separately.",
+        "Rinse both under running water until water runs clear.",
+        "Soak rice in water for 4 hours.",
+        "Soak urad dal in separate water for 4 hours.",
+        "Keep them separate - do not mix until grinding."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare potato filling ingredients.",
+      "duration": 10,
+      "subSteps": [
+        "Boil potatoes until completely soft (10-15 minutes).",
+        "Peel and keep aside.",
+        "Chop onion into small pieces.",
+        "Slit green chillies lengthwise."
+      ]
+    }
+  ],
   "ingredients": [
     { "id": 1, "name": "Rice", "ingredientSlug": "rice", "amount": 2, "unit": "cup", "notes": "for dosa, soaked 4 hours" },
     { "id": 2, "name": "Urad Dal", "ingredientSlug": "urad-dal", "amount": 0.75, "unit": "cup", "notes": "soaked 4 hours" },

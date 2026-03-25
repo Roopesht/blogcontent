@@ -27,6 +27,28 @@
       }
     }
   ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare spinach for blanching.",
+      "duration": 5,
+      "subSteps": [
+        "Wash fresh spinach thoroughly to remove any dirt.",
+        "Remove any thick stems if using fresh spinach.",
+        "Keep water ready for blanching in a large pot."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Cut and prepare paneer.",
+      "duration": 5,
+      "subSteps": [
+        "Remove paneer from package and drain any excess moisture.",
+        "Cut into 1-inch cubes.",
+        "Keep aside until needed."
+      ]
+    }
+  ],
   "ingredients": [
     { "id": 1, "name": "Spinach", "ingredientSlug": "spinach", "amount": 500, "unit": "g", "notes": "fresh or frozen" },
     { "id": 2, "name": "Paneer", "ingredientSlug": "paneer", "amount": 250, "unit": "g", "notes": "cubed" },

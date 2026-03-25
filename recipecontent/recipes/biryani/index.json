@@ -24,6 +24,32 @@
       "adjustments": {}
     }
   ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare and marinate the meat.",
+      "duration": 120,
+      "tips": ["Longer marination (overnight) significantly improves flavor. Plan ahead!"],
+      "subSteps": [
+        "Cut chicken into uniform chunks (1.5 to 2 inches).",
+        "Mix yogurt with ginger-garlic paste and salt.",
+        "Add green chillies and half the cilantro-mint mixture.",
+        "Add chicken and marinate for at least 2 hours (overnight is better).",
+        "Keep refrigerated."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Soak rice and prepare aromatics.",
+      "duration": 30,
+      "subSteps": [
+        "Soak basmati rice for 30 minutes in water.",
+        "Slice onions into thin rings.",
+        "Deep fry onions in ghee until golden brown and crispy (reserve for garnish).",
+        "Keep cilantro and mint leaves ready for garnishing."
+      ]
+    }
+  ],
   "ingredients": [
     { "id": 1, "name": "Basmati Rice", "ingredientSlug": "basmati-rice", "amount": 2, "unit": "cup", "notes": "soaked 30 min" },
     { "id": 2, "name": "Chicken", "ingredientSlug": "chicken", "amount": 800, "unit": "g", "notes": "cut into chunks" },

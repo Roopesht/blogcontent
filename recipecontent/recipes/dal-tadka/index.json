@@ -28,6 +28,19 @@
       }
     }
   ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Wash and soak the toor dal.",
+      "duration": 30,
+      "tips": ["Soaking is optional but recommended for creamier dal and faster cooking"],
+      "subSteps": [
+        "Rinse toor dal under running water until water runs clear.",
+        "Soak in 3 cups water for 30 minutes.",
+        "This helps the dal cook faster and become creamier."
+      ]
+    }
+  ],
   "ingredients": [
     { "id": 1, "name": "Toor Dal", "ingredientSlug": "toor-dal", "amount": 1, "unit": "cup", "notes": "washed, soaked 30 min" },
     { "id": 2, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
