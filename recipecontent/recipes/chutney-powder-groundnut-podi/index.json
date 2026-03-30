@@ -1,0 +1,169 @@
+{
+  "slug": "chutney-powder-groundnut-podi",
+  "title": "Chutney Powder (Groundnut Podi)",
+  "description": "A coarse, spicy, nutty powder made with roasted groundnuts, fried gram, dried chilies, and garlic. Used as a condiment with idli, dosa, or rice with oil.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 10,
+  "servings": 8,
+  "defaultServings": 8,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free", "vegan"],
+  "healthTags": ["high-protein"],
+  "category": "Chutney",
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Dry roast all ingredients separately.",
+      "duration": 10,
+      "tips": ["Cool completely before grinding to get a crisp, non-clumpy texture."],
+      "subSteps": [
+        "Dry roast groundnuts until skin starts to peel.",
+        "Dry roast red chilies until slightly darker.",
+        "Dry roast curry leaves until crisp.",
+        "Dry roast sesame seeds until lightly golden.",
+        "Cool all ingredients completely."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Groundnuts",
+      "ingredientSlug": "peanuts",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "roasted"
+    },
+    {
+      "id": 2,
+      "name": "Fried Gram",
+      "ingredientSlug": "fried-gram",
+      "amount": 0.25,
+      "unit": "cup"
+    },
+    {
+      "id": 3,
+      "name": "Dry Coconut",
+      "ingredientSlug": "dry-coconut",
+      "amount": 0.25,
+      "unit": "cup",
+      "notes": "optional"
+    },
+    {
+      "id": 4,
+      "name": "Sesame Seeds",
+      "ingredientSlug": "sesame-seeds",
+      "amount": 0.25,
+      "unit": "cup",
+      "notes": "optional"
+    },
+    {
+      "id": 5,
+      "name": "Dry Red Chili",
+      "ingredientSlug": "dry-red-chili",
+      "amount": 6,
+      "unit": "whole"
+    },
+    {
+      "id": 6,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 4,
+      "unit": "cloves"
+    },
+    {
+      "id": 7,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "handful",
+      "notes": "dried"
+    },
+    {
+      "id": 8,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Black Pepper",
+      "ingredientSlug": "black-pepper",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "small piece"
+    },
+    {
+      "id": 11,
+      "name": "Hing",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch"
+    },
+    {
+      "id": 12,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 13,
+      "name": "Jaggery",
+      "ingredientSlug": "jaggery",
+      "amount": 1,
+      "unit": "pinch",
+      "notes": "or sugar"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grind to coarse powder.",
+      "duration": 5,
+      "tips": [
+        "Keep the texture coarse, not fine.",
+        "Add 1–2 tsp oil while grinding for better flavor."
+      ],
+      "subSteps": [
+        "Add all cooled roasted ingredients into a mixer.",
+        "Add garlic, tamarind, hing, cumin, pepper, salt, and jaggery.",
+        "Pulse grind to a coarse texture.",
+        "Do not over-grind.",
+        "Store in an airtight container."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Spicy",
+      "adjustments": {
+        "dry-red-chili": { "multiplier": 1.5 }
+      }
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Groundnut Podi Recipe | Chutney Powder for Idli and Dosa",
+    "metaDescription": "Spicy and nutty South Indian groundnut podi (chutney powder) with garlic, dried chilies, and curry leaves. Perfect condiment for idli, dosa, or rice."
+  }
+}

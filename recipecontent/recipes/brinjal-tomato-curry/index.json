@@ -1,0 +1,229 @@
+{
+  "slug": "brinjal-tomato-curry",
+  "title": "Andhra Tomato Brinjal Curry",
+  "description": "A classic Andhra-style semi-thick curry with tender brinjal cooked in a spiced tomato base, finished with peanut powder for richness.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400",
+  "difficulty": "easy",
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": ["Andhra"],
+  "dietaryTags": ["vegetarian", "gluten-free"],
+  "healthTags": [],
+  "category": "Curry",
+  "featured": true,
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prep and soak brinjal.",
+      "duration": 10,
+      "tips": ["Soak cut brinjal in salted water to prevent browning."],
+      "subSteps": [
+        "Cut Indian brinjal into quarters.",
+        "Soak in salted water until ready to use.",
+        "Chop tomatoes and slice onion.",
+        "Slit green chilies.",
+        "Crush garlic cloves."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Indian Brinjal",
+      "ingredientSlug": "brinjal",
+      "amount": 600,
+      "unit": "g",
+      "notes": "cut into quarters, soaked in salt water"
+    },
+    {
+      "id": 2,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 3,
+      "unit": "medium",
+      "notes": "chopped"
+    },
+    {
+      "id": 3,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "large",
+      "notes": "sliced"
+    },
+    {
+      "id": 4,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 4,
+      "unit": "whole",
+      "notes": "slit"
+    },
+    {
+      "id": 5,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 5,
+      "unit": "cloves",
+      "notes": "crushed"
+    },
+    {
+      "id": 6,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 3,
+      "unit": "tbsp"
+    },
+    {
+      "id": 7,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.75,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.75,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig"
+    },
+    {
+      "id": 10,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 11,
+      "name": "Red Chili Powder",
+      "ingredientSlug": "red-chili-powder",
+      "amount": 1.75,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "Coriander Powder",
+      "ingredientSlug": "coriander-powder",
+      "amount": 1.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 13,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 14,
+      "name": "Tamarind Pulp",
+      "ingredientSlug": "tamarind",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "id": 15,
+      "name": "Peanut Powder",
+      "ingredientSlug": "peanuts",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "notes": "or chutney podi"
+    },
+    {
+      "id": 16,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 0.75,
+      "unit": "cup"
+    },
+    {
+      "id": 17,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "optional, to finish"
+    },
+    {
+      "id": 18,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "optional, to garnish"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Build the masala base.",
+      "duration": 10,
+      "subSteps": [
+        "Heat oil in a pan.",
+        "Add mustard seeds and let them splutter.",
+        "Add cumin seeds, curry leaves, green chilies, and garlic.",
+        "Add onion and sauté until soft.",
+        "Add tomatoes and cook until soft and pulpy.",
+        "Add turmeric, red chili powder, coriander powder, and salt. Mix well."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Cook the brinjal.",
+      "duration": 15,
+      "tips": ["Do not stir too aggressively to keep brinjal pieces intact."],
+      "subSteps": [
+        "Drain brinjal and add to the masala. Mix gently.",
+        "Add water.",
+        "Cover and cook on medium flame until brinjal is soft."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Finish and thicken.",
+      "duration": 5,
+      "subSteps": [
+        "Add tamarind pulp and peanut powder. Mix.",
+        "Slightly mash a few brinjal pieces for thickness.",
+        "Simmer for 2–3 minutes.",
+        "Finish with ghee and coriander leaves."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Spicy",
+      "adjustments": {
+        "red-chili-powder": { "multiplier": 1.5 },
+        "green-chili": { "multiplier": 1.5 }
+      }
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Andhra Tomato Brinjal Curry Recipe | Vankaya Tomato Kura",
+    "metaDescription": "Authentic Andhra vankaya tomato kura — a semi-thick brinjal curry with peanut powder, tamarind, and aromatic spices. Perfect with rice or chapati."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "slug": "paalu-poori",
+  "title": "Paalu Poori (Milk Poori with Kheera)",
+  "description": "A soft, mildly sweet dish where pooris are soaked in aromatic flavored milk (kheera) made with dry coconut, poppy seeds, and cardamom.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+  "difficulty": "medium",
+  "prepTime": 20,
+  "cookTime": 25,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian"],
+  "healthTags": [],
+  "category": "Breakfast",
+  "popular": true,
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare poori dough.",
+      "duration": 15,
+      "tips": ["Let the dough rest for at least 10 minutes for softer pooris."],
+      "subSteps": [
+        "Combine wheat flour, rava (optional), and a little salt.",
+        "Knead to a slightly stiff dough using water.",
+        "Rest for 10–15 minutes."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Wheat Flour",
+      "ingredientSlug": "wheat-flour",
+      "amount": 2,
+      "unit": "cups"
+    },
+    {
+      "id": 2,
+      "name": "Rava",
+      "ingredientSlug": "rava",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "optional, for slight texture"
+    },
+    {
+      "id": 3,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "pinch"
+    },
+    {
+      "id": 4,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 2,
+      "unit": "cups",
+      "notes": "for deep frying"
+    },
+    {
+      "id": 5,
+      "name": "Full-Fat Milk",
+      "ingredientSlug": "milk",
+      "amount": 2,
+      "unit": "cups"
+    },
+    {
+      "id": 6,
+      "name": "Sugar",
+      "ingredientSlug": "sugar",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 7,
+      "name": "Dry Coconut",
+      "ingredientSlug": "dry-coconut",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 8,
+      "name": "Poppy Seeds",
+      "ingredientSlug": "poppy-seeds",
+      "amount": 2,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "White Sesame Seeds",
+      "ingredientSlug": "sesame-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Cardamom",
+      "ingredientSlug": "cardamom",
+      "amount": 3,
+      "unit": "pods"
+    },
+    {
+      "id": 11,
+      "name": "Cashews",
+      "ingredientSlug": "cashews",
+      "amount": 5,
+      "unit": "whole"
+    },
+    {
+      "id": 12,
+      "name": "Almonds",
+      "ingredientSlug": "almonds",
+      "amount": 6,
+      "unit": "whole"
+    },
+    {
+      "id": 13,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "for frying nuts"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fry the pooris.",
+      "duration": 15,
+      "tips": ["Keep oil at medium heat — too hot makes pooris crisp, too cool makes them oily."],
+      "subSteps": [
+        "Roll small discs from rested dough.",
+        "Deep fry in medium-hot oil until puffed.",
+        "Drain and keep them soft (don't over-crisp)."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the kheera (flavored milk).",
+      "duration": 15,
+      "tips": [
+        "Stir continuously after adding paste to prevent lumps.",
+        "Consistency should be pourable, not thick like kheer."
+      ],
+      "subSteps": [
+        "Lightly warm poppy seeds and sesame (do not over-roast).",
+        "Lightly roast dry coconut.",
+        "Grind coconut + poppy seeds + sesame + cardamom into a fine paste.",
+        "Boil milk and simmer for 5–7 minutes.",
+        "Add sugar.",
+        "Add ground paste slowly, stirring continuously.",
+        "Cook until slightly thick.",
+        "Fry cashews and almonds in ghee and add to the milk."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Assemble and serve.",
+      "duration": 2,
+      "subSteps": [
+        "Slightly press the pooris.",
+        "Pour warm kheera over them.",
+        "Serve immediately or after light soaking."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Paalu Poori Recipe | Soft Poori with Milk Kheera",
+    "metaDescription": "Classic South Indian paalu poori — soft deep-fried pooris served with aromatic flavored milk made with dry coconut, poppy seeds, and cardamom."
+  }
+}

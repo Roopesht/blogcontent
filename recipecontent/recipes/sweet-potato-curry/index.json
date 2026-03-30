@@ -1,0 +1,150 @@
+{
+  "slug": "sweet-potato-curry",
+  "title": "Sweet Potato Curry (for Poori)",
+  "description": "A balanced curry using sweet potato with spice and tang. The natural sweetness of sweet potato is offset with tamarind or amchur for a harmonious side dish.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
+  "difficulty": "easy",
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": ["South Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free"],
+  "healthTags": ["low-calorie"],
+  "category": "Curry",
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Steam the sweet potato.",
+      "duration": 15,
+      "tips": ["Steam rather than boil to retain flavor and prevent waterlogging."],
+      "subSteps": [
+        "Wash and steam sweet potato until tender.",
+        "Peel and cube (or mash lightly).",
+        "Slice onion and slit green chilies."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Sweet Potato",
+      "ingredientSlug": "sweet-potato",
+      "amount": 400,
+      "unit": "g",
+      "notes": "steamed and cubed or mashed"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "sliced"
+    },
+    {
+      "id": 3,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "slit"
+    },
+    {
+      "id": 4,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 5,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 6,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig"
+    },
+    {
+      "id": 7,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.75,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 9,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 2,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Tamarind Water",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "or pinch of amchur"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare tempering and onion base.",
+      "duration": 7,
+      "subSteps": [
+        "Heat oil in a pan.",
+        "Add mustard seeds and let them splutter.",
+        "Add cumin seeds, curry leaves, and green chilies.",
+        "Add onion and sauté until soft."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Add sweet potato and finish.",
+      "duration": 5,
+      "tips": ["Always balance the natural sweetness of sweet potato with tang."],
+      "subSteps": [
+        "Add turmeric and salt. Mix.",
+        "Add steamed sweet potato.",
+        "Add tamarind water or amchur.",
+        "Mix and cook for 2–3 minutes."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Semi-gravy",
+      "adjustments": {}
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Sweet Potato Curry Recipe | Side Dish for Poori",
+    "metaDescription": "A quick and balanced sweet potato curry with mustard, curry leaves, and a hint of tamarind. Perfect as a side dish for poori or chapati."
+  }
+}

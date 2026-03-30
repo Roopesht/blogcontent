@@ -1,0 +1,185 @@
+{
+  "slug": "groundnut-coconut-chutney",
+  "title": "Groundnut Coconut Chutney",
+  "description": "A rich and creamy chutney combining roasted peanuts, dry coconut, fried gram, and green chilies. Finished with a classic mustard and curry leaf tempering.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 5,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free"],
+  "healthTags": ["high-protein"],
+  "category": "Chutney",
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Gather and prep ingredients.",
+      "duration": 5,
+      "tips": ["Use warm water while grinding for smoother blending."],
+      "subSteps": [
+        "Roast groundnuts if not already roasted.",
+        "Peel garlic and ginger.",
+        "Slit green chilies."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Groundnuts",
+      "ingredientSlug": "peanuts",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "roasted"
+    },
+    {
+      "id": 2,
+      "name": "Fried Gram",
+      "ingredientSlug": "fried-gram",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 3,
+      "name": "Dry Coconut",
+      "ingredientSlug": "dry-coconut",
+      "amount": 3,
+      "unit": "tbsp"
+    },
+    {
+      "id": 4,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 3,
+      "unit": "whole"
+    },
+    {
+      "id": 5,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1,
+      "unit": "small piece"
+    },
+    {
+      "id": 6,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 2,
+      "unit": "cloves",
+      "notes": "optional"
+    },
+    {
+      "id": 7,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "small piece"
+    },
+    {
+      "id": 8,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 9,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 0.25,
+      "unit": "cup",
+      "notes": "warm, for grinding"
+    },
+    {
+      "id": 10,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 11,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 13,
+      "name": "Dry Red Chili",
+      "ingredientSlug": "dry-red-chili",
+      "amount": 1,
+      "unit": "whole"
+    },
+    {
+      "id": 14,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig"
+    },
+    {
+      "id": 15,
+      "name": "Hing",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grind chutney.",
+      "duration": 5,
+      "tips": ["Add curd if the chutney feels too heavy or rich."],
+      "subSteps": [
+        "Add groundnuts, fried gram, dry coconut, green chilies, ginger, garlic, tamarind, and salt to a mixer.",
+        "Add warm water.",
+        "Grind to medium-thick consistency.",
+        "Transfer to a serving bowl."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare tempering and finish.",
+      "duration": 3,
+      "subSteps": [
+        "Heat oil in a small pan.",
+        "Add mustard seeds and let them splutter.",
+        "Add cumin seeds, dry red chili, curry leaves, and hing.",
+        "Pour hot tempering over chutney."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "With Curd",
+      "adjustments": {}
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Groundnut Coconut Chutney Recipe | Peanut Chutney for Idli Dosa",
+    "metaDescription": "Rich and creamy groundnut coconut chutney with fried gram, green chilies, and aromatic tempering. A perfect side for idli, dosa, or uthappam."
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "slug": "andhra-poha",
+  "title": "Andhra Style Poha (Atukula Upma)",
+  "description": "A simple, flavorful Andhra breakfast made with flattened rice, peanuts, mild spices, dry coconut, and a refreshing lemon finish.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 2,
+  "defaultServings": 2,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free"],
+  "healthTags": ["low-calorie"],
+  "category": "Breakfast",
+  "popular": true,
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prep the poha.",
+      "duration": 5,
+      "tips": ["Do not over-wash poha — it becomes mushy. A quick rinse is enough."],
+      "subSteps": [
+        "Take poha in a colander.",
+        "Rinse quickly under water (do not soak).",
+        "Let it rest for 5 minutes until soft and fluffy."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Poha",
+      "ingredientSlug": "poha",
+      "amount": 2,
+      "unit": "cups",
+      "notes": "medium thickness preferred"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 3,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 3,
+      "unit": "whole",
+      "notes": "slit or chopped"
+    },
+    {
+      "id": 4,
+      "name": "Peanuts",
+      "ingredientSlug": "peanuts",
+      "amount": 3,
+      "unit": "tbsp"
+    },
+    {
+      "id": 5,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 6,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 7,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig"
+    },
+    {
+      "id": 8,
+      "name": "Hing",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch",
+      "notes": "optional"
+    },
+    {
+      "id": 9,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.75,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 11,
+      "name": "Sugar",
+      "ingredientSlug": "sugar",
+      "amount": 1,
+      "unit": "pinch"
+    },
+    {
+      "id": 12,
+      "name": "Dry Coconut",
+      "ingredientSlug": "dry-coconut",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "finely grated or powdered"
+    },
+    {
+      "id": 13,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "id": 14,
+      "name": "Lemon",
+      "ingredientSlug": "lemon",
+      "amount": 0.5,
+      "unit": "whole",
+      "notes": "juice only"
+    },
+    {
+      "id": 15,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 2,
+      "unit": "tbsp"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Roast peanuts.",
+      "duration": 3,
+      "subSteps": [
+        "Heat oil in a pan.",
+        "Add peanuts and roast until crunchy.",
+        "Remove and keep aside."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare tempering and onion base.",
+      "duration": 5,
+      "subSteps": [
+        "In the same pan, add mustard seeds and let them splutter.",
+        "Add cumin seeds, curry leaves, and hing.",
+        "Add green chilies and sauté.",
+        "Add chopped onion and sauté until soft."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Add spices and combine poha.",
+      "duration": 5,
+      "tips": ["Mix gently to avoid mashing the poha."],
+      "subSteps": [
+        "Add turmeric and mix well.",
+        "Add softened poha.",
+        "Add salt and pinch of sugar.",
+        "Mix gently."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Steam finish and garnish.",
+      "duration": 3,
+      "tips": ["Always add lemon after turning off flame to preserve freshness."],
+      "subSteps": [
+        "Sprinkle 1–2 tbsp water.",
+        "Cover and cook on low flame for 2–3 minutes.",
+        "Turn off the flame.",
+        "Add lemon juice, dry coconut, roasted peanuts, and coriander leaves.",
+        "Mix gently and serve hot."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "With Podi",
+      "adjustments": {}
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Andhra Poha Recipe | Atukula Upma with Lemon and Dry Coconut",
+    "metaDescription": "Light and flavorful Andhra style poha (atukula upma) with peanuts, dry coconut, and lemon. A quick and healthy South Indian breakfast."
+  }
+}

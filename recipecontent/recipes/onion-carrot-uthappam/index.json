@@ -1,0 +1,158 @@
+{
+  "slug": "onion-carrot-uthappam",
+  "title": "Onion Carrot Uthappam",
+  "description": "Soft, thick dosa topped with onion, grated carrot, green chilies, and coriander. A hearty South Indian breakfast best served with chutney and sambar.",
+  "thumbnailUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=400",
+  "heroImageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=400",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 2,
+  "defaultServings": 2,
+  "cuisines": ["South Indian"],
+  "dietaryTags": ["vegetarian"],
+  "healthTags": ["low-calorie"],
+  "category": "Breakfast",
+
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare batter and toppings.",
+      "duration": 10,
+      "tips": ["Slightly fermented batter improves taste and texture significantly."],
+      "subSteps": [
+        "Finely chop onion.",
+        "Grate carrot.",
+        "Chop green chilies and coriander leaves.",
+        "Mix all vegetables and spices into the dosa batter.",
+        "Adjust salt if needed."
+      ]
+    }
+  ],
+
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Dosa/Idli Batter",
+      "ingredientSlug": "dosa-batter",
+      "amount": 2,
+      "unit": "cups",
+      "notes": "well fermented"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "ingredientSlug": "carrot",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "grated"
+    },
+    {
+      "id": 4,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 5,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "chopped"
+    },
+    {
+      "id": 6,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 7,
+      "name": "Black Pepper",
+      "ingredientSlug": "black-pepper",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "id": 8,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "grated, optional"
+    },
+    {
+      "id": 9,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig",
+      "notes": "optional, chopped"
+    },
+    {
+      "id": 10,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "only if needed"
+    },
+    {
+      "id": 11,
+      "name": "Oil or Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 2,
+      "unit": "tsp",
+      "notes": "per uthappam"
+    }
+  ],
+
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook uthappam on tawa.",
+      "duration": 20,
+      "tips": [
+        "Cook slowly on medium flame — rushing will leave onions raw.",
+        "Use ghee for better flavor."
+      ],
+      "subSteps": [
+        "Heat tawa and grease lightly.",
+        "Pour thick batter onto tawa (do not spread thin).",
+        "Cook on medium flame until bottom is set.",
+        "Drizzle oil or ghee around the edges.",
+        "Flip carefully and cook the other side.",
+        "Serve hot with chutney and sambar."
+      ]
+    }
+  ],
+
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Veggies",
+      "adjustments": {}
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Onion Carrot Uthappam Recipe | South Indian Thick Dosa",
+    "metaDescription": "Soft and fluffy onion carrot uthappam made with fermented dosa batter. A wholesome South Indian breakfast best enjoyed with coconut chutney and sambar."
+  }
+}
