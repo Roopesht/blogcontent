@@ -4,9 +4,16 @@
     "title": "Andhra Style Dal (Pappu)",
     "description": "A classic everyday Andhra dal mildly spiced, slightly tangy, and best enjoyed with hot rice and ghee. Made with toor dal, tomato, and tamarind.",
     "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-pappu.png",
-    "cuisines": ["Andhra"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
-    "healthTags": ["high-protein"],
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "high-protein"
+    ],
     "category": "Dal",
     "difficulty": "easy",
     "prepTime": 10,
@@ -20,9 +27,17 @@
     "title": "Andhra Style Poha (Atukula Upma)",
     "description": "A simple, flavorful Andhra breakfast made with flattened rice, peanuts, mild spices, dry coconut, and a refreshing lemon finish.",
     "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-poha.png",
-    "cuisines": ["Andhra", "South Indian"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
-    "healthTags": ["low-calorie"],
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "low-calorie"
+    ],
     "category": "Breakfast",
     "difficulty": "easy",
     "prepTime": 10,
@@ -35,9 +50,14 @@
     "slug": "brinjal-tomato-curry",
     "title": "Andhra Tomato Brinjal Curry",
     "description": "A classic Andhra-style semi-thick curry with tender brinjal cooked in a spiced tomato base, finished with peanut powder for richness.",
-    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/veg-biriyani.png",
-    "cuisines": ["Andhra"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/brinjal-tomato-curry.png",
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
     "healthTags": [],
     "category": "Curry",
     "difficulty": "easy",
@@ -51,9 +71,14 @@
     "slug": "paalu-poori",
     "title": "Paalu Poori (Milk Poori with Kheera)",
     "description": "Soft deep-fried pooris served with aromatic flavored milk (kheera) made with dry coconut, poppy seeds, and cardamom.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
-    "cuisines": ["Andhra", "South Indian"],
-    "dietaryTags": ["vegetarian"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/paalu-poori.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
     "healthTags": [],
     "category": "Breakfast",
     "difficulty": "medium",
@@ -67,10 +92,17 @@
     "slug": "sweet-potato-curry",
     "title": "Sweet Potato Curry (for Poori)",
     "description": "A balanced curry using sweet potato with spice and tang. Natural sweetness offset with tamarind for a harmonious side dish.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400",
-    "cuisines": ["South Indian"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
-    "healthTags": ["low-calorie"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/sweet-potato-curry.png",
+    "cuisines": [
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "low-calorie"
+    ],
     "category": "Curry",
     "difficulty": "easy",
     "prepTime": 15,
@@ -82,10 +114,19 @@
     "slug": "chutney-powder-groundnut-podi",
     "title": "Chutney Powder (Groundnut Podi)",
     "description": "A coarse, spicy, nutty powder made with roasted groundnuts, fried gram, dried chilies, and garlic. A classic South Indian condiment.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
-    "cuisines": ["Andhra", "South Indian"],
-    "dietaryTags": ["vegetarian", "gluten-free", "vegan"],
-    "healthTags": ["high-protein"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/chutney-powder-groundnut-podi.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein"
+    ],
     "category": "Chutney",
     "difficulty": "easy",
     "prepTime": 10,
@@ -97,10 +138,18 @@
     "slug": "groundnut-coconut-chutney",
     "title": "Groundnut Coconut Chutney",
     "description": "A rich and creamy chutney combining roasted peanuts, dry coconut, fried gram, and green chilies with a classic mustard tempering.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400",
-    "cuisines": ["Andhra", "South Indian"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
-    "healthTags": ["high-protein"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/groundnut-coconut-chutney.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "high-protein"
+    ],
     "category": "Chutney",
     "difficulty": "easy",
     "prepTime": 10,
@@ -112,10 +161,16 @@
     "slug": "onion-carrot-uthappam",
     "title": "Onion Carrot Uthappam",
     "description": "Soft, thick dosa topped with onion, grated carrot, green chilies, and coriander. A hearty South Indian breakfast.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=400",
-    "cuisines": ["South Indian"],
-    "dietaryTags": ["vegetarian"],
-    "healthTags": ["low-calorie"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/onion-carrot-uthappam.png",
+    "cuisines": [
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "healthTags": [
+      "low-calorie"
+    ],
     "category": "Breakfast",
     "difficulty": "easy",
     "prepTime": 10,
@@ -127,9 +182,13 @@
     "slug": "okra-chutney",
     "title": "Bendakaya Roti Pachadi",
     "description": "A classic Andhra-style okra chutney made with tamarind and finished with aromatic tempering. Best enjoyed with hot rice and ghee or soft chapati.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1604908554027-1c9c1c3f2a6b",
-    "cuisines": ["Andhra"],
-    "dietaryTags": ["vegetarian"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/okra-chutney.png",
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
     "healthTags": [],
     "category": "Chutney",
     "difficulty": "easy",
@@ -143,10 +202,18 @@
     "slug": "dal-tadka",
     "title": "Dal Tadka",
     "description": "Creamy yellow lentils tempered with ghee and aromatic spices. A North Indian staple.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=400",
-    "cuisines": ["North Indian"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
-    "healthTags": ["diabetic-friendly", "heart-healthy"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/dal-tadka.png",
+    "cuisines": [
+      "North Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "diabetic-friendly",
+      "heart-healthy"
+    ],
     "category": "Dal",
     "difficulty": "easy",
     "prepTime": 15,
@@ -160,10 +227,17 @@
     "slug": "palak-paneer",
     "title": "Palak Paneer",
     "description": "Creamy spinach curry with soft cottage cheese cubes. A restaurant favourite.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
-    "cuisines": ["North Indian"],
-    "dietaryTags": ["vegetarian"],
-    "healthTags": ["high-protein", "iron-rich"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/palak-paneer.png",
+    "cuisines": [
+      "North Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "healthTags": [
+      "high-protein",
+      "iron-rich"
+    ],
     "category": "Paneer",
     "difficulty": "medium",
     "prepTime": 20,
@@ -176,10 +250,17 @@
     "slug": "masala-dosa",
     "title": "Masala Dosa",
     "description": "Crispy rice and lentil crepe filled with spiced potato. South Indian breakfast classic.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cda1ec?w=400",
-    "cuisines": ["South Indian"],
-    "dietaryTags": ["vegetarian", "gluten-free"],
-    "healthTags": ["low-calorie"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/masala-dosa.png",
+    "cuisines": [
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "low-calorie"
+    ],
     "category": "Breakfast",
     "difficulty": "hard",
     "prepTime": 480,
@@ -192,9 +273,13 @@
     "slug": "chole-bhature",
     "title": "Chole Bhature",
     "description": "Spiced chickpea curry with deep-fried fluffy bread. A Punjabi favourite.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1589301760014-d929fb3b6f10?w=400",
-    "cuisines": ["Punjabi"],
-    "dietaryTags": ["vegetarian"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/chole-bhature.png",
+    "cuisines": [
+      "Punjabi"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
     "healthTags": [],
     "category": "Bread",
     "difficulty": "medium",
@@ -208,10 +293,15 @@
     "slug": "biryani",
     "title": "Hyderabadi Biryani",
     "description": "Fragrant rice layered with marinated meat. A celebratory one-pot meal.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1603945652529-7490c3367b88?w=400",
-    "cuisines": ["Hyderabadi", "North Indian"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/biryani.png",
+    "cuisines": [
+      "Hyderabadi",
+      "North Indian"
+    ],
     "dietaryTags": [],
-    "healthTags": ["high-protein"],
+    "healthTags": [
+      "high-protein"
+    ],
     "category": "Rice",
     "difficulty": "hard",
     "prepTime": 180,
@@ -224,10 +314,15 @@
     "slug": "butter-chicken",
     "title": "Butter Chicken",
     "description": "Tender chicken in a creamy, buttery tomato sauce. A crowd-pleaser.",
-    "thumbnailUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=400",
-    "cuisines": ["North Indian", "Mughlai"],
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/butter-chicken.png",
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
     "dietaryTags": [],
-    "healthTags": ["high-protein"],
+    "healthTags": [
+      "high-protein"
+    ],
     "category": "Chicken",
     "difficulty": "medium",
     "prepTime": 30,

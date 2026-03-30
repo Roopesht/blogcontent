@@ -2,16 +2,21 @@
   "slug": "butter-chicken",
   "title": "Butter Chicken",
   "description": "Tender chicken in a creamy, buttery tomato sauce. A crowd-pleaser and restaurant favourite.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1565937281423-e493fc647caf?w=800",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/butter-chicken.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/butter-chicken.png",
   "difficulty": "medium",
   "prepTime": 30,
   "cookTime": 25,
   "servings": 4,
   "defaultServings": 4,
-  "cuisines": ["North Indian", "Mughlai"],
+  "cuisines": [
+    "North Indian",
+    "Mughlai"
+  ],
   "dietaryTags": [],
-  "healthTags": ["high-protein"],
+  "healthTags": [
+    "high-protein"
+  ],
   "category": "Chicken",
   "variants": [
     {
@@ -21,15 +26,23 @@
     {
       "name": "Extra Spicy",
       "adjustments": {
-        "red-chilli-powder": { "multiplier": 1.5 },
-        "garam-masala": { "multiplier": 1.5 }
+        "red-chilli-powder": {
+          "multiplier": 1.5
+        },
+        "garam-masala": {
+          "multiplier": 1.5
+        }
       }
     },
     {
       "name": "Light Version",
       "adjustments": {
-        "heavy-cream": { "multiplier": 0.5 },
-        "butter": { "multiplier": 0.5 }
+        "heavy-cream": {
+          "multiplier": 0.5
+        },
+        "butter": {
+          "multiplier": 0.5
+        }
       }
     }
   ],
@@ -38,7 +51,9 @@
       "order": 1,
       "instruction": "Prepare and marinate the chicken.",
       "duration": 30,
-      "tips": ["Marinating for at least 30 minutes helps tenderize the chicken and infuse flavors. You can marinate for up to 4 hours for deeper flavor."],
+      "tips": [
+        "Marinating for at least 30 minutes helps tenderize the chicken and infuse flavors. You can marinate for up to 4 hours for deeper flavor."
+      ],
       "subSteps": [
         "Cut chicken breasts into uniform bite-sized chunks (about 1.5 inches).",
         "Mix yogurt with turmeric, red chilli powder, salt, and ginger-garlic paste.",
@@ -61,21 +76,118 @@
     }
   ],
   "ingredients": [
-    { "id": 1, "name": "Chicken", "ingredientSlug": "chicken", "amount": 600, "unit": "g", "notes": "boneless, cut into chunks" },
-    { "id": 2, "name": "Yogurt", "ingredientSlug": "yogurt", "amount": 0.5, "unit": "cup", "notes": "for marination" },
-    { "id": 3, "name": "Tomato Puree", "ingredientSlug": "tomato-puree", "amount": 1, "unit": "cup" },
-    { "id": 4, "name": "Heavy Cream", "ingredientSlug": "heavy-cream", "amount": 0.75, "unit": "cup" },
-    { "id": 5, "name": "Butter", "ingredientSlug": "butter", "amount": 3, "unit": "tbsp" },
-    { "id": 6, "name": "Onion", "ingredientSlug": "onion", "amount": 2, "unit": "large", "notes": "chopped" },
-    { "id": 7, "name": "Ginger", "ingredientSlug": "ginger", "amount": 1, "unit": "tbsp", "notes": "minced" },
-    { "id": 8, "name": "Garlic", "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
-    { "id": 9, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole" },
-    { "id": 10, "name": "Garam Masala", "ingredientSlug": "garam-masala", "amount": 1, "unit": "tsp" },
-    { "id": 11, "name": "Red Chilli Powder", "ingredientSlug": "red-chilli-powder", "amount": 1, "unit": "tsp" },
-    { "id": 12, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
-    { "id": 13, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
-    { "id": 14, "name": "Salt", "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" },
-    { "id": 15, "name": "Cilantro", "ingredientSlug": "cilantro", "amount": 2, "unit": "tbsp", "notes": "for garnish" }
+    {
+      "id": 1,
+      "name": "Chicken",
+      "ingredientSlug": "chicken",
+      "amount": 600,
+      "unit": "g",
+      "notes": "boneless, cut into chunks"
+    },
+    {
+      "id": 2,
+      "name": "Yogurt",
+      "ingredientSlug": "yogurt",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "for marination"
+    },
+    {
+      "id": 3,
+      "name": "Tomato Puree",
+      "ingredientSlug": "tomato-puree",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "id": 4,
+      "name": "Heavy Cream",
+      "ingredientSlug": "heavy-cream",
+      "amount": 0.75,
+      "unit": "cup"
+    },
+    {
+      "id": 5,
+      "name": "Butter",
+      "ingredientSlug": "butter",
+      "amount": 3,
+      "unit": "tbsp"
+    },
+    {
+      "id": 6,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 2,
+      "unit": "large",
+      "notes": "chopped"
+    },
+    {
+      "id": 7,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "minced"
+    },
+    {
+      "id": 8,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 4,
+      "unit": "cloves",
+      "notes": "minced"
+    },
+    {
+      "id": 9,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 2,
+      "unit": "whole"
+    },
+    {
+      "id": 10,
+      "name": "Garam Masala",
+      "ingredientSlug": "garam-masala",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 11,
+      "name": "Red Chilli Powder",
+      "ingredientSlug": "red-chilli-powder",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 13,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 14,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "id": 15,
+      "name": "Cilantro",
+      "ingredientSlug": "cilantro",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "for garnish"
+    }
   ],
   "steps": [
     {
@@ -94,7 +206,9 @@
       "order": 2,
       "instruction": "Prepare the creamy tomato-butter sauce.",
       "duration": 20,
-      "tips": ["The sauce should be smooth and rich. If too thick, add a splash of water."],
+      "tips": [
+        "The sauce should be smooth and rich. If too thick, add a splash of water."
+      ],
       "subSteps": [
         "Melt butter in a large pan over medium heat.",
         "Add cumin seeds and let them sizzle.",

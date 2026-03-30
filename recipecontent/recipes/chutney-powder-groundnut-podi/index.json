@@ -2,24 +2,34 @@
   "slug": "chutney-powder-groundnut-podi",
   "title": "Chutney Powder (Groundnut Podi)",
   "description": "A coarse, spicy, nutty powder made with roasted groundnuts, fried gram, dried chilies, and garlic. Used as a condiment with idli, dosa, or rice with oil.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/chutney-powder-groundnut-podi.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/chutney-powder-groundnut-podi.png",
   "difficulty": "easy",
   "prepTime": 10,
   "cookTime": 10,
   "servings": 8,
   "defaultServings": 8,
-  "cuisines": ["Andhra", "South Indian"],
-  "dietaryTags": ["vegetarian", "gluten-free", "vegan"],
-  "healthTags": ["high-protein"],
+  "cuisines": [
+    "Andhra",
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein"
+  ],
   "category": "Chutney",
-
   "preparation": [
     {
       "order": 1,
       "instruction": "Dry roast all ingredients separately.",
       "duration": 10,
-      "tips": ["Cool completely before grinding to get a crisp, non-clumpy texture."],
+      "tips": [
+        "Cool completely before grinding to get a crisp, non-clumpy texture."
+      ],
       "subSteps": [
         "Dry roast groundnuts until skin starts to peel.",
         "Dry roast red chilies until slightly darker.",
@@ -29,7 +39,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -129,7 +138,6 @@
       "notes": "or sugar"
     }
   ],
-
   "steps": [
     {
       "order": 1,
@@ -148,7 +156,6 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
@@ -157,11 +164,12 @@
     {
       "name": "Extra Spicy",
       "adjustments": {
-        "dry-red-chili": { "multiplier": 1.5 }
+        "dry-red-chili": {
+          "multiplier": 1.5
+        }
       }
     }
   ],
-
   "seo": {
     "metaTitle": "Groundnut Podi Recipe | Chutney Powder for Idli and Dosa",
     "metaDescription": "Spicy and nutty South Indian groundnut podi (chutney powder) with garlic, dried chilies, and curry leaves. Perfect condiment for idli, dosa, or rice."

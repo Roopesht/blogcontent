@@ -9,18 +9,26 @@
   "cookTime": 25,
   "servings": 3,
   "defaultServings": 3,
-  "cuisines": ["Andhra"],
-  "dietaryTags": ["vegetarian", "gluten-free"],
-  "healthTags": ["high-protein"],
+  "cuisines": [
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "high-protein"
+  ],
   "category": "Dal",
   "featured": true,
-
   "preparation": [
     {
       "order": 1,
       "instruction": "Wash and prep ingredients.",
       "duration": 10,
-      "tips": ["Wash toor dal 2–3 times until water runs clear."],
+      "tips": [
+        "Wash toor dal 2–3 times until water runs clear."
+      ],
       "subSteps": [
         "Wash toor dal thoroughly.",
         "Chop tomato.",
@@ -30,7 +38,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -139,13 +146,14 @@
       "unit": "pinch"
     }
   ],
-
   "steps": [
     {
       "order": 1,
       "instruction": "Pressure cook the dal.",
       "duration": 15,
-      "tips": ["3–4 whistles ensures dal is fully soft and mashable."],
+      "tips": [
+        "3–4 whistles ensures dal is fully soft and mashable."
+      ],
       "subSteps": [
         "Add washed toor dal to pressure cooker.",
         "Add chopped tomato, green chilies, turmeric, and water.",
@@ -167,7 +175,9 @@
       "order": 3,
       "instruction": "Prepare tempering and finish.",
       "duration": 5,
-      "tips": ["Garlic in tempering enhances flavor significantly."],
+      "tips": [
+        "Garlic in tempering enhances flavor significantly."
+      ],
       "subSteps": [
         "Heat oil or ghee in a small pan.",
         "Add mustard seeds and let them splutter.",
@@ -180,7 +190,6 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
@@ -195,7 +204,6 @@
       "adjustments": {}
     }
   ],
-
   "seo": {
     "metaTitle": "Andhra Pappu Recipe | Classic Toor Dal with Tamarind",
     "metaDescription": "Authentic Andhra style pappu (toor dal) with tomato, tamarind, and aromatic tempering. A comforting everyday dal best served with hot rice and ghee."

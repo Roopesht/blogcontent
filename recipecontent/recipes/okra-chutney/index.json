@@ -2,19 +2,22 @@
   "slug": "okra-chutney",
   "title": "Bendakaya Roti Pachadi",
   "description": "A classic Andhra-style okra chutney made with tamarind and finished with aromatic tempering. Best enjoyed with hot rice and ghee or soft chapati.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1604908554027-1c9c1c3f2a6b",
-  "heroImageUrl": "https://images.unsplash.com/photo-1604908554027-1c9c1c3f2a6b",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/okra-chutney.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/okra-chutney.png",
   "difficulty": "easy",
   "prepTime": 10,
   "cookTime": 20,
   "servings": 3,
   "defaultServings": 3,
-  "cuisines": ["Andhra"],
-  "dietaryTags": ["vegetarian"],
+  "cuisines": [
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian"
+  ],
   "healthTags": [],
   "category": "Chutney",
   "featured": true,
-
   "preparation": [
     {
       "order": 1,
@@ -33,7 +36,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -124,7 +126,6 @@
       "notes": "adjust to taste"
     }
   ],
-
   "steps": [
     {
       "order": 1,
@@ -171,7 +172,6 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
@@ -180,12 +180,15 @@
     {
       "name": "Extra Spicy",
       "adjustments": {
-        "green-chilli": { "multiplier": 1.5 },
-        "dry-red-chilli": { "multiplier": 1.5 }
+        "green-chilli": {
+          "multiplier": 1.5
+        },
+        "dry-red-chilli": {
+          "multiplier": 1.5
+        }
       }
     }
   ],
-
   "seo": {
     "metaTitle": "Bendakaya Roti Pachadi Recipe | Andhra Okra Chutney",
     "metaDescription": "Authentic Andhra bendakaya roti pachadi made with okra, tamarind, and tempering. Simple, flavorful chutney for rice or chapati."

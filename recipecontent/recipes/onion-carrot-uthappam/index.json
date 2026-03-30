@@ -2,24 +2,31 @@
   "slug": "onion-carrot-uthappam",
   "title": "Onion Carrot Uthappam",
   "description": "Soft, thick dosa topped with onion, grated carrot, green chilies, and coriander. A hearty South Indian breakfast best served with chutney and sambar.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1630383249896-424e482df921?w=400",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/onion-carrot-uthappam.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/onion-carrot-uthappam.png",
   "difficulty": "easy",
   "prepTime": 10,
   "cookTime": 20,
   "servings": 2,
   "defaultServings": 2,
-  "cuisines": ["South Indian"],
-  "dietaryTags": ["vegetarian"],
-  "healthTags": ["low-calorie"],
+  "cuisines": [
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian"
+  ],
+  "healthTags": [
+    "low-calorie"
+  ],
   "category": "Breakfast",
-
   "preparation": [
     {
       "order": 1,
       "instruction": "Prepare batter and toppings.",
       "duration": 10,
-      "tips": ["Slightly fermented batter improves taste and texture significantly."],
+      "tips": [
+        "Slightly fermented batter improves taste and texture significantly."
+      ],
       "subSteps": [
         "Finely chop onion.",
         "Grate carrot.",
@@ -29,7 +36,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -119,7 +125,6 @@
       "notes": "per uthappam"
     }
   ],
-
   "steps": [
     {
       "order": 1,
@@ -139,7 +144,6 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
@@ -150,7 +154,6 @@
       "adjustments": {}
     }
   ],
-
   "seo": {
     "metaTitle": "Onion Carrot Uthappam Recipe | South Indian Thick Dosa",
     "metaDescription": "Soft and fluffy onion carrot uthappam made with fermented dosa batter. A wholesome South Indian breakfast best enjoyed with coconut chutney and sambar."

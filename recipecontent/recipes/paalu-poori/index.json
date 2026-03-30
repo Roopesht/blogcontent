@@ -2,25 +2,31 @@
   "slug": "paalu-poori",
   "title": "Paalu Poori (Milk Poori with Kheera)",
   "description": "A soft, mildly sweet dish where pooris are soaked in aromatic flavored milk (kheera) made with dry coconut, poppy seeds, and cardamom.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=400",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/paalu-poori.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/paalu-poori.png",
   "difficulty": "medium",
   "prepTime": 20,
   "cookTime": 25,
   "servings": 4,
   "defaultServings": 4,
-  "cuisines": ["Andhra", "South Indian"],
-  "dietaryTags": ["vegetarian"],
+  "cuisines": [
+    "Andhra",
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian"
+  ],
   "healthTags": [],
   "category": "Breakfast",
   "popular": true,
-
   "preparation": [
     {
       "order": 1,
       "instruction": "Prepare poori dough.",
       "duration": 15,
-      "tips": ["Let the dough rest for at least 10 minutes for softer pooris."],
+      "tips": [
+        "Let the dough rest for at least 10 minutes for softer pooris."
+      ],
       "subSteps": [
         "Combine wheat flour, rava (optional), and a little salt.",
         "Knead to a slightly stiff dough using water.",
@@ -28,7 +34,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -126,13 +131,14 @@
       "notes": "for frying nuts"
     }
   ],
-
   "steps": [
     {
       "order": 1,
       "instruction": "Fry the pooris.",
       "duration": 15,
-      "tips": ["Keep oil at medium heat — too hot makes pooris crisp, too cool makes them oily."],
+      "tips": [
+        "Keep oil at medium heat — too hot makes pooris crisp, too cool makes them oily."
+      ],
       "subSteps": [
         "Roll small discs from rested dough.",
         "Deep fry in medium-hot oil until puffed.",
@@ -169,14 +175,12 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
       "adjustments": {}
     }
   ],
-
   "seo": {
     "metaTitle": "Paalu Poori Recipe | Soft Poori with Milk Kheera",
     "metaDescription": "Classic South Indian paalu poori — soft deep-fried pooris served with aromatic flavored milk made with dry coconut, poppy seeds, and cardamom."

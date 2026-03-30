@@ -2,24 +2,33 @@
   "slug": "groundnut-coconut-chutney",
   "title": "Groundnut Coconut Chutney",
   "description": "A rich and creamy chutney combining roasted peanuts, dry coconut, fried gram, and green chilies. Finished with a classic mustard and curry leaf tempering.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/groundnut-coconut-chutney.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/groundnut-coconut-chutney.png",
   "difficulty": "easy",
   "prepTime": 10,
   "cookTime": 5,
   "servings": 4,
   "defaultServings": 4,
-  "cuisines": ["Andhra", "South Indian"],
-  "dietaryTags": ["vegetarian", "gluten-free"],
-  "healthTags": ["high-protein"],
+  "cuisines": [
+    "Andhra",
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "high-protein"
+  ],
   "category": "Chutney",
-
   "preparation": [
     {
       "order": 1,
       "instruction": "Gather and prep ingredients.",
       "duration": 5,
-      "tips": ["Use warm water while grinding for smoother blending."],
+      "tips": [
+        "Use warm water while grinding for smoother blending."
+      ],
       "subSteps": [
         "Roast groundnuts if not already roasted.",
         "Peel garlic and ginger.",
@@ -27,7 +36,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -140,13 +148,14 @@
       "unit": "pinch"
     }
   ],
-
   "steps": [
     {
       "order": 1,
       "instruction": "Grind chutney.",
       "duration": 5,
-      "tips": ["Add curd if the chutney feels too heavy or rich."],
+      "tips": [
+        "Add curd if the chutney feels too heavy or rich."
+      ],
       "subSteps": [
         "Add groundnuts, fried gram, dry coconut, green chilies, ginger, garlic, tamarind, and salt to a mixer.",
         "Add warm water.",
@@ -166,7 +175,6 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
@@ -177,7 +185,6 @@
       "adjustments": {}
     }
   ],
-
   "seo": {
     "metaTitle": "Groundnut Coconut Chutney Recipe | Peanut Chutney for Idli Dosa",
     "metaDescription": "Rich and creamy groundnut coconut chutney with fried gram, green chilies, and aromatic tempering. A perfect side for idli, dosa, or uthappam."

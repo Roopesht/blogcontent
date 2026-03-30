@@ -2,16 +2,21 @@
   "slug": "biryani",
   "title": "Hyderabadi Biryani",
   "description": "Fragrant rice layered with marinated meat and aromatic spices. A celebratory one-pot meal.",
-  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/veg-biriyani.png",
-  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/veg-biriyani.png",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/biryani.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/biryani.png",
   "difficulty": "hard",
   "prepTime": 180,
   "cookTime": 45,
   "servings": 6,
   "defaultServings": 6,
-  "cuisines": ["Hyderabadi", "North Indian"],
+  "cuisines": [
+    "Hyderabadi",
+    "North Indian"
+  ],
   "dietaryTags": [],
-  "healthTags": ["high-protein"],
+  "healthTags": [
+    "high-protein"
+  ],
   "category": "Rice",
   "popular": true,
   "variants": [
@@ -29,7 +34,9 @@
       "order": 1,
       "instruction": "Prepare and marinate the meat.",
       "duration": 120,
-      "tips": ["Longer marination (overnight) significantly improves flavor. Plan ahead!"],
+      "tips": [
+        "Longer marination (overnight) significantly improves flavor. Plan ahead!"
+      ],
       "subSteps": [
         "Cut chicken into uniform chunks (1.5 to 2 inches).",
         "Mix yogurt with ginger-garlic paste and salt.",
@@ -61,22 +68,124 @@
     }
   ],
   "ingredients": [
-    { "id": 1, "name": "Basmati Rice", "ingredientSlug": "basmati-rice", "amount": 2, "unit": "cup", "notes": "soaked 30 min" },
-    { "id": 2, "name": "Chicken", "ingredientSlug": "chicken", "amount": 800, "unit": "g", "notes": "cut into chunks" },
-    { "id": 3, "name": "Yogurt", "ingredientSlug": "yogurt", "amount": 1, "unit": "cup" },
-    { "id": 4, "name": "Onion", "ingredientSlug": "onion", "amount": 4, "unit": "large", "notes": "2 sliced, 2 fried" },
-    { "id": 5, "name": "Ginger-Garlic Paste", "ingredientSlug": "ginger-garlic-paste", "amount": 2, "unit": "tbsp" },
-    { "id": 6, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole" },
-    { "id": 7, "name": "Cilantro", "ingredientSlug": "cilantro", "amount": 0.25, "unit": "cup", "notes": "fresh" },
-    { "id": 8, "name": "Mint", "ingredientSlug": "mint", "amount": 0.25, "unit": "cup", "notes": "fresh" },
-    { "id": 9, "name": "Ghee", "ingredientSlug": "ghee", "amount": 4, "unit": "tbsp" },
-    { "id": 10, "name": "Bay Leaf", "ingredientSlug": "bay-leaf", "amount": 3, "unit": "whole" },
-    { "id": 11, "name": "Cinnamon", "ingredientSlug": "cinnamon", "amount": 1, "unit": "stick" },
-    { "id": 12, "name": "Cardamom Green", "ingredientSlug": "cardamom-green", "amount": 4, "unit": "pods" },
-    { "id": 13, "name": "Cardamom Black", "ingredientSlug": "cardamom-black", "amount": 2, "unit": "pods" },
-    { "id": 14, "name": "Clove", "ingredientSlug": "clove", "amount": 4, "unit": "whole" },
-    { "id": 15, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
-    { "id": 16, "name": "Salt", "ingredientSlug": "salt", "amount": 2, "unit": "tsp", "notes": "to taste" }
+    {
+      "id": 1,
+      "name": "Basmati Rice",
+      "ingredientSlug": "basmati-rice",
+      "amount": 2,
+      "unit": "cup",
+      "notes": "soaked 30 min"
+    },
+    {
+      "id": 2,
+      "name": "Chicken",
+      "ingredientSlug": "chicken",
+      "amount": 800,
+      "unit": "g",
+      "notes": "cut into chunks"
+    },
+    {
+      "id": 3,
+      "name": "Yogurt",
+      "ingredientSlug": "yogurt",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "id": 4,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 4,
+      "unit": "large",
+      "notes": "2 sliced, 2 fried"
+    },
+    {
+      "id": 5,
+      "name": "Ginger-Garlic Paste",
+      "ingredientSlug": "ginger-garlic-paste",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 6,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 2,
+      "unit": "whole"
+    },
+    {
+      "id": 7,
+      "name": "Cilantro",
+      "ingredientSlug": "cilantro",
+      "amount": 0.25,
+      "unit": "cup",
+      "notes": "fresh"
+    },
+    {
+      "id": 8,
+      "name": "Mint",
+      "ingredientSlug": "mint",
+      "amount": 0.25,
+      "unit": "cup",
+      "notes": "fresh"
+    },
+    {
+      "id": 9,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 4,
+      "unit": "tbsp"
+    },
+    {
+      "id": 10,
+      "name": "Bay Leaf",
+      "ingredientSlug": "bay-leaf",
+      "amount": 3,
+      "unit": "whole"
+    },
+    {
+      "id": 11,
+      "name": "Cinnamon",
+      "ingredientSlug": "cinnamon",
+      "amount": 1,
+      "unit": "stick"
+    },
+    {
+      "id": 12,
+      "name": "Cardamom Green",
+      "ingredientSlug": "cardamom-green",
+      "amount": 4,
+      "unit": "pods"
+    },
+    {
+      "id": 13,
+      "name": "Cardamom Black",
+      "ingredientSlug": "cardamom-black",
+      "amount": 2,
+      "unit": "pods"
+    },
+    {
+      "id": 14,
+      "name": "Clove",
+      "ingredientSlug": "clove",
+      "amount": 4,
+      "unit": "whole"
+    },
+    {
+      "id": 15,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 16,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 2,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
   ],
   "steps": [
     {
@@ -95,7 +204,9 @@
       "order": 2,
       "instruction": "Parboil rice with aromatic spices.",
       "duration": 15,
-      "tips": ["Rice should still have a bite to it — it will fully cook in the biryani."],
+      "tips": [
+        "Rice should still have a bite to it — it will fully cook in the biryani."
+      ],
       "subSteps": [
         "Bring water to boil with whole spices (bay leaf, cinnamon, cardamom, cloves).",
         "Add soaked rice and salt.",
@@ -107,7 +218,9 @@
       "order": 3,
       "instruction": "Layer rice and marinated meat and cook together.",
       "duration": 35,
-      "tips": ["Dum cooking (steaming in a sealed pot) is key to biryani flavor and texture. Don't open the lid while cooking!"],
+      "tips": [
+        "Dum cooking (steaming in a sealed pot) is key to biryani flavor and texture. Don't open the lid while cooking!"
+      ],
       "subSteps": [
         "Heat ghee in a heavy-bottomed pot (preferably 5-liter capacity).",
         "Layer half the marinated chicken at the bottom.",

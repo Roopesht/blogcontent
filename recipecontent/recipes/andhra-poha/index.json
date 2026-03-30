@@ -9,18 +9,27 @@
   "cookTime": 15,
   "servings": 2,
   "defaultServings": 2,
-  "cuisines": ["Andhra", "South Indian"],
-  "dietaryTags": ["vegetarian", "gluten-free"],
-  "healthTags": ["low-calorie"],
+  "cuisines": [
+    "Andhra",
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "low-calorie"
+  ],
   "category": "Breakfast",
   "popular": true,
-
   "preparation": [
     {
       "order": 1,
       "instruction": "Prep the poha.",
       "duration": 5,
-      "tips": ["Do not over-wash poha — it becomes mushy. A quick rinse is enough."],
+      "tips": [
+        "Do not over-wash poha — it becomes mushy. A quick rinse is enough."
+      ],
       "subSteps": [
         "Take poha in a colander.",
         "Rinse quickly under water (do not soak).",
@@ -28,7 +37,6 @@
       ]
     }
   ],
-
   "ingredients": [
     {
       "id": 1,
@@ -144,7 +152,6 @@
       "unit": "tbsp"
     }
   ],
-
   "steps": [
     {
       "order": 1,
@@ -171,7 +178,9 @@
       "order": 3,
       "instruction": "Add spices and combine poha.",
       "duration": 5,
-      "tips": ["Mix gently to avoid mashing the poha."],
+      "tips": [
+        "Mix gently to avoid mashing the poha."
+      ],
       "subSteps": [
         "Add turmeric and mix well.",
         "Add softened poha.",
@@ -183,7 +192,9 @@
       "order": 4,
       "instruction": "Steam finish and garnish.",
       "duration": 3,
-      "tips": ["Always add lemon after turning off flame to preserve freshness."],
+      "tips": [
+        "Always add lemon after turning off flame to preserve freshness."
+      ],
       "subSteps": [
         "Sprinkle 1–2 tbsp water.",
         "Cover and cook on low flame for 2–3 minutes.",
@@ -193,7 +204,6 @@
       ]
     }
   ],
-
   "variants": [
     {
       "name": "Standard",
@@ -204,7 +214,6 @@
       "adjustments": {}
     }
   ],
-
   "seo": {
     "metaTitle": "Andhra Poha Recipe | Atukula Upma with Lemon and Dry Coconut",
     "metaDescription": "Light and flavorful Andhra style poha (atukula upma) with peanuts, dry coconut, and lemon. A quick and healthy South Indian breakfast."

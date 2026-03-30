@@ -2,16 +2,23 @@
   "slug": "masala-dosa",
   "title": "Masala Dosa",
   "description": "Crispy rice and lentil crepe filled with spiced potato. South Indian breakfast classic.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cda1ec?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cda1ec?w=800",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/masala-dosa.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/masala-dosa.png",
   "difficulty": "hard",
   "prepTime": 480,
   "cookTime": 20,
   "servings": 2,
   "defaultServings": 2,
-  "cuisines": ["South Indian"],
-  "dietaryTags": ["vegetarian", "gluten-free"],
-  "healthTags": ["low-calorie"],
+  "cuisines": [
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "low-calorie"
+  ],
   "category": "Breakfast",
   "popular": true,
   "variants": [
@@ -29,7 +36,9 @@
       "order": 1,
       "instruction": "Soak rice and urad dal for dosa batter.",
       "duration": 240,
-      "tips": ["This is the longest step - plan ahead. Longer soaking (4-8 hours) helps with fermentation"],
+      "tips": [
+        "This is the longest step - plan ahead. Longer soaking (4-8 hours) helps with fermentation"
+      ],
       "subSteps": [
         "Measure rice and urad dal separately.",
         "Rinse both under running water until water runs clear.",
@@ -54,24 +63,97 @@
     }
   ],
   "ingredients": [
-    { "id": 1, "name": "Rice", "ingredientSlug": "rice", "amount": 2, "unit": "cup", "notes": "for dosa, soaked 4 hours" },
-    { "id": 2, "name": "Urad Dal", "ingredientSlug": "urad-dal", "amount": 0.75, "unit": "cup", "notes": "soaked 4 hours" },
-    { "id": 3, "name": "Salt", "ingredientSlug": "salt", "amount": 1, "unit": "tsp" },
-    { "id": 4, "name": "Potato", "ingredientSlug": "potato", "amount": 3, "unit": "medium", "notes": "for filling" },
-    { "id": 5, "name": "Onion", "ingredientSlug": "onion", "amount": 1, "unit": "small", "notes": "for filling" },
-    { "id": 6, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole", "notes": "for filling" },
-    { "id": 7, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 0.5, "unit": "tsp" },
-    { "id": 8, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 0.25, "unit": "tsp" },
-    { "id": 9, "name": "Mustard Seeds", "ingredientSlug": "mustard-seeds", "amount": 0.5, "unit": "tsp" },
-    { "id": 10, "name": "Curry Leaves", "ingredientSlug": "curry-leaves", "amount": 8, "unit": "leaves" },
-    { "id": 11, "name": "Ghee", "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" }
+    {
+      "id": 1,
+      "name": "Rice",
+      "ingredientSlug": "rice",
+      "amount": 2,
+      "unit": "cup",
+      "notes": "for dosa, soaked 4 hours"
+    },
+    {
+      "id": 2,
+      "name": "Urad Dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 0.75,
+      "unit": "cup",
+      "notes": "soaked 4 hours"
+    },
+    {
+      "id": 3,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 4,
+      "name": "Potato",
+      "ingredientSlug": "potato",
+      "amount": 3,
+      "unit": "medium",
+      "notes": "for filling"
+    },
+    {
+      "id": 5,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "small",
+      "notes": "for filling"
+    },
+    {
+      "id": 6,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "for filling"
+    },
+    {
+      "id": 7,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 8,
+      "unit": "leaves"
+    },
+    {
+      "id": 11,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 2,
+      "unit": "tbsp"
+    }
   ],
   "steps": [
     {
       "order": 1,
       "instruction": "Prepare dosa batter by grinding rice and dal.",
       "duration": 360,
-      "tips": ["Fermented batter gives crispy dosas. You can skip fermentation but crispy texture may vary."],
+      "tips": [
+        "Fermented batter gives crispy dosas. You can skip fermentation but crispy texture may vary."
+      ],
       "subSteps": [
         "Soak rice and urad dal separately for 4 hours.",
         "Drain water completely.",
@@ -98,7 +180,9 @@
       "order": 3,
       "instruction": "Cook crispy dosas on a griddle.",
       "duration": 20,
-      "tips": ["Use a spreader or the back of ladle to spread batter thin. First dosa might be imperfect — that's normal!"],
+      "tips": [
+        "Use a spreader or the back of ladle to spread batter thin. First dosa might be imperfect — that's normal!"
+      ],
       "subSteps": [
         "Heat a dosa griddle or non-stick pan on high heat.",
         "Pour a ladleful of batter in the center.",

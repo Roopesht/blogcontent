@@ -2,15 +2,19 @@
   "slug": "chole-bhature",
   "title": "Chole Bhature",
   "description": "Spiced chickpea curry with deep-fried fluffy bread. A Punjabi favourite.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1589301760014-d929fb3b6f10?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1589301760014-d929fb3b6f10?w=800",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/chole-bhature.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/chole-bhature.png",
   "difficulty": "medium",
   "prepTime": 480,
   "cookTime": 30,
   "servings": 4,
   "defaultServings": 4,
-  "cuisines": ["Punjabi"],
-  "dietaryTags": ["vegetarian"],
+  "cuisines": [
+    "Punjabi"
+  ],
+  "dietaryTags": [
+    "vegetarian"
+  ],
   "healthTags": [],
   "category": "Bread",
   "featured": true,
@@ -22,8 +26,12 @@
     {
       "name": "Mild Spice",
       "adjustments": {
-        "red-chilli-powder": { "multiplier": 0.5 },
-        "garam-masala": { "multiplier": 0.75 }
+        "red-chilli-powder": {
+          "multiplier": 0.5
+        },
+        "garam-masala": {
+          "multiplier": 0.75
+        }
       }
     }
   ],
@@ -32,7 +40,9 @@
       "order": 1,
       "instruction": "Soak and cook chickpeas.",
       "duration": 480,
-      "tips": ["Plan ahead - soaking takes 8-12 hours. Cooking takes another 30-45 minutes"],
+      "tips": [
+        "Plan ahead - soaking takes 8-12 hours. Cooking takes another 30-45 minutes"
+      ],
       "subSteps": [
         "Soak chickpeas in water overnight (8-12 hours).",
         "Drain water completely.",
@@ -57,25 +67,105 @@
     }
   ],
   "ingredients": [
-    { "id": 1, "name": "Chickpeas", "ingredientSlug": "chickpeas", "amount": 2, "unit": "cup", "notes": "soaked overnight, cooked" },
-    { "id": 2, "name": "Onion", "ingredientSlug": "onion", "amount": 2, "unit": "large", "notes": "finely chopped" },
-    { "id": 3, "name": "Tomato", "ingredientSlug": "tomato", "amount": 3, "unit": "medium", "notes": "crushed" },
-    { "id": 4, "name": "Ginger", "ingredientSlug": "ginger", "amount": 2, "unit": "tbsp", "notes": "minced" },
-    { "id": 5, "name": "Garlic", "ingredientSlug": "garlic", "amount": 1, "unit": "tbsp", "notes": "minced" },
-    { "id": 6, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 3, "unit": "whole" },
-    { "id": 7, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
-    { "id": 8, "name": "Garam Masala", "ingredientSlug": "garam-masala", "amount": 1.5, "unit": "tsp" },
-    { "id": 9, "name": "Red Chilli Powder", "ingredientSlug": "red-chilli-powder", "amount": 2, "unit": "tsp" },
-    { "id": 10, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 1, "unit": "tsp" },
-    { "id": 11, "name": "Oil", "ingredientSlug": "oil", "amount": 3, "unit": "tbsp" },
-    { "id": 12, "name": "Salt", "ingredientSlug": "salt", "amount": 1.5, "unit": "tsp", "notes": "to taste" }
+    {
+      "id": 1,
+      "name": "Chickpeas",
+      "ingredientSlug": "chickpeas",
+      "amount": 2,
+      "unit": "cup",
+      "notes": "soaked overnight, cooked"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 2,
+      "unit": "large",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 3,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 3,
+      "unit": "medium",
+      "notes": "crushed"
+    },
+    {
+      "id": 4,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "minced"
+    },
+    {
+      "id": 5,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "minced"
+    },
+    {
+      "id": 6,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 3,
+      "unit": "whole"
+    },
+    {
+      "id": 7,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Garam Masala",
+      "ingredientSlug": "garam-masala",
+      "amount": 1.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Red Chilli Powder",
+      "ingredientSlug": "red-chilli-powder",
+      "amount": 2,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 11,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 3,
+      "unit": "tbsp"
+    },
+    {
+      "id": 12,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
   ],
   "steps": [
     {
       "order": 1,
       "instruction": "Prepare chickpeas and cook until soft.",
       "duration": 120,
-      "tips": ["Cooked chickpeas can be made a day ahead and stored in refrigerator."],
+      "tips": [
+        "Cooked chickpeas can be made a day ahead and stored in refrigerator."
+      ],
       "subSteps": [
         "Soak chickpeas overnight (8-12 hours).",
         "Drain and add fresh water.",
@@ -88,7 +178,9 @@
       "order": 2,
       "instruction": "Prepare the flavorful chickpea curry.",
       "duration": 30,
-      "tips": ["The curry should be medium consistency — not too thick, not too watery."],
+      "tips": [
+        "The curry should be medium consistency — not too thick, not too watery."
+      ],
       "subSteps": [
         "Heat oil in a large pan, add cumin seeds.",
         "Add finely chopped onions and cook until golden brown.",

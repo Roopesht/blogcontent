@@ -2,16 +2,24 @@
   "slug": "dal-tadka",
   "title": "Dal Tadka",
   "description": "Creamy toor dal tempered with ghee, garlic and whole spices. A comforting North Indian staple.",
-  "thumbnailUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=400",
-  "heroImageUrl": "https://images.unsplash.com/photo-1585921917061-e7d59dc10bba?w=800",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/dal-tadka.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/dal-tadka.png",
   "difficulty": "easy",
   "prepTime": 15,
   "cookTime": 30,
   "servings": 4,
   "defaultServings": 4,
-  "cuisines": ["North Indian"],
-  "dietaryTags": ["vegetarian", "gluten-free"],
-  "healthTags": ["diabetic-friendly", "heart-healthy"],
+  "cuisines": [
+    "North Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "diabetic-friendly",
+    "heart-healthy"
+  ],
   "category": "Dal",
   "featured": true,
   "popular": true,
@@ -23,8 +31,12 @@
     {
       "name": "Extra Spicy",
       "adjustments": {
-        "green-chilli": { "multiplier": 2 },
-        "red-chilli-powder": { "multiplier": 2 }
+        "green-chilli": {
+          "multiplier": 2
+        },
+        "red-chilli-powder": {
+          "multiplier": 2
+        }
       }
     }
   ],
@@ -33,7 +45,9 @@
       "order": 1,
       "instruction": "Wash and soak the toor dal.",
       "duration": 30,
-      "tips": ["Soaking is optional but recommended for creamier dal and faster cooking"],
+      "tips": [
+        "Soaking is optional but recommended for creamier dal and faster cooking"
+      ],
       "subSteps": [
         "Rinse toor dal under running water until water runs clear.",
         "Soak in 3 cups water for 30 minutes.",
@@ -54,23 +68,90 @@
     }
   ],
   "ingredients": [
-    { "id": 1, "name": "Toor Dal", "ingredientSlug": "toor-dal", "amount": 1, "unit": "cup", "notes": "washed, soaked 30 min" },
-    { "id": 2, "name": "Turmeric", "ingredientSlug": "turmeric", "amount": 0.5, "unit": "tsp" },
-    { "id": 3, "name": "Ghee", "ingredientSlug": "ghee", "amount": 2, "unit": "tbsp" },
-    { "id": 4, "name": "Cumin Seeds", "ingredientSlug": "cumin-seeds", "amount": 1, "unit": "tsp" },
-    { "id": 5, "name": "Garlic", "ingredientSlug": "garlic", "amount": 4, "unit": "cloves", "notes": "minced" },
-    { "id": 6, "name": "Tomato", "ingredientSlug": "tomato", "amount": 1, "unit": "medium", "notes": "chopped" },
-    { "id": 7, "name": "Green Chilli", "ingredientSlug": "green-chilli", "amount": 2, "unit": "whole", "notes": "slit" },
-    { "id": 8, "name": "Red Chilli Powder", "ingredientSlug": "red-chilli-powder", "amount": 0.5, "unit": "tsp" },
-    { "id": 9, "name": "Garam Masala", "ingredientSlug": "garam-masala", "amount": 0.25, "unit": "tsp" },
-    { "id": 10, "name": "Salt", "ingredientSlug": "salt", "amount": 1, "unit": "tsp", "notes": "to taste" }
+    {
+      "id": 1,
+      "name": "Toor Dal",
+      "ingredientSlug": "toor-dal",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "washed, soaked 30 min"
+    },
+    {
+      "id": 2,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 3,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 4,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 5,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 4,
+      "unit": "cloves",
+      "notes": "minced"
+    },
+    {
+      "id": 6,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "chopped"
+    },
+    {
+      "id": 7,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "slit"
+    },
+    {
+      "id": 8,
+      "name": "Red Chilli Powder",
+      "ingredientSlug": "red-chilli-powder",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Garam Masala",
+      "ingredientSlug": "garam-masala",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "to taste"
+    }
   ],
   "steps": [
     {
       "order": 1,
       "instruction": "Cook the dal until completely soft and creamy.",
       "duration": 20,
-      "tips": ["Add a small piece of butter while boiling for extra creaminess."],
+      "tips": [
+        "Add a small piece of butter while boiling for extra creaminess."
+      ],
       "subSteps": [
         "Drain soaked dal and transfer to a heavy pot.",
         "Add 3 cups water, turmeric, and 1/2 tsp salt.",
