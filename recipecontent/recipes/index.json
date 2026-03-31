@@ -298,7 +298,9 @@
       "Hyderabadi",
       "non-vegetarian"
     ],
-    "dietaryTags": [],
+    "dietaryTags": [
+      "non-vegetarian"
+    ],
     "healthTags": [
       "high-protein"
     ],
@@ -318,9 +320,10 @@
     "cuisines": [
       "North Indian",
       "Mughlai",
+    ],
+    "dietaryTags": [
       "non-vegetarian"
     ],
-    "dietaryTags": [],
     "healthTags": [
       "high-protein"
     ],
