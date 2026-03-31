@@ -1,9 +1,9 @@
 {
-  "slug": "biryani",
-  "title": "Hyderabadi Biryani",
-  "description": "Fragrant rice layered with marinated meat and aromatic spices. A celebratory one-pot meal.",
-  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/biryani.png",
-  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/biryani.png",
+  "slug": "hyderabad-chicken-biriyani",
+  "title": "Hyderabad Chicken Biriyani",
+  "description": "Fragrant rice layered with marinated chicken and aromatic spices. A celebratory one-pot meal.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/hyderabad-chicken-biriyani.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/hyderabad-chicken-biriyani.png",
   "difficulty": "hard",
   "prepTime": 180,
   "cookTime": 45,
@@ -205,7 +205,7 @@
       "instruction": "Parboil rice with aromatic spices.",
       "duration": 15,
       "tips": [
-        "Rice should still have a bite to it — it will fully cook in the biryani."
+        "Rice should still have a bite to it — it will fully cook in the biriyani."
       ],
       "subSteps": [
         "Bring water to boil with whole spices (bay leaf, cinnamon, cardamom, cloves).",
