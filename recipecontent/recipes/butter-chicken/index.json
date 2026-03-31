@@ -13,7 +13,9 @@
     "North Indian",
     "Mughlai"
   ],
-  "dietaryTags": [],
+  "dietaryTags": [
+    "non-vegetarian"
+  ],
   "healthTags": [
     "high-protein"
   ],

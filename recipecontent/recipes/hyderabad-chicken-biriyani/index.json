@@ -13,7 +13,9 @@
     "Hyderabadi",
     "North Indian"
   ],
-  "dietaryTags": [],
+  "dietaryTags": [
+    "non-vegetarian"
+  ],
   "healthTags": [
     "high-protein"
   ],
