@@ -1,0 +1,301 @@
+{
+  "slug": "curd-rice",
+  "title": "Curd Rice (Daddhojanam)",
+  "description": "Temple-style curd rice made with soft, lightly mashed rice blended with thick curd and milk, finished with a fragrant ghee tempering of mustard seeds, cashews, ginger, curry leaves, and a pinch of hing. Garnished with pomegranate for a cooling, divine finish.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/curd-rice.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/curd-rice.png",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": [
+    "Andhra",
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "diabetic-friendly",
+    "low-calorie"
+  ],
+  "category": "Rice",
+  "featured": true,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "No Spice (Toddler / Sattvic)",
+      "adjustments": {
+        "green-chilli": {
+          "multiplier": 0
+        },
+        "dried-red-chilli": {
+          "multiplier": 0
+        }
+      }
+    },
+    {
+      "name": "Extra Creamy",
+      "adjustments": {
+        "milk": {
+          "multiplier": 1.5
+        },
+        "thick-curd": {
+          "multiplier": 1.25
+        }
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Cook rice until very soft and mushy.",
+      "duration": 20,
+      "tips": [
+        "Temple-style daddhojanam uses extra-soft, slightly overcooked rice. Use a 1:3 rice-to-water ratio instead of the usual 1:2 for the right mushy texture.",
+        "Sona Masoori or any short-grain rice works best. Avoid basmati — it stays too firm.",
+        "If using a pressure cooker, cook for 4–5 whistles on medium heat."
+      ],
+      "subSteps": [
+        "Wash 1.5 cups of sona masoori rice 2–3 times until water runs clear.",
+        "Add washed rice to a pressure cooker with 4 cups of water.",
+        "Cook on medium heat for 4–5 whistles until rice is very soft and slightly mushy.",
+        "Let pressure release naturally. Open and give a gentle stir — rice should mash easily.",
+        "Spread cooked rice in a wide bowl and let it cool to room temperature (about 10–15 minutes). Do not mix with curd while hot."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare tempering ingredients.",
+      "duration": 5,
+      "tips": [
+        "Fry cashews first before the mustard seeds so they turn golden-brown without burning.",
+        "Hing (asafoetida) is a signature temple touch — even a small pinch makes a noticeable difference."
+      ],
+      "subSteps": [
+        "Grate or finely mince ginger.",
+        "Slit green chillies lengthwise (remove seeds for milder heat).",
+        "Break dried red chillies in half.",
+        "Wash and pat dry curry leaves — wet curry leaves splatter in hot oil.",
+        "Measure out mustard seeds, cumin seeds, cashews, and hing.",
+        "Deseed pomegranate and keep seeds ready for garnish."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Sona Masoori Rice",
+      "ingredientSlug": "sona-masoori-rice",
+      "amount": 1.5,
+      "unit": "cup",
+      "notes": "short-grain rice; washed well"
+    },
+    {
+      "id": 2,
+      "name": "Thick Curd",
+      "ingredientSlug": "thick-curd",
+      "amount": 2.5,
+      "unit": "cup",
+      "notes": "slightly sour, full-fat; room temperature"
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "ingredientSlug": "milk",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "full-fat; balances sourness and makes it creamy"
+    },
+    {
+      "id": 4,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "to taste"
+    },
+    {
+      "id": 5,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 2,
+      "unit": "tsp",
+      "notes": "for tempering; adds temple-style richness"
+    },
+    {
+      "id": 6,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 7,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Dried Red Chilli",
+      "ingredientSlug": "dried-red-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "broken in half"
+    },
+    {
+      "id": 9,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "slit lengthwise"
+    },
+    {
+      "id": 10,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "finely grated"
+    },
+    {
+      "id": 11,
+      "name": "Hing (Asafoetida)",
+      "ingredientSlug": "hing",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "a generous pinch; the temple secret"
+    },
+    {
+      "id": 12,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 12,
+      "unit": "leaves",
+      "notes": "pat dry before adding to hot oil"
+    },
+    {
+      "id": 13,
+      "name": "Cashews",
+      "ingredientSlug": "cashews",
+      "amount": 12,
+      "unit": "whole",
+      "notes": "halved or whole; fried until golden"
+    },
+    {
+      "id": 14,
+      "name": "Fresh Coconut",
+      "ingredientSlug": "fresh-coconut",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "grated; optional but adds temple-style sweetness",
+      "optional": true
+    },
+    {
+      "id": 15,
+      "name": "Pomegranate Seeds",
+      "ingredientSlug": "pomegranate",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "for garnish; adds sweetness and color"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cool the cooked rice and mash lightly.",
+      "duration": 3,
+      "tips": [
+        "Mashing the rice partially helps it absorb the curd evenly. Do not blend it smooth — some texture is important."
+      ],
+      "subSteps": [
+        "Once rice has cooled to room temperature, transfer to a large mixing bowl.",
+        "Using the back of a spoon or your hand, lightly mash the rice — not completely smooth, just enough to break up the grains.",
+        "The texture should resemble a loose porridge, not a paste."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Mix rice with curd, milk, and salt.",
+      "duration": 5,
+      "tips": [
+        "Adding milk alongside curd is the temple trick — it makes the rice creamy and prevents it from becoming too sour as it sits.",
+        "Always add curd to room-temperature or cool rice, never to hot rice. Hot rice will curdle the curd and make it watery.",
+        "Taste the mixture before tempering and adjust salt. The curd rice should taste mildly salty — the tempering will add more flavor."
+      ],
+      "subSteps": [
+        "Add 2.5 cups thick curd to the mashed rice.",
+        "Pour in 0.5 cup milk.",
+        "Add 1.5 tsp salt.",
+        "Mix everything together until the rice is evenly coated and the consistency is soft and creamy.",
+        "If the mixture feels too thick, add a splash more milk. It should be loose — it will firm up as it sits.",
+        "If using grated fresh coconut, fold it in now.",
+        "Taste and adjust salt. Set aside."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare the ghee tempering (tadka).",
+      "duration": 5,
+      "tips": [
+        "Keep the heat on medium — ghee burns faster than oil. The entire tadka takes under 2 minutes once the ghee is hot.",
+        "Cashews go in first as they need the longest to turn golden. Add mustard seeds only after cashews are light golden.",
+        "The hing should sizzle immediately when added. If it does not, the ghee is not hot enough."
+      ],
+      "subSteps": [
+        "Heat 2 tsp ghee in a small pan or tadka ladle over medium heat.",
+        "Add cashews and fry, stirring, until light golden — about 60 seconds. Remove and set aside (or leave in pan).",
+        "In the same ghee, add mustard seeds. Let them splutter and pop completely.",
+        "Add cumin seeds — they will sizzle immediately.",
+        "Add broken dried red chillies and fry for 10 seconds until they darken slightly.",
+        "Add slit green chillies and grated ginger. Stir for 15–20 seconds.",
+        "Add hing. It will sizzle and release a sharp aroma — stir once.",
+        "Add curry leaves last — stand back as they splatter. Fry for 5–10 seconds until crisp.",
+        "Turn off the heat."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Pour the tempering over the curd rice and mix gently.",
+      "duration": 2,
+      "tips": [
+        "Pour the entire hot tadka directly over the curd rice — the sizzle blooms the aromas into the rice instantly.",
+        "Mix gently with a light hand. Over-mixing after the tadka will break up the fragrant whole spices."
+      ],
+      "subSteps": [
+        "Pour the hot ghee tadka (with all the spices and cashews) directly over the curd rice mixture.",
+        "Hear the sizzle — this is normal and correct.",
+        "Gently fold the tempering into the curd rice, mixing just enough to distribute it evenly.",
+        "Taste once more and adjust salt if needed."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Garnish and serve.",
+      "duration": 2,
+      "tips": [
+        "Pomegranate is not just garnish — its slight sweetness and burst of juice complement the tang of the curd rice beautifully.",
+        "Curd rice tastes best at room temperature or slightly chilled. Avoid serving it cold straight from the fridge — the rice stiffens.",
+        "Serve with a simple pickle (mango or lime achaar) on the side for an authentic temple meal experience."
+      ],
+      "subSteps": [
+        "Transfer curd rice to a serving bowl.",
+        "Scatter pomegranate seeds generously on top.",
+        "Serve immediately at room temperature, or refrigerate for up to 2 hours and bring back to room temperature before serving.",
+        "Pairs best with mango pickle, lime pickle, or papad."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Temple-Style Curd Rice (Daddhojanam) — Cooling South Indian Classic",
+    "metaDescription": "Make authentic temple-style curd rice (Daddhojanam) at home with soft rice, thick curd, milk, ghee tempering, and pomegranate. A cooling, divine South Indian recipe."
+  }
+}

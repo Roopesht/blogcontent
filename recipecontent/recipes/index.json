@@ -290,13 +290,37 @@
     "publishedAt": "2026-03-21T00:00:00Z"
   },
   {
+    "slug": "curd-rice",
+    "title": "Curd Rice (Daddhojanam)",
+    "description": "Temple-style curd rice made with soft, lightly mashed rice blended with thick curd and milk, finished with a fragrant ghee tempering of mustard seeds, cashews, ginger, curry leaves, and hing. Garnished with pomegranate.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/curd-rice.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "diabetic-friendly",
+      "low-calorie"
+    ],
+    "category": "Rice",
+    "difficulty": "easy",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "featured": true,
+    "publishedAt": "2026-04-01T00:00:00Z"
+  },
+  {
     "slug": "hyderabad-chicken-biriyani",
     "title": "Hyderabad Chicken Biriyani",
     "description": "Fragrant rice layered with marinated meat. A celebratory one-pot meal.",
     "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/hyderabad-chicken-biriyani.png",
     "cuisines": [
-      "Hyderabadi",
-      "non-vegetarian"
+      "Hyderabadi"
     ],
     "dietaryTags": [
       "non-vegetarian"
