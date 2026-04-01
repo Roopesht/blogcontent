@@ -23,6 +23,32 @@
     "publishedAt": "2026-03-30T00:00:00Z"
   },
   {
+    "slug": "menthikura-pappu",
+    "title": "Menthikura Pappu (Fenugreek Dal)",
+    "description": "A classic Andhra dal made with fresh fenugreek leaves cooked into toor dal with tomato and tamarind. The gentle bitterness of methi balances with tamarind tang and a bold garlic tempering.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/menthikura-pappu.png",
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "diabetic-friendly",
+      "iron-rich"
+    ],
+    "category": "Dal",
+    "difficulty": "easy",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 3,
+    "featured": true,
+    "publishedAt": "2026-04-01T00:00:00Z"
+  },
+  {
     "slug": "andhra-poha",
     "title": "Andhra Style Poha (Atukula Upma)",
     "description": "A simple, flavorful Andhra breakfast made with flattened rice, peanuts, mild spices, dry coconut, and a refreshing lemon finish.",

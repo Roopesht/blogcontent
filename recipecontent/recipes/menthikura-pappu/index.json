@@ -1,0 +1,274 @@
+{
+  "slug": "menthikura-pappu",
+  "title": "Menthikura Pappu (Fenugreek Dal)",
+  "description": "A classic Andhra comfort dal made with fresh fenugreek leaves (menthikura) cooked into toor dal with tomato and tamarind. The gentle bitterness of methi balances beautifully with the tang of tamarind and a bold garlic tempering. Best eaten with hot rice and a spoon of ghee.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/menthikura-pappu.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/menthikura-pappu.png",
+  "difficulty": "easy",
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": [
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein",
+    "diabetic-friendly",
+    "iron-rich"
+  ],
+  "category": "Dal",
+  "featured": true,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Bitter (More Methi)",
+      "adjustments": {
+        "fenugreek-leaves": {
+          "multiplier": 1.5
+        }
+      }
+    },
+    {
+      "name": "Mild",
+      "adjustments": {
+        "green-chilli": {
+          "multiplier": 0.5
+        },
+        "dry-red-chilli": {
+          "multiplier": 0
+        }
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Wash the dal and clean the fenugreek leaves.",
+      "duration": 15,
+      "tips": [
+        "Only use the tender leaves and thin stems — discard the thick fibrous stems, which stay tough even after cooking.",
+        "Fenugreek leaves have a natural bitterness. A light sprinkle of salt followed by a brief soak in water for 5 minutes can reduce bitterness if preferred — but in Andhra pappu, mild bitterness is welcome.",
+        "Wash the leaves in at least 2 changes of water as they tend to hold sand."
+      ],
+      "subSteps": [
+        "Wash toor dal 2–3 times until water runs clear.",
+        "Pluck fenugreek leaves from the stems — discard thick stalks, keep tender leaves and thin stems.",
+        "Wash cleaned fenugreek leaves in 2 changes of water. Drain and set aside.",
+        "Finely chop the onion.",
+        "Chop the tomato into small pieces.",
+        "Slit green chillies lengthwise.",
+        "Crush garlic cloves lightly with the flat of a knife.",
+        "Soak tamarind in 3 tbsp warm water for 5 minutes and squeeze out the pulp. Discard the fiber."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Toor Dal",
+      "ingredientSlug": "toor-dal",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "washed well"
+    },
+    {
+      "id": 2,
+      "name": "Fresh Fenugreek Leaves (Menthikura)",
+      "ingredientSlug": "fenugreek-leaves",
+      "amount": 1.5,
+      "unit": "cup",
+      "notes": "loosely packed; thick stems removed"
+    },
+    {
+      "id": 3,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 4,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "chopped"
+    },
+    {
+      "id": 5,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "slit lengthwise"
+    },
+    {
+      "id": 6,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 7,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "pulp extracted"
+    },
+    {
+      "id": 8,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 9,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 2.5,
+      "unit": "cup",
+      "notes": "for pressure cooking"
+    },
+    {
+      "id": 10,
+      "name": "Oil or Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "notes": "for tempering; ghee gives a richer finish"
+    },
+    {
+      "id": 11,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 13,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 4,
+      "unit": "cloves",
+      "notes": "lightly crushed"
+    },
+    {
+      "id": 14,
+      "name": "Dry Red Chilli",
+      "ingredientSlug": "dry-red-chilli",
+      "amount": 2,
+      "unit": "whole"
+    },
+    {
+      "id": 15,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig"
+    },
+    {
+      "id": 16,
+      "name": "Hing (Asafoetida)",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch"
+    },
+    {
+      "id": 17,
+      "name": "Red Chilli Powder",
+      "ingredientSlug": "red-chilli-powder",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "optional, for extra heat",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pressure cook dal with fenugreek, onion, and tomato.",
+      "duration": 15,
+      "tips": [
+        "Cooking the fenugreek leaves directly with the dal inside the cooker is key — it removes most of the raw bitterness and fully integrates the flavor into the dal.",
+        "Adding onion inside the cooker gives the dal a natural sweetness that balances the methi's bitterness.",
+        "4 whistles ensures the dal is completely soft and mashable. Under-cooked dal will feel grainy."
+      ],
+      "subSteps": [
+        "Add washed toor dal to the pressure cooker.",
+        "Add the cleaned fenugreek leaves — they will wilt down significantly while cooking.",
+        "Add chopped onion, chopped tomato, and slit green chillies.",
+        "Add turmeric and 2.5 cups water.",
+        "Close the lid and pressure cook on medium heat for 4 whistles.",
+        "Turn off the heat and let pressure release naturally — do not force open."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Mash the dal and add tamarind and salt.",
+      "duration": 8,
+      "tips": [
+        "Mash the dal while it is still hot — it mashes more easily.",
+        "The consistency should be thick but pourable, like a flowing porridge. Add a splash of water if too thick.",
+        "Taste before adding tamarind — fenugreek has its own slight tang. Adjust accordingly.",
+        "Simmer uncovered so the dal thickens slightly and the tamarind flavor cooks in."
+      ],
+      "subSteps": [
+        "Open the cooker once pressure is fully released.",
+        "Mash the cooked dal well using a dal masher or the back of a ladle until smooth.",
+        "Add the tamarind pulp and salt.",
+        "Mix well and bring to a gentle simmer on low-medium heat.",
+        "Simmer for 5–7 minutes, stirring occasionally, until the raw tamarind smell disappears.",
+        "Taste and adjust salt or tamarind.",
+        "If the dal is too thick, add a little hot water and stir. Turn off heat."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Make the tempering and finish the dal.",
+      "duration": 5,
+      "tips": [
+        "Garlic is non-negotiable in Andhra pappu tempering — it adds a pungent depth that ties the whole dish together.",
+        "Let the garlic turn lightly golden before adding the chilies. Under-cooked garlic tastes sharp and raw.",
+        "Pour the sizzling tempering directly into the dal and cover immediately for 30 seconds — this traps the aroma and drives it into the dal."
+      ],
+      "subSteps": [
+        "Heat oil or ghee in a small pan over medium heat.",
+        "Add mustard seeds and wait for them to splutter fully.",
+        "Add cumin seeds — they will sizzle immediately.",
+        "Add crushed garlic. Fry, stirring, until light golden — about 30–40 seconds.",
+        "Add dry red chillies and fry for 10 seconds until they darken.",
+        "Add curry leaves — stand back as they splatter. Fry 5 seconds until crisp.",
+        "Add hing. Stir once.",
+        "If using red chilli powder, add it now and immediately take the pan off heat.",
+        "Pour the entire hot tempering over the dal.",
+        "Cover the dal pot for 30 seconds to let the aroma infuse.",
+        "Stir gently and serve hot with rice and a dollop of ghee."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Menthikura Pappu Recipe | Andhra Fenugreek Dal",
+    "metaDescription": "Authentic Andhra-style Menthikura Pappu (fenugreek dal) with toor dal, fresh methi leaves, tamarind, and garlic tempering. A healthy, flavourful everyday dal best with hot rice and ghee."
+  }
+}
