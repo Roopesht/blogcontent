@@ -1,5 +1,25 @@
 [
   {
+    "slug": "peanut-banana-pockets",
+    "title": "Royal Golden Peanut Banana Pockets",
+    "description": "Crisp golden diamond-cut pockets with a layered filling of smooth peanut paste and soft banana — light sugar dusted and served warm.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/peanut-banana-pockets.png",
+    "cuisines": [
+      "South Indian",
+      "Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "healthTags": [],
+    "category": "Snack",
+    "difficulty": "medium",
+    "prepTime": 25,
+    "cookTime": 20,
+    "servings": 4,
+    "publishedAt": "2026-04-05T00:00:00Z"
+  },
+  {
     "slug": "andhra-pappu",
     "title": "Andhra Style Dal (Pappu)",
     "description": "A classic everyday Andhra dal mildly spiced, slightly tangy, and best enjoyed with hot rice and ghee. Made with toor dal, tomato, and tamarind.",

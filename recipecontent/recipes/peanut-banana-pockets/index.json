@@ -1,0 +1,282 @@
+{
+  "slug": "peanut-banana-pockets",
+  "title": "Royal Golden Peanut Banana Pockets",
+  "description": "Crisp golden diamond-cut pockets with a layered filling of smooth peanut paste and soft banana — light sugar dusted and served warm. A clean, rich, and elegant sweet snack.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/peanut-banana-pockets.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/peanut-banana-pockets.png",
+  "difficulty": "medium",
+  "prepTime": 25,
+  "cookTime": 20,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": [
+    "South Indian",
+    "Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian"
+  ],
+  "healthTags": [],
+  "category": "Snack",
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Sweet",
+      "adjustments": {
+        "powdered-sugar-peanut": {
+          "multiplier": 1.5
+        },
+        "powdered-sugar-dusting": {
+          "multiplier": 1.5
+        }
+      }
+    },
+    {
+      "name": "Light Version",
+      "adjustments": {
+        "ghee-peanut": {
+          "multiplier": 0.5
+        },
+        "powdered-sugar-peanut": {
+          "multiplier": 0.5
+        }
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Dry roast the coconut powder.",
+      "duration": 5,
+      "tips": [
+        "Keep the flame on low throughout. The goal is aromatic, not browned. Overcoasting turns it bitter."
+      ],
+      "subSteps": [
+        "Place a small pan on low flame.",
+        "Add the desiccated/dry coconut powder.",
+        "Dry roast for 1–2 minutes, stirring constantly.",
+        "Stop as soon as it smells aromatic — it should stay light in color.",
+        "Transfer to a plate and let cool completely before using."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the banana filling.",
+      "duration": 5,
+      "tips": [
+        "Use just-ripe bananas — not overripe. Overripe bananas release too much moisture and make the dough soggy.",
+        "Keep the mash slightly chunky for texture contrast inside.",
+        "No sugar in the banana mix — sugar draws out moisture and will make the pocket leaky during frying."
+      ],
+      "subSteps": [
+        "Peel 2 just-ripe bananas.",
+        "Using a fork, lightly mash them — keep the texture slightly chunky, not smooth.",
+        "Add 2 tbsp of the roasted coconut powder.",
+        "Add a pinch of cardamom (yalakki) powder.",
+        "Add a tiny pinch of salt.",
+        "Mix gently until just combined.",
+        "Set aside in a small bowl. Do not refrigerate."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare the smooth peanut paste.",
+      "duration": 10,
+      "tips": [
+        "Grind the peanuts while still slightly warm for a smoother paste.",
+        "The paste should be thick and spreadable — like peanut butter. If too dry, add a few more drops of warm ghee.",
+        "This peanut layer acts as a moisture barrier between the dough and banana filling, keeping the pocket crisp."
+      ],
+      "subSteps": [
+        "Measure ½ cup of pre-roasted peanuts.",
+        "Grind peanuts in a mixer/blender to a fine, almost powdery texture.",
+        "Warm 1–1.5 tsp ghee slightly (just warm, not hot).",
+        "Add warm ghee to the ground peanuts.",
+        "Add a pinch of salt.",
+        "Add 1–2 tbsp powdered sugar.",
+        "Mix well until it forms a thick, spreadable paste — similar in consistency to thick peanut butter.",
+        "Taste and adjust sweetness if needed.",
+        "Set aside covered."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Make the dough and roll into discs.",
+      "duration": 15,
+      "tips": [
+        "Use slightly less water than a standard chapathi dough — a firmer dough holds the filling better and results in a crispier fried shell.",
+        "Rest the dough for at least 5 minutes after kneading so the gluten relaxes and it rolls evenly.",
+        "Roll discs slightly thicker than a chapathi — too thin and they will burst during frying."
+      ],
+      "subSteps": [
+        "Measure 1.5 cups wheat flour into a mixing bowl.",
+        "Add a small pinch of salt.",
+        "Add water gradually (approximately ½ cup), mixing as you go.",
+        "Knead into a smooth, slightly firm dough — it should not be sticky.",
+        "Cover the dough and let it rest for 5–10 minutes.",
+        "Divide the dough into 8 equal portions.",
+        "Roll each portion into a disc approximately 3 inches in diameter.",
+        "The discs should be slightly thicker than a chapathi — not paper thin.",
+        "Keep unused discs covered with a damp cloth to prevent drying."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Wheat Flour",
+      "ingredientSlug": "wheat-flour",
+      "amount": 1.5,
+      "unit": "cup",
+      "notes": "for the dough"
+    },
+    {
+      "id": 2,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "use less than usual — slightly firm dough"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "ingredientSlug": "banana",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "just ripe, not overripe"
+    },
+    {
+      "id": 4,
+      "name": "Desiccated Coconut Powder",
+      "ingredientSlug": "coconut-powder",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "dry roasted"
+    },
+    {
+      "id": 5,
+      "name": "Cardamom Powder",
+      "ingredientSlug": "cardamom-powder",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "yalakki — just a pinch"
+    },
+    {
+      "id": 6,
+      "name": "Roasted Peanuts",
+      "ingredientSlug": "peanuts",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "pre-roasted and cooled"
+    },
+    {
+      "id": 7,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 4,
+      "unit": "tbsp",
+      "notes": "1 tsp for peanut paste, rest for frying — use more as needed"
+    },
+    {
+      "id": 8,
+      "name": "Powdered Sugar",
+      "ingredientSlug": "powdered-sugar",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "1–2 tbsp in peanut paste, rest for final dusting"
+    },
+    {
+      "id": 9,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "divided — pinch in banana filling, pinch in peanut paste, pinch in dough"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Assemble the layered pockets.",
+      "duration": 15,
+      "tips": [
+        "The layered structure — peanut, banana, peanut — is key. The peanut paste acts as a moisture barrier on both sides, keeping the dough from turning soggy.",
+        "Seal edges very firmly with no air pockets. Any gap will cause the pocket to burst open during frying.",
+        "Do not overfill — a thin, even layer of filling fries better and holds the shape."
+      ],
+      "subSteps": [
+        "Take one rolled disc and place it on a clean flat surface.",
+        "Spread a thin, even layer of peanut paste across one half of the disc — leave a 0.5 inch margin at the edges.",
+        "Place a small amount of banana mixture in the center on top of the peanut layer.",
+        "Spread another thin layer of peanut paste on top of the banana filling.",
+        "The structure from bottom to top should be: dough → peanut → banana → peanut.",
+        "Fold the disc over to form a half-moon shape.",
+        "Press the edges firmly together, making sure no air is trapped inside.",
+        "Crimp or press with a fork along the sealed edges for a tight, secure closure.",
+        "Repeat for all 8 discs.",
+        "Keep assembled pockets covered while you work."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Shape into diamonds.",
+      "duration": 5,
+      "tips": [
+        "Cutting before frying gives cleaner diamond edges and more even frying.",
+        "If you prefer, fry whole and cut immediately after frying while still warm — the filling stays contained better this way.",
+        "A sharp knife or pastry cutter gives the cleanest diamond cuts."
+      ],
+      "subSteps": [
+        "Take each sealed pocket and flatten it gently and evenly with your palm.",
+        "Using a sharp knife or pastry cutter, cut diagonally to create diamond shapes.",
+        "Each half-moon disc typically yields 2–3 diamonds depending on size.",
+        "Re-seal any cut edges that have opened up by pressing firmly.",
+        "Lay cut diamonds on a flat surface, not stacked, to keep their shape."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Fry the diamonds to golden crisp.",
+      "duration": 20,
+      "tips": [
+        "Slow frying on medium-low flame is essential — the banana filling needs time to heat through and the peanut paste needs to set without burning the outer shell.",
+        "Ghee gives a richer flavor than oil. Use a mix if ghee quantity is a concern.",
+        "Do not rush with high heat — the inside will remain raw while the outside burns.",
+        "Fry in small batches so the oil temperature stays consistent."
+      ],
+      "subSteps": [
+        "Heat ghee or oil in a deep pan or kadai on medium-low flame.",
+        "Test oil readiness by dropping a tiny piece of dough — it should rise slowly and sizzle gently.",
+        "Gently slide in 3–4 diamond pieces at a time. Do not overcrowd.",
+        "Fry on medium-low heat, turning occasionally, for 4–6 minutes per batch.",
+        "The pockets should turn an even golden color on all sides.",
+        "Flip gently using a slotted spoon to avoid breaking the sealed edges.",
+        "Remove when evenly golden and place on a plate lined with kitchen paper.",
+        "Let rest for 30–60 seconds before finishing."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Dust with powdered sugar and serve.",
+      "duration": 2,
+      "tips": [
+        "Dust while the pockets are warm so the sugar adheres lightly without melting completely.",
+        "Arrange in a neat diamond pattern on the serving plate for a premium presentation."
+      ],
+      "subSteps": [
+        "While the fried pockets are still warm (not piping hot), dust generously with powdered sugar.",
+        "Use a fine sieve or strainer for an even, light dusting.",
+        "Arrange on a serving plate in a neat diamond layout.",
+        "Serve immediately while warm for the best contrast of crisp shell and soft filling."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Royal Golden Peanut Banana Pockets — Diamond Cut Sweet Snack",
+    "metaDescription": "Crisp diamond-cut fried pockets layered with smooth peanut paste and soft banana, finished with a light sugar dust. An elegant Indian sweet snack."
+  }
+}
