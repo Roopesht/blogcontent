@@ -1,5 +1,29 @@
 [
   {
+    "slug": "ridge-gourd-curry-andhra",
+    "title": "Ridge Gourd Curry (Andhra Style)",
+    "description": "A rich, flavorful Andhra-style ridge gourd curry with caramelized garlic, fresh ginger, and a nutty podi coating. Perfect with warm chapathi or roti.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/ridge-gourd-curry-andhra.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "healthTags": [
+      "iron-rich",
+      "low-calorie"
+    ],
+    "category": "Vegetable Curry",
+    "difficulty": "medium",
+    "prepTime": 40,
+    "cookTime": 20,
+    "servings": 4,
+    "featured": false,
+    "publishedAt": "2026-06-01T00:00:00Z"
+  },
+  {
     "slug": "peanut-banana-pockets",
     "title": "Royal Golden Peanut Banana Pockets",
     "description": "Crisp golden diamond-cut pockets with a layered filling of smooth peanut paste and soft banana — light sugar dusted and served warm.",

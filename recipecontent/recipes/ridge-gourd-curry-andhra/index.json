@@ -1,0 +1,366 @@
+{
+  "slug": "ridge-gourd-curry-andhra",
+  "title": "Ridge Gourd Curry (Andhra Style)",
+  "description": "A rich, flavorful Andhra-style ridge gourd curry with caramelized garlic, fresh ginger, and a nutty podi coating. Perfect with warm chapathi or roti.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/ridge-gourd-curry-andhra.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/ridge-gourd-curry-andhra.png",
+  "difficulty": "medium",
+  "prepTime": 40,
+  "cookTime": 20,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian"],
+  "healthTags": ["iron-rich", "low-calorie"],
+  "category": "Vegetable Curry",
+  "featured": false,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Roast podi ingredients separately",
+      "duration": 15,
+      "subSteps": [
+        "Heat a dry pan on medium heat",
+        "Add coriander seeds and dry roast for 30-40 seconds until fragrant",
+        "Remove coriander seeds and set aside",
+        "Add cumin seeds to the same pan and dry roast for 20-30 seconds",
+        "Remove cumin seeds and set aside",
+        "Add sesame seeds and roast until they begin popping (1-2 minutes), stirring constantly",
+        "Remove sesame seeds and set aside",
+        "Add curry leaves to the pan and roast until crisp (30 seconds), stirring gently",
+        "Remove curry leaves and set aside",
+        "Add dry coconut to the pan and lightly roast until fragrant (1-2 minutes), stirring often",
+        "Remove dry coconut and set aside",
+        "Lightly roast 3 garlic cloves in the pan for 30-40 seconds until golden",
+        "Allow all roasted ingredients to cool completely (at least 5 minutes)",
+        "VALIDATION: All roasted ingredients should release their aromas but not be burnt. Sesame seeds should have popped. Garlic should be light golden, not dark brown. Curry leaves should snap when bent."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Grind podi ingredients into coarse powder",
+      "duration": 5,
+      "subSteps": [
+        "Add cooled groundnuts (1/2 cup) to a mixer or food processor",
+        "Add cooled dry coconut (2 tbsp)",
+        "Add cooled sesame seeds (1 tbsp)",
+        "Add cooled curry leaves (12 leaves)",
+        "Add dry red chillies (5 whole)",
+        "Add cooled coriander seeds (1 tbsp)",
+        "Add cooled cumin seeds (1/2 tsp)",
+        "Add cooled garlic cloves (3 cloves)",
+        "Add salt (1/4 tsp, adjust to taste)",
+        "Pulse the mixture 4-5 times until ingredients are broken down into a coarse powder",
+        "Do not grind into a fine paste - keep it textured and coarse",
+        "Transfer to a bowl and separate into two portions: 3-4 tbsp for mixing into curry, and 2 tbsp for garnishing",
+        "VALIDATION: The podi should resemble breadcrumbs with visible groundnut pieces, not a fine powder. You should be able to see individual ingredients. The coarser garnish portion should have larger chunks of groundnuts visible."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare vegetables for curry",
+      "duration": 10,
+      "subSteps": [
+        "Peel the ridge gourd (beerakaya) by scraping with a vegetable peeler or knife",
+        "Rinse the peeled ridge gourd thoroughly under running water",
+        "Dice the ridge gourd into 1/2 to 3/4 inch cubes, removing any tough center seed portions",
+        "Peel 1 large onion and cut in half",
+        "Chop the onion into medium pieces (approximately 1/4 to 1/2 inch)",
+        "Cut 2 green chillies in half lengthwise, remove seeds if you prefer less heat",
+        "Chop the green chillies finely into 1/4 inch pieces",
+        "Measure and mince 8 garlic cloves finely (approximately 1/8 inch pieces)",
+        "Peel a 1-inch piece of fresh ginger",
+        "Grate the ginger finely to get 1 tsp of grated ginger",
+        "Chop fresh coriander leaves (2 tbsp, about 1/4 cup loosely packed)",
+        "VALIDATION: Ridge gourd cubes should be uniform in size (1/2 to 3/4 inch). Onion pieces should be similar in size to ridge gourd cubes. Garlic should be minced into tiny pieces, not sliced. Ginger should be finely grated. Coriander leaves should be roughly chopped."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Ridge gourd",
+      "ingredientSlug": "ridge-gourd",
+      "amount": 500,
+      "unit": "g",
+      "notes": "peeled and diced into 1/2 to 3/4 inch cubes"
+    },
+    {
+      "id": 2,
+      "name": "Large onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 3,
+      "name": "Green chillies",
+      "ingredientSlug": "green-chillies",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "finely chopped, seeds removed for less heat"
+    },
+    {
+      "id": 4,
+      "name": "Garlic cloves",
+      "ingredientSlug": "garlic",
+      "amount": 11,
+      "unit": "cloves",
+      "notes": "8 cloves finely diced for curry, 3 cloves for podi"
+    },
+    {
+      "id": 5,
+      "name": "Fresh ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "id": 6,
+      "name": "Turmeric powder",
+      "ingredientSlug": "turmeric-powder",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "name": "Jaggery",
+      "ingredientSlug": "jaggery",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "grated or crumbled"
+    },
+    {
+      "id": 8,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.75,
+      "unit": "tsp",
+      "notes": "adjust to taste, used in curry and podi"
+    },
+    {
+      "id": 9,
+      "name": "Groundnut oil",
+      "ingredientSlug": "groundnut-oil",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "or sesame oil for enhanced flavor"
+    },
+    {
+      "id": 10,
+      "name": "Mustard seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "name": "Cumin seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "1 tsp for tempering, 0.5 tsp for podi"
+    },
+    {
+      "id": 12,
+      "name": "Curry leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 22,
+      "unit": "leaves",
+      "notes": "1 sprig (about 10 leaves) for tempering, 12 for podi"
+    },
+    {
+      "id": 13,
+      "name": "Coriander seeds",
+      "ingredientSlug": "coriander-seeds",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "for podi, dry roasted"
+    },
+    {
+      "id": 14,
+      "name": "Sesame seeds",
+      "ingredientSlug": "sesame-seeds",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "for podi, dry roasted"
+    },
+    {
+      "id": 15,
+      "name": "Dry coconut",
+      "ingredientSlug": "dry-coconut",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "for podi, lightly roasted"
+    },
+    {
+      "id": 16,
+      "name": "Dry red chillies",
+      "ingredientSlug": "dry-red-chillies",
+      "amount": 5,
+      "unit": "whole",
+      "notes": "for podi, adjust quantity for more or less heat"
+    },
+    {
+      "id": 17,
+      "name": "Roasted groundnuts",
+      "ingredientSlug": "roasted-groundnuts",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "for podi, unskinned preferred"
+    },
+    {
+      "id": 18,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "optional but recommended for richness"
+    },
+    {
+      "id": 19,
+      "name": "Fresh coriander leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "finely chopped, for garnish"
+    },
+    {
+      "id": 20,
+      "name": "Lemon juice",
+      "ingredientSlug": "lemon-juice",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "fresh squeezed"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil and temper spices",
+      "duration": 2,
+      "subSteps": [
+        "Heat a thick-bottomed kadai or heavy-bottomed pan over medium-high heat",
+        "Add 2 tbsp groundnut oil to the pan",
+        "Allow oil to heat until a small mustard seed sizzles immediately when dropped in (approximately 30 seconds)",
+        "Add 1/2 tsp mustard seeds to the hot oil",
+        "Let the mustard seeds splutter and pop for 10-15 seconds, tilting the pan if needed to contain them",
+        "Immediately add 1 tsp cumin seeds before the mustard seeds stop sputtering",
+        "Add curry leaves (1 sprig, about 10 leaves) right after the cumin seeds",
+        "VALIDATION: Mustard seeds should splutter and pop loudly. Cumin seeds should become fragrant. You should hear the crackling sounds and smell the aromatic spices."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Cook garlic until caramelized",
+      "duration": 3,
+      "subSteps": [
+        "Reduce heat to medium as soon as spices are sputtering",
+        "Immediately add 8 minced garlic cloves to the pan",
+        "Stir continuously to distribute garlic evenly in the oil",
+        "Cook garlic for 2-3 minutes, stirring frequently to prevent burning",
+        "Watch the color of the garlic carefully - it should turn from white to light golden brown",
+        "Do not let the garlic turn dark brown or black, as it will become bitter",
+        "When garlic turns light golden and releases a rich, nutty aroma, proceed to the next step",
+        "VALIDATION: Garlic should be light golden brown with a rich, nutty aroma. Some garlic pieces may stick to the bottom of the pan slightly (this is good - it adds flavor). The kitchen should smell strongly of roasted garlic."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Build the flavor base with onions and aromatics",
+      "duration": 8,
+      "subSteps": [
+        "Add the chopped onions to the pan immediately after the garlic is golden",
+        "Stir well to combine onions with the garlic and spiced oil",
+        "Cook on medium flame for 3-4 minutes, stirring occasionally",
+        "The onions should gradually soften and turn translucent",
+        "Continue cooking until the onions become soft and develop a light golden color at the edges (total 4-5 minutes)",
+        "Add 2 finely chopped green chillies to the pan",
+        "Stir for 30 seconds to combine",
+        "Add 1 tsp freshly grated ginger to the pan",
+        "Cook for 1 minute, stirring constantly until the ginger is fully combined and fragrant",
+        "Add 1/4 tsp turmeric powder to the pan",
+        "Mix well, ensuring the turmeric is distributed evenly throughout the mixture",
+        "The oil should start coating the mixture and the color should become more golden",
+        "VALIDATION: Onions should be soft and light golden but not browned. Ginger should be fragrant and fully incorporated. Turmeric should tint the mixture golden. The mixture should look like a spice paste coating everything."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Cook the ridge gourd until tender",
+      "duration": 12,
+      "subSteps": [
+        "Add 500g diced ridge gourd to the pan",
+        "Add approximately 1/2 tsp salt (adjust based on taste preference)",
+        "Mix thoroughly, ensuring every piece of ridge gourd is coated with the spiced oil mixture",
+        "Let the ridge gourd cook uncovered on medium flame for 4-5 minutes",
+        "The ridge gourd will start releasing water - this is normal and desired",
+        "Stir occasionally to prevent sticking and ensure even cooking",
+        "After 4-5 minutes, most of the moisture should have evaporated",
+        "If the curry appears too wet, continue cooking uncovered for another 1-2 minutes",
+        "The goal is a moist curry with just enough moisture to coat the ingredients, not a watery dish",
+        "You should see the ridge gourd pieces becoming soft and slightly translucent at the edges",
+        "VALIDATION: Ridge gourd should be completely cooked through and soft when pierced with a fork. The curry should be moist but not watery - if you tilt the pan, the liquid should move slowly, not pool at the bottom. The ridge gourd pieces should maintain their shape but be easy to break apart."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Add jaggery for sweetness",
+      "duration": 1,
+      "subSteps": [
+        "When the ridge gourd is fully cooked and most moisture has evaporated, taste the curry",
+        "Add 1/2 tsp jaggery to the pan (grated or crumbled finely)",
+        "Mix gently but thoroughly, ensuring the jaggery dissolves completely",
+        "Cook for 1 minute to allow the jaggery to meld with the other flavors",
+        "VALIDATION: The jaggery should dissolve into the curry, adding sweetness that balances the heat from the chillies. You should not see jaggery crystals anymore. Taste the curry - it should have a subtle sweetness that enhances rather than dominates the flavor."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Coat with podi and finish cooking",
+      "duration": 3,
+      "subSteps": [
+        "Reduce the flame to low heat",
+        "Add 3-4 tbsp of the prepared podi (the finer ground portion) to the curry",
+        "Mix gently but thoroughly with a spoon or spatula, ensuring every piece of ridge gourd is coated with podi",
+        "Continue stirring for 1-2 minutes on low heat to allow the podi to fully incorporate",
+        "Add 1 tsp ghee to the pan",
+        "Mix again gently to distribute the ghee throughout the curry",
+        "Cook for another 1 minute on low heat",
+        "The curry should now have a rich, nutty coating and aroma",
+        "Switch off the flame",
+        "VALIDATION: Every piece of ridge gourd should have a visible coating of podi. The curry should smell strongly of roasted groundnuts, sesame, and spices. The texture should be moist but crumbly, not wet. The ghee should give the curry a glossy appearance."
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Final finishing and garnish",
+      "duration": 2,
+      "subSteps": [
+        "Add 2 tbsp finely chopped fresh coriander leaves to the hot curry",
+        "Add 1 tsp fresh lemon juice to the curry",
+        "Mix gently, just 2-3 times to combine the coriander and lemon",
+        "Do not overmix - you want to maintain the texture",
+        "Transfer the curry to a serving bowl",
+        "Sprinkle the reserved 2 tbsp coarse peanut-rich podi powder on top",
+        "Do not mix the garnish into the curry - leave it as a textured topping",
+        "Let the curry rest for 5 minutes before serving to allow flavors to settle",
+        "VALIDATION: The curry should have a bright green coriander garnish on top and a visible layer of coarse peanut podi powder that provides a crunchy texture contrast. The lemon juice should provide a subtle tang that brightens the overall flavor. The aroma should be complex - nutty, spicy, and herbaceous all at once."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Ridge Gourd Curry (Andhra Style) — Beerakaya Podi Curry",
+    "metaDescription": "Learn to make authentic Andhra-style ridge gourd curry with caramelized garlic, nutty podi coating, and fresh ginger. Perfect South Indian vegetable curry recipe."
+  }
+}
