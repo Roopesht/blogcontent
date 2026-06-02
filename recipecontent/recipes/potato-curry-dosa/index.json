@@ -1,0 +1,320 @@
+{
+  "slug": "potato-curry-dosa",
+  "title": "Fiber-Rich Hotel Style Potato Curry for Dosa",
+  "description": "A flavorful South Indian potato curry with zero wastage, featuring mashed and chunked potatoes for the perfect dosa pairing. Fresh coriander leaves, tender stems, and aromatic tempering create a creamy, fiber-rich curry.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/potato-curry-dosa.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/potato-curry-dosa.png",
+  "difficulty": "medium",
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 5,
+  "defaultServings": 5,
+  "cuisines": [
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-fiber",
+    "high-potassium",
+    "low-calorie"
+  ],
+  "category": "Breakfast",
+  "featured": false,
+  "popular": false,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Cook potatoes until soft.",
+      "duration": 15,
+      "subSteps": [
+        "Peel 700g potatoes and cut into halves or quarters.",
+        "Pressure cook with 1 cup water for 3-4 whistles until soft.",
+        "Allow to cool slightly.",
+        "VALIDATION: Potatoes soft enough to pierce with a fork easily."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Peel and mash potatoes.",
+      "duration": 5,
+      "subSteps": [
+        "Peel warm potatoes carefully.",
+        "Mash about 70% into a coarse mash.",
+        "Leave about 30% as small chunks (½ inch pieces).",
+        "Keep aside in a bowl.",
+        "VALIDATION: Mixed texture - mostly smooth mash with visible potato chunks."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare vegetables and aromatics.",
+      "duration": 10,
+      "subSteps": [
+        "Slice 2 large onions thinly (⅛ inch slices).",
+        "Deseed 5 medium green chillies and slice finely.",
+        "Grate 2 tbsp fresh ginger (not paste).",
+        "Finely chop 1 packed cup coriander leaves.",
+        "Finely chop tender coriander stems from the bunch.",
+        "Measure out mustard seeds (1 tsp), chana dal (1 tsp), urad dal (1 tsp), cumin seeds (1 tsp).",
+        "Finely chop 15-20 curry leaves.",
+        "VALIDATION: Onions uniformly thin. Green chillies finely sliced. Ginger finely grated, not chunky."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Potato",
+      "ingredientSlug": "potato",
+      "amount": 700,
+      "unit": "g",
+      "notes": "peeled and cooked"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 2,
+      "unit": "large",
+      "notes": "thinly sliced"
+    },
+    {
+      "id": 3,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 5,
+      "unit": "medium",
+      "notes": "deseeded and finely sliced"
+    },
+    {
+      "id": 4,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "fresh, grated"
+    },
+    {
+      "id": 5,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 1,
+      "unit": "packed cup",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 6,
+      "name": "Coriander Stems",
+      "ingredientSlug": "coriander-stems",
+      "amount": 1,
+      "unit": "bunch",
+      "notes": "tender stems, finely chopped"
+    },
+    {
+      "id": 7,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "vegetable or neutral oil"
+    },
+    {
+      "id": 8,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Chana Dal",
+      "ingredientSlug": "chana-dal",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Urad Dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 11,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 15,
+      "unit": "leaves",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 13,
+      "name": "Asafoetida (Hing)",
+      "ingredientSlug": "asafoetida",
+      "amount": 1,
+      "unit": "pinch"
+    },
+    {
+      "id": 14,
+      "name": "Turmeric Powder",
+      "ingredientSlug": "turmeric-powder",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 15,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "or to taste"
+    },
+    {
+      "id": 16,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 1.5,
+      "unit": "cups",
+      "notes": "hot"
+    },
+    {
+      "id": 17,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "optional but recommended"
+    },
+    {
+      "id": 18,
+      "name": "Lemon Juice",
+      "ingredientSlug": "lemon-juice",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the tempering base.",
+      "duration": 2,
+      "subSteps": [
+        "Heat 3 tbsp oil in a thick-bottomed kadai over medium heat.",
+        "Add 1 tsp mustard seeds.",
+        "Allow them to splutter and pop (15-20 seconds).",
+        "Add 1 tsp chana dal and 1 tsp urad dal.",
+        "Saute until light golden (1-2 minutes).",
+        "Add 1 tsp cumin seeds and saute for 20-30 seconds.",
+        "VALIDATION: Mustard seeds have popped. Dals are light golden, not brown. Cumin is fragrant."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Add aromatic curry leaves and hing.",
+      "duration": 1,
+      "subSteps": [
+        "Add finely chopped curry leaves and 1 pinch hing.",
+        "Saute for 20-30 seconds.",
+        "VALIDATION: Curry leaves are fragrant. The spice aroma is strong."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Build the flavor base with onions and chillies.",
+      "duration": 8,
+      "subSteps": [
+        "Add 2 thinly sliced onions and 5 finely sliced green chillies.",
+        "Saute on medium flame for 6-8 minutes.",
+        "Cook until onions become soft, translucent, and lightly sweet.",
+        "Do not brown heavily.",
+        "VALIDATION: Onions are soft and translucent, not crispy or brown. They should feel silky when stirred."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Add ginger and turmeric.",
+      "duration": 2,
+      "subSteps": [
+        "Add 2 tbsp freshly grated ginger.",
+        "Cook for 1 minute.",
+        "Add 0.25 tsp turmeric powder.",
+        "Mix thoroughly for 30 seconds.",
+        "VALIDATION: Ginger is fragrant and evenly distributed. Yellow color from turmeric is uniform."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Add potatoes and salt.",
+      "duration": 2,
+      "subSteps": [
+        "Add the mashed and chunked potatoes.",
+        "Add salt to taste (approximately 1 tsp).",
+        "Mix thoroughly so onions and spices are evenly distributed.",
+        "VALIDATION: Potatoes are well coated with the spiced onion mixture. No dry patches."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Simmer with water to create curry consistency.",
+      "duration": 7,
+      "subSteps": [
+        "Add 1.5 to 2 cups hot water.",
+        "Mix thoroughly.",
+        "Bring to a gentle simmer on medium heat.",
+        "Reduce heat to low and simmer for 5-7 minutes.",
+        "Stir occasionally.",
+        "The potatoes will absorb flavors and become silky.",
+        "VALIDATION: Curry is soft and spoonable, not dry. Potatoes are silky and flavors are well absorbed."
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Add fresh coriander.",
+      "duration": 1,
+      "subSteps": [
+        "Add finely chopped coriander leaves and tender coriander stems.",
+        "Mix thoroughly.",
+        "Cook for 1 minute.",
+        "VALIDATION: Coriander is evenly distributed and becomes part of the curry."
+      ]
+    },
+    {
+      "order": 8,
+      "instruction": "Final finish.",
+      "duration": 3,
+      "tips": [
+        "Allowing the curry to rest helps flavors meld beautifully."
+      ],
+      "subSteps": [
+        "Switch off the flame.",
+        "Add 1 tbsp ghee (optional but recommended).",
+        "Add 1 tsp lemon juice (optional).",
+        "Mix gently.",
+        "Allow the curry to rest for 5 minutes before serving.",
+        "VALIDATION: Curry is aromatic and silky. All ingredients are well incorporated."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Potato Curry for Dosa — Hotel Style Recipe",
+    "metaDescription": "Authentic fiber-rich potato curry for dosa with fresh coriander and aromatic tempering. Zero-wastage South Indian breakfast side dish."
+  }
+}
