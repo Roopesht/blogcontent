@@ -1,5 +1,30 @@
 [
   {
+    "slug": "andhra-drumstick-sambar",
+    "title": "Andhra Style Drumstick Sambar",
+    "description": "Rich and aromatic Andhra-style sambar with tender drumsticks, featuring tamarind tang, fresh ginger aroma, and aromatic tadka. Perfect with rice, dosa, idli, and vada.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-drumstick-sambar.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "high-protein",
+      "fiber-rich"
+    ],
+    "category": "Curry",
+    "difficulty": "medium",
+    "prepTime": 30,
+    "cookTime": 50,
+    "servings": 3,
+    "featured": false,
+    "publishedAt": "2026-06-03T00:00:00Z"
+  },
+  {
     "slug": "potato-curry-dosa",
     "title": "Fiber-Rich Hotel Style Potato Curry for Dosa",
     "description": "A flavorful South Indian potato curry with zero wastage, featuring mashed and chunked potatoes for the perfect dosa pairing. Fresh coriander leaves, tender stems, and aromatic tempering create a creamy, fiber-rich curry.",

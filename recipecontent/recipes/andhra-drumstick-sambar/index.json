@@ -1,0 +1,323 @@
+{
+  "slug": "andhra-drumstick-sambar",
+  "title": "Andhra Style Drumstick Sambar",
+  "description": "Rich and aromatic Andhra-style sambar with tender drumsticks, featuring tamarind tang, fresh ginger aroma, and aromatic tadka. Perfect with rice, dosa, idli, and vada.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-drumstick-sambar.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-drumstick-sambar.png",
+  "difficulty": "medium",
+  "prepTime": 30,
+  "cookTime": 50,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free"],
+  "healthTags": ["high-protein", "fiber-rich"],
+  "category": "Curry",
+  "featured": false,
+  "variants": [{"name": "Standard", "adjustments": {}}],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Wash and soak tamarind",
+      "duration": 15,
+      "subSteps": [
+        "Place 18 g tamarind (lemon-sized ball) in a bowl",
+        "Add 250 ml warm water",
+        "Soak for 15 minutes at room temperature",
+        "VALIDATION: Tamarind becomes soft and pliable. Water turns light brown."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare vegetables and aromatics",
+      "duration": 15,
+      "subSteps": [
+        "Cut 170 g tender drumsticks into 2-inch uniform pieces",
+        "Slice 150 g onion into thin, even slices (¼ inch)",
+        "Dice 100 g tomato into small bite-sized pieces",
+        "Grate 10 g fresh ginger finely (about 1 tbsp)",
+        "Finely chop 20 g coriander leaves with tender stems (about ½ cup)",
+        "Measure out curry leaves (15-20 fresh leaves)",
+        "VALIDATION: Drumstick pieces are uniform. Onion slices are thin and translucent. Ginger is finely grated. Coriander stems are tender."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Cook toor dal",
+      "duration": 20,
+      "subSteps": [
+        "Wash 120 g toor dal under running water 3 times until water runs clear",
+        "Add washed dal to pressure cooker",
+        "Add 500 ml water",
+        "Add 1 g turmeric powder (¼ tsp)",
+        "Stir to combine",
+        "Pressure cook on high heat until 4 whistles",
+        "Allow pressure to release naturally",
+        "VALIDATION: Dal grains are fully cooked and soft. Dal mashes easily with back of spoon. No hard grains remain."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Toor Dal",
+      "ingredientSlug": "toor-dal",
+      "amount": 120,
+      "unit": "g",
+      "notes": "also called kandi pappu in Andhra"
+    },
+    {
+      "id": 2,
+      "name": "Tender Drumsticks",
+      "ingredientSlug": "drumsticks",
+      "amount": 170,
+      "unit": "g",
+      "notes": "4 pieces, about 2-inch length each"
+    },
+    {
+      "id": 3,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 150,
+      "unit": "g",
+      "notes": "1 large, thinly sliced"
+    },
+    {
+      "id": 4,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 100,
+      "unit": "g",
+      "notes": "1 medium, diced"
+    },
+    {
+      "id": 5,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 18,
+      "unit": "g",
+      "notes": "small lemon-sized ball, or 15-20 g"
+    },
+    {
+      "id": 6,
+      "name": "Fresh Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 10,
+      "unit": "g",
+      "notes": "finely grated"
+    },
+    {
+      "id": 7,
+      "name": "Coriander Leaves with Tender Stems",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 20,
+      "unit": "g",
+      "notes": "finely chopped, about ½ cup"
+    },
+    {
+      "id": 8,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 18,
+      "unit": "leaves",
+      "notes": "fresh, 15-20 leaves for cooking"
+    },
+    {
+      "id": 9,
+      "name": "Turmeric Powder",
+      "ingredientSlug": "turmeric-powder",
+      "amount": 1,
+      "unit": "g",
+      "notes": "¼ tsp"
+    },
+    {
+      "id": 10,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 9,
+      "unit": "g",
+      "notes": "or to taste, about 1.5 tsp"
+    },
+    {
+      "id": 11,
+      "name": "Sambar Powder",
+      "ingredientSlug": "sambar-powder",
+      "amount": 15,
+      "unit": "g",
+      "notes": "1.5 tbsp, ensure it is fresh"
+    },
+    {
+      "id": 12,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 10,
+      "unit": "g",
+      "notes": "2 tsp, for tadka"
+    },
+    {
+      "id": 13,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 10,
+      "unit": "g",
+      "notes": "2 tsp, for tadka"
+    },
+    {
+      "id": 14,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 3,
+      "unit": "g",
+      "notes": "½ tsp"
+    },
+    {
+      "id": 15,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 2,
+      "unit": "g",
+      "notes": "½ tsp"
+    },
+    {
+      "id": 16,
+      "name": "Chana Dal",
+      "ingredientSlug": "chana-dal",
+      "amount": 5,
+      "unit": "g",
+      "notes": "1 tsp, for tadka"
+    },
+    {
+      "id": 17,
+      "name": "Urad Dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 5,
+      "unit": "g",
+      "notes": "1 tsp, for tadka"
+    },
+    {
+      "id": 18,
+      "name": "Dry Red Chillies",
+      "ingredientSlug": "dry-red-chilli",
+      "amount": 2,
+      "unit": "pieces",
+      "notes": "whole, for tadka"
+    },
+    {
+      "id": 19,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 1,
+      "unit": "clove",
+      "notes": "1-2 cloves, thinly sliced"
+    },
+    {
+      "id": 20,
+      "name": "Hing (Asafetida)",
+      "ingredientSlug": "asafetida",
+      "amount": 1,
+      "unit": "pinch",
+      "notes": "a small pinch"
+    },
+    {
+      "id": 21,
+      "name": "Curry Leaves for Tadka",
+      "ingredientSlug": "curry-leaves-tadka",
+      "amount": 7,
+      "unit": "leaves",
+      "notes": "fresh, 6-8 leaves"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Extract tamarind juice",
+      "duration": 5,
+      "subSteps": [
+        "Using hands or spoon, mash soaked tamarind thoroughly to extract juice",
+        "Strain the extract through a fine sieve into a clean bowl",
+        "Discard all fibers and seeds",
+        "Set tamarind extract aside",
+        "VALIDATION: Extract is smooth and pulp-free. No fibrous pieces visible. Dark brown color."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Cook drumsticks with aromatics",
+      "duration": 15,
+      "subSteps": [
+        "Heat a heavy-bottomed pot or kadai over medium heat",
+        "Add prepared drumstick pieces (2-inch cut)",
+        "Add sliced onion, diced tomato, grated ginger",
+        "Pour in tamarind extract and add salt (9 g)",
+        "Stir well to combine all ingredients",
+        "Cook uncovered over medium heat for 12-15 minutes",
+        "VALIDATION: Drumstick pieces become tender and easily pierced. Onion turns soft and translucent. Tomato starts breaking down. Liquid simmers gently."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Add sambar powder",
+      "duration": 3,
+      "subSteps": [
+        "Add 15 g sambar powder (1.5 tbsp) to the cooking sambar",
+        "Mix thoroughly with a spoon to dissolve completely",
+        "Cook for 2-3 minutes on medium heat",
+        "VALIDATION: Raw spice smell completely disappears. Sambar develops rich, warm Andhra aroma. Color becomes darker and deeper."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Add cooked dal",
+      "duration": 10,
+      "subSteps": [
+        "Take cooked dal from pressure cooker",
+        "Mash thoroughly with back of spoon until mostly smooth (some texture is okay)",
+        "Add mashed dal to the sambar pot",
+        "Pour 300-400 ml hot water into the pot",
+        "Stir thoroughly to distribute dal evenly",
+        "Reduce heat to low and simmer uncovered for 10 minutes",
+        "VALIDATION: Sambar becomes creamy and smooth. Drumstick flavor infuses into broth. Gentle bubbling visible on surface. Oil starts to appear."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Prepare tadka",
+      "duration": 5,
+      "subSteps": [
+        "In a small tadka pan, heat 10 g ghee + 10 g oil (2 tsp each) over medium-high heat",
+        "Once ghee is melted and oil is hot, add 3 g mustard seeds (½ tsp)",
+        "Allow seeds to sputter for 10-15 seconds, they will pop and splutter",
+        "Add 5 g chana dal (1 tsp) and 5 g urad dal (1 tsp)",
+        "Stir constantly for 2-3 minutes until dals become light golden",
+        "Add 2 g cumin seeds (½ tsp), stir for 10 seconds",
+        "Add thinly sliced garlic (1-2 cloves), reduce to medium heat",
+        "Cook garlic for 1-2 minutes until light golden (not brown)",
+        "Add 2 dry red chillies (whole pieces)",
+        "Add curry leaves (6-8 leaves)",
+        "Add 1 pinch hing (asafetida)",
+        "Cook for 15 seconds until fragrance intensifies",
+        "VALIDATION: Mustard seeds sputter and pop. Dals become golden. Garlic is light golden and aromatic. Dry chillies darken slightly. Strong, complex aroma develops throughout tadka."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Finish sambar",
+      "duration": 10,
+      "subSteps": [
+        "Ensure sambar is still simmering gently on low heat",
+        "Carefully pour the hot tadka over the simmering sambar",
+        "The tadka will sizzle and create aromatic oil",
+        "Immediately add 20 g chopped coriander leaves and tender stems (½ cup)",
+        "Gently fold coriander into the sambar",
+        "Cover the pot immediately with a lid",
+        "Remove from heat and let rest for 10 minutes",
+        "Stir gently before serving",
+        "VALIDATION: Fresh coriander aroma spreads. Tadka fragrance permeates entire sambar. Oil droplets visible on surface. Sambar is creamy and well-blended. Flavors have mellowed and integrated."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Andhra Drumstick Sambar Recipe (50 Chars)",
+    "metaDescription": "Learn to make authentic Andhra-style drumstick sambar with tender drumsticks, tamarind tang, and aromatic tadka. Perfect with rice and South Indian dishes."
+  }
+}

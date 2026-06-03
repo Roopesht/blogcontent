@@ -62,7 +62,7 @@
       "subSteps": [
         "Slice 2 large onions thinly (⅛ inch slices).",
         "Deseed 5 medium green chillies and slice finely.",
-        "Grate 2 tbsp fresh ginger (not paste).",
+        "Grate 1 tbsp fresh ginger (not paste).",
         "Finely chop 1 packed cup coriander leaves.",
         "Finely chop tender coriander stems from the bunch.",
         "Measure out mustard seeds (1 tsp), chana dal (1 tsp), urad dal (1 tsp), cumin seeds (1 tsp).",
@@ -100,7 +100,7 @@
       "id": 4,
       "name": "Ginger",
       "ingredientSlug": "ginger",
-      "amount": 2,
+      "amount": 1,
       "unit": "tbsp",
       "notes": "fresh, grated"
     },
