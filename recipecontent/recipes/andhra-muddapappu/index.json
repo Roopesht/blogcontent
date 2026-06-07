@@ -1,0 +1,249 @@
+{
+  "slug": "andhra-muddapappu",
+  "title": "Andhra Muddapappu (Andhra Style Dal for Rice)",
+  "description": "A creamy, aromatic Andhra toor dal with a bold garlic-based tempering, coriander finish, and optional lemon tang. Simple, comforting, and best served with hot rice and ghee.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-muddapappu.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-muddapappu.png",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": [
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein",
+    "fiber-rich"
+  ],
+  "category": "Dal",
+  "featured": true,
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Wash and prep the dal and aromatics.",
+      "duration": 10,
+      "tips": [
+        "Washing the dal removes surface starch and ensures it cooks evenly.",
+        "Lightly crushing garlic releases its natural oils and enhances flavor absorption."
+      ],
+      "subSteps": [
+        "Wash toor dal 2–3 times under water until water runs clear.",
+        "Transfer washed dal to a bowl and set aside.",
+        "Slit green chilies lengthwise.",
+        "Lightly crush 2 garlic cloves with the flat of a knife.",
+        "VALIDATION: Dal is clean and white when wet. Green chilies are slit without breaking. Garlic is loosely crushed, not minced."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Toor Dal",
+      "ingredientSlug": "toor-dal",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "washed well"
+    },
+    {
+      "id": 2,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 3,
+      "unit": "cups",
+      "notes": "for pressure cooking"
+    },
+    {
+      "id": 3,
+      "name": "Green Chilli",
+      "ingredientSlug": "green-chilli",
+      "amount": 3,
+      "unit": "whole",
+      "notes": "slit"
+    },
+    {
+      "id": 4,
+      "name": "Turmeric",
+      "ingredientSlug": "turmeric",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 5,
+      "name": "Hing (Asafoetida)",
+      "ingredientSlug": "hing",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "non-negotiable for digestion and flavor"
+    },
+    {
+      "id": 6,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 7,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 8,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 10,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 4,
+      "unit": "cloves",
+      "notes": "lightly crushed; 2 for pressure cooker, 2 for tempering"
+    },
+    {
+      "id": 11,
+      "name": "Dry Red Chilli",
+      "ingredientSlug": "dry-red-chilli",
+      "amount": 2,
+      "unit": "whole",
+      "notes": "broken"
+    },
+    {
+      "id": 12,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 8,
+      "unit": "whole"
+    },
+    {
+      "id": 13,
+      "name": "Fresh Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "finely chopped; added after turning off flame"
+    },
+    {
+      "id": 14,
+      "name": "Lemon",
+      "ingredientSlug": "lemon",
+      "amount": 0.5,
+      "unit": "whole",
+      "notes": "optional; squeezed just before serving"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pressure cook the dal with aromatics.",
+      "duration": 15,
+      "tips": [
+        "4–5 whistles ensures the dal is completely soft and mashable.",
+        "Adding green chilies, turmeric, and hing directly in the cooker infuses their flavors throughout.",
+        "Let pressure release naturally — do not force the lid open."
+      ],
+      "subSteps": [
+        "Add washed toor dal to a pressure cooker.",
+        "Add 3 cups water, slit green chilies, turmeric, 2 crushed garlic cloves, and hing.",
+        "Close the lid and bring to pressure on high heat.",
+        "Once pressure builds, reduce heat to medium and cook for 4–5 whistles.",
+        "Turn off heat and allow pressure to release naturally for 5 minutes.",
+        "Carefully open the cooker and mash the dal until smooth and creamy using a dal masher.",
+        "VALIDATION: Dal is completely soft with no whole seeds remaining. Consistency is thick and pourable, not watery."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the tempering.",
+      "duration": 5,
+      "tips": [
+        "Tempering spices in hot ghee releases their essential oils and aroma.",
+        "Cook garlic until lightly golden (30–40 seconds) — under-cooked garlic tastes sharp and raw.",
+        "Add hing only after turning off the heat to preserve its aroma."
+      ],
+      "subSteps": [
+        "Heat 2 tbsp ghee in a small pan over medium heat.",
+        "Add 1 tsp mustard seeds and wait for them to splutter fully (15–20 seconds).",
+        "Add 1 tsp cumin seeds — they will sizzle immediately.",
+        "Add 2 crushed garlic cloves and sauté, stirring, for 30–40 seconds until lightly golden.",
+        "Add 2 broken dry red chilies and fry for 10 seconds until they darken.",
+        "Add 8 curry leaves — they will splatter, so stand back. Fry for 5 seconds until crisp.",
+        "Turn off the heat.",
+        "Add 0.25 tsp hing and stir once.",
+        "VALIDATION: Mustard and cumin seeds have sputtered and turned brown. Garlic is light golden. Curry leaves are crisp and dark green."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Finish the dal with tempering and coriander.",
+      "duration": 3,
+      "tips": [
+        "Add salt to the hot dal immediately after mashing — it distributes evenly.",
+        "Coriander should be added only after turning off the flame to preserve its fresh aroma.",
+        "Lemon juice (optional) should be added just before serving for maximum brightness."
+      ],
+      "subSteps": [
+        "Add salt to the mashed dal and mix well.",
+        "Pour the hot tempering over the dal.",
+        "Stir gently to distribute the tempering evenly.",
+        "Simmer the dal on low heat for 2–3 minutes until the dal thickens slightly.",
+        "Turn off the flame.",
+        "Stir in finely chopped fresh coriander leaves.",
+        "If desired, add lemon juice and 1 tsp ghee.",
+        "Cover the dal pot for 5 minutes to rest and let flavors settle.",
+        "Give a final gentle stir and serve hot.",
+        "VALIDATION: Tempering oil is visibly mixed throughout the dal. Coriander is evenly distributed and still bright green. Dal is creamy and pourable, not stiff."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "With Onion",
+      "adjustments": {
+        "onion": {
+          "amount": 0.5,
+          "unit": "medium",
+          "notes": "finely chopped, added during pressure cooking"
+        }
+      }
+    },
+    {
+      "name": "Extra Spicy",
+      "adjustments": {
+        "dry-red-chilli": {
+          "multiplier": 2
+        },
+        "green-chilli": {
+          "multiplier": 1.5
+        }
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Andhra Muddapappu Recipe | Creamy Toor Dal with Garlic Tempering",
+    "metaDescription": "Authentic Andhra Muddapappu (toor dal) with bold garlic tempering, fresh coriander, and aromatic spices. A simple everyday dal, best served with hot rice and ghee."
+  }
+}

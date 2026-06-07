@@ -1,5 +1,30 @@
 [
   {
+    "slug": "andhra-muddapappu",
+    "title": "Andhra Muddapappu (Andhra Style Dal for Rice)",
+    "description": "A creamy, aromatic Andhra toor dal with a bold garlic-based tempering, coriander finish, and optional lemon tang. Simple, comforting, and best served with hot rice and ghee.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-muddapappu.png",
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "fiber-rich"
+    ],
+    "category": "Dal",
+    "difficulty": "easy",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 3,
+    "featured": true,
+    "publishedAt": "2026-06-07T00:00:00Z"
+  },
+  {
     "slug": "andhra-drumstick-sambar",
     "title": "Andhra Style Drumstick Sambar",
     "description": "Rich and aromatic Andhra-style sambar with tender drumsticks, featuring tamarind tang, fresh ginger aroma, and aromatic tadka. Perfect with rice, dosa, idli, and vada.",
