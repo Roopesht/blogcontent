@@ -1,0 +1,379 @@
+{
+  "slug": "rose-kaju-katli",
+  "title": "Premium Rose Kaju Katli with Golden Border",
+  "description": "An elegant layered cashew sweet featuring ivory-white kaju layers, a thin rose-date center, and a decorative golden border. Minimalist luxury with optional rose petal or pistachio garnish.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/rose-kaju-katli.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/rose-kaju-katli.png",
+  "difficulty": "medium",
+  "prepTime": 60,
+  "cookTime": 45,
+  "servings": 20,
+  "defaultServings": 20,
+  "cuisines": [
+    "Indian",
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "high-protein",
+    "calcium-rich"
+  ],
+  "category": "Sweet",
+  "featured": true,
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare ingredients and set up workspace.",
+      "duration": 15,
+      "tips": [
+        "Ensure all ingredients are measured and ready before starting.",
+        "Use a heavy-bottom pan to prevent sugar syrup from burning.",
+        "Keep thickness guides handy for rolling sheets uniformly."
+      ],
+      "subSteps": [
+        "Measure 650 g fine cashew powder and sift through a fine mesh.",
+        "Measure 350 g sugar and 175 ml water in separate containers.",
+        "Measure 15 g ghee and 1 g cardamom powder for the white dough.",
+        "Measure filling ingredients: 180 g seedless dates, 50 g almond powder, 25 g gulkand, 2 g rose petal powder, 5 g ghee.",
+        "Measure coloring: have beta-carotene color ready in small container.",
+        "Set up parchment paper on work surface for rolling.",
+        "VALIDATION: All ingredients measured and visible. Workspace clean and organized."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Cashew Powder",
+      "ingredientSlug": "cashew-powder",
+      "amount": 650,
+      "unit": "g",
+      "notes": "fine, sifted"
+    },
+    {
+      "id": 2,
+      "name": "Sugar",
+      "ingredientSlug": "sugar",
+      "amount": 350,
+      "unit": "g"
+    },
+    {
+      "id": 3,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 175,
+      "unit": "ml",
+      "notes": "for sugar syrup"
+    },
+    {
+      "id": 4,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 20,
+      "unit": "g",
+      "notes": "15 g for white dough, 5 g for filling"
+    },
+    {
+      "id": 5,
+      "name": "Cardamom Powder",
+      "ingredientSlug": "cardamom-powder",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "id": 6,
+      "name": "Seedless Dates",
+      "ingredientSlug": "seedless-dates",
+      "amount": 180,
+      "unit": "g",
+      "notes": "for filling"
+    },
+    {
+      "id": 7,
+      "name": "Almond Powder",
+      "ingredientSlug": "almond-powder",
+      "amount": 50,
+      "unit": "g",
+      "notes": "for filling"
+    },
+    {
+      "id": 8,
+      "name": "Gulkand",
+      "ingredientSlug": "gulkand",
+      "amount": 25,
+      "unit": "g",
+      "notes": "rose petal preserve"
+    },
+    {
+      "id": 9,
+      "name": "Rose Petal Powder",
+      "ingredientSlug": "rose-petal-powder",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "id": 10,
+      "name": "Natural Beta-Carotene Color",
+      "ingredientSlug": "beta-carotene-color",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "to taste for golden shade",
+      "optional": true
+    },
+    {
+      "id": 11,
+      "name": "Sugar Syrup (for adhesive)",
+      "ingredientSlug": "sugar-syrup",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "optional; thin consistency"
+    },
+    {
+      "id": 12,
+      "name": "Dried Rose Petals",
+      "ingredientSlug": "dried-rose-petals",
+      "amount": 20,
+      "unit": "pieces",
+      "notes": "for garnish",
+      "optional": true
+    },
+    {
+      "id": 13,
+      "name": "Slivered Pistachios",
+      "ingredientSlug": "slivered-pistachios",
+      "amount": 20,
+      "unit": "pieces",
+      "notes": "alternative garnish",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook the sugar syrup.",
+      "duration": 10,
+      "tips": [
+        "Do not overcook the syrup — one-string consistency is ideal (syrup drops as a single string from spoon).",
+        "Use a candy thermometer if available — aim for 106–110°C.",
+        "Stop heating immediately when syrup reaches desired consistency."
+      ],
+      "subSteps": [
+        "Pour 350 g sugar and 175 ml water into a heavy-bottom pan.",
+        "Heat gently over medium heat, stirring occasionally until sugar dissolves completely.",
+        "Once sugar is dissolved, stop stirring and let it cook undisturbed.",
+        "Cook until syrup becomes slightly sticky and reaches one-string consistency (approximately 8–10 minutes).",
+        "Test consistency: dip a spoon in syrup, let it cool slightly, and pull — it should form a single string.",
+        "Remove from heat immediately when ready.",
+        "VALIDATION: Syrup flows like honey. One-string test successful. Color is clear and light golden."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Make the white kaju dough.",
+      "duration": 12,
+      "tips": [
+        "Add cashew powder gradually to avoid lumps.",
+        "Keep flame low to prevent burning.",
+        "The dough is ready when it forms a soft mass and leaves the pan sides."
+      ],
+      "subSteps": [
+        "Reduce flame to low.",
+        "Gradually add 650 g fine cashew powder to the warm syrup while stirring continuously.",
+        "Mix thoroughly, breaking up any lumps that form.",
+        "Keep stirring constantly for 8–10 minutes until dough comes together.",
+        "The dough is ready when: it leaves the sides of the pan, forms a soft cohesive mass, and does not stick excessively.",
+        "Add 15 g ghee and 1 g cardamom powder.",
+        "Mix well and remove from heat immediately.",
+        "Target temperature: 80–85°C (warm but not hot to handle).",
+        "VALIDATION: Dough is smooth and creamy. No lumps visible. Cardamom aroma is evident. Temperature allows comfortable handling."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Divide and color the dough.",
+      "duration": 8,
+      "tips": [
+        "Work quickly while dough is warm — it becomes difficult to divide once cooled.",
+        "Keep unused portions covered to prevent drying.",
+        "Beta-carotene should dissolve in warm water first for even color distribution."
+      ],
+      "subSteps": [
+        "Divide warm dough into two portions: 85% (approximately 860 g) for white sheets and 15% (approximately 155 g) for golden border.",
+        "Keep white dough covered with a damp cloth.",
+        "Dissolve beta-carotene color in 2–3 drops of warm water to create a thin paste.",
+        "Add colored water to reserved 155 g dough.",
+        "Knead the golden dough thoroughly until color is uniform and even throughout.",
+        "Target shade: warm golden yellow similar to marigold flower — not bright lemon yellow.",
+        "Cover golden dough immediately with plastic wrap.",
+        "VALIDATION: White dough is smooth and ivory-colored. Golden dough is uniformly colored marigold-gold throughout. Both portions are warm and pliable."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Prepare the rose-date filling.",
+      "duration": 10,
+      "tips": [
+        "Cook the filling until firm and non-sticky for easier rolling.",
+        "Gulkand and rose petal powder should be added at the end to preserve their aroma.",
+        "Allow filling to cool slightly before rolling for better handling."
+      ],
+      "subSteps": [
+        "Blend 180 g seedless dates into a smooth paste using a food processor.",
+        "Heat 5 g ghee in a small pan over medium heat.",
+        "Add date paste and cook, stirring, for 3–4 minutes until ghee is absorbed.",
+        "Add 50 g almond powder and mix thoroughly until well incorporated.",
+        "Continue cooking and stirring for 2 minutes.",
+        "Add 25 g gulkand and 2 g rose petal powder.",
+        "Cook, stirring constantly, until mixture becomes: firm, smooth, and non-sticky (approximately 3–4 minutes).",
+        "Remove from heat and cool slightly (still warm but safe to handle).",
+        "Final state: dark reddish-brown, pliable, and easy to roll.",
+        "VALIDATION: Filling is firm and no longer sticky. Color is deep reddish-brown. Mixture rolls easily between palms without breaking."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Roll white kaju sheets.",
+      "duration": 15,
+      "tips": [
+        "Use thickness guides (3 mm) for consistency.",
+        "Work on parchment paper to prevent sticking.",
+        "Keep unused dough covered to prevent drying."
+      ],
+      "subSteps": [
+        "Divide white dough into 2 equal portions (approximately 430 g each).",
+        "Take first portion and place on parchment paper.",
+        "Using a rolling pin with 3 mm thickness guides, roll into a smooth square sheet.",
+        "Target size: 8 x 8 inches (20 x 20 cm).",
+        "Cut edges neatly with a sharp knife.",
+        "Transfer to clean parchment paper.",
+        "Repeat with second portion of white dough.",
+        "VALIDATION: Both sheets are 3 mm thick, 8 x 8 inches, smooth surface, uniform color. Edges are clean and straight."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Roll rose-date filling and golden border.",
+      "duration": 12,
+      "tips": [
+        "Keep golden dough warm and covered — it becomes difficult to roll if it cools.",
+        "Filling sheet should be slightly smaller than white sheets to allow margin.",
+        "Golden strips should be straight and of uniform width."
+      ],
+      "subSteps": [
+        "Place rose-date filling on parchment paper.",
+        "Using a rolling pin with 2 mm thickness guides, roll into a square sheet.",
+        "Target size: 8 x 8 inches (20 x 20 cm) — this will have margins when placed between white sheets.",
+        "Keep on parchment paper.",
+        "Take golden dough and roll into a thin sheet using 2–3 mm guides.",
+        "Cut into long strips of 8 mm width and 2–3 mm thickness.",
+        "Keep strips warm and covered with plastic wrap until assembly.",
+        "VALIDATION: Filling sheet is 2 mm thick and 8 x 8 inches. Golden strips are uniform in width (8 mm) and thickness (2–3 mm). All pieces are warm and pliable."
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Assemble the layered slab.",
+      "duration": 10,
+      "tips": [
+        "Leave 2 mm margins around the filling for clean presentation.",
+        "Press gently — do not compress heavily as this affects texture.",
+        "Keep assembled slab on parchment paper."
+      ],
+      "subSteps": [
+        "Place first white kaju sheet on clean parchment paper.",
+        "Carefully place rose-date filling sheet on top.",
+        "Position filling to leave approximately 2 mm margin around all edges.",
+        "Place second white kaju sheet on top of filling.",
+        "Press gently with palms to adhere layers — do not compress heavily.",
+        "VALIDATION: Three layers are visible: white bottom, rose-date center (slightly inset), white top. Layers are bonded but not compressed. Slab is approximately 8 mm thick."
+      ]
+    },
+    {
+      "order": 8,
+      "instruction": "Apply golden border.",
+      "duration": 8,
+      "tips": [
+        "Use thin adhesive to prevent soaking the delicate layers.",
+        "Work quickly around the perimeter.",
+        "Trim corners neatly for professional appearance."
+      ],
+      "subSteps": [
+        "Prepare light adhesive: either thin sugar syrup or thin cashew paste.",
+        "Using a pastry brush, lightly brush the exposed perimeter (all four edges) of the assembled slab.",
+        "Apply golden strips around all four sides, pressing gently as you go.",
+        "Trim excess at corners and cut corners clean.",
+        "Allow adhesive to set for 2–3 minutes.",
+        "VALIDATION: Golden border is adhered evenly around all four sides. Corners are clean and neatly trimmed. Border is uniform in width."
+      ]
+    },
+    {
+      "order": 9,
+      "instruction": "Rest and cut the kaju katli.",
+      "duration": 190,
+      "tips": [
+        "Do not refrigerate during resting — room temperature setting allows proper texture development.",
+        "Use a sharp knife and clean between cuts for neat edges.",
+        "Cut into uniform sizes for premium presentation."
+      ],
+      "subSteps": [
+        "Place assembled slab on clean parchment paper.",
+        "Cover loosely (do not seal tightly as condensation can affect surface).",
+        "Allow to rest at room temperature for 2–3 hours until firm but still slightly pliable.",
+        "Test firmness: slab should not break when gently pressed but should feel solid.",
+        "Using a sharp knife, cut slab into uniform pieces: either 1.5 inch squares (retail format) or 1.25 inch diamonds (luxury gift format).",
+        "Clean knife blade between each cut for neat edges.",
+        "Arrange cut pieces on a clean tray.",
+        "VALIDATION: Slab is firm enough to cut cleanly but not brittle. Cut pieces are uniform in size and shape. Edges are clean and sharp. Visible layers are evident in cross-section."
+      ]
+    },
+    {
+      "order": 10,
+      "instruction": "Garnish and finish.",
+      "duration": 5,
+      "tips": [
+        "Keep garnish minimal for elegant presentation.",
+        "Choose one garnish option for consistency.",
+        "Apply garnish gently to avoid disturbing surface."
+      ],
+      "subSteps": [
+        "Choose garnish option: dried rose petal fragment, slivered pistachio, or edible gold sprinkle.",
+        "Apply one tiny piece per kaju katli piece.",
+        "Place garnished pieces on clean serving tray or packing tray.",
+        "Allow final garnish to set for 10–15 minutes before packaging.",
+        "VALIDATION: Each piece has minimal, elegant garnish. Surface remains smooth and unblemished. Presentation is premium and refined."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard with Rose Petal Garnish",
+      "adjustments": {}
+    },
+    {
+      "name": "Pistachio-Garnished",
+      "adjustments": {
+        "dried-rose-petals": {
+          "multiplier": 0
+        },
+        "slivered-pistachios": {
+          "multiplier": 1
+        }
+      }
+    },
+    {
+      "name": "Gold Leaf Finish",
+      "adjustments": {
+        "beta-carotene-color": {
+          "notes": "Optional; can use silver varak on border instead of golden border"
+        }
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Rose Kaju Katli Recipe | Premium Layered Cashew Sweet",
+    "metaDescription": "Elegant layered cashew sweet with ivory kaju, rose-date center, and golden border. Premium homemade kaju katli perfect for gifting and festive occasions."
+  }
+}
