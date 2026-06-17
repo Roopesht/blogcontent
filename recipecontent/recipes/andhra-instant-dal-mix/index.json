@@ -1,0 +1,244 @@
+{
+  "slug": "andhra-instant-dal-mix",
+  "title": "Andhra Style Instant Dal Mix (Ready-Mix Pappu Powder)",
+  "description": "A spicy Andhra-style instant dal mix powder that can be prepared in minutes using hot water and a fresh garlic tadka. Make a large batch and store for quick weeknight dinners.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-instant-dal-mix.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-instant-dal-mix.png",
+  "difficulty": "easy",
+  "prepTime": 15,
+  "cookTime": 20,
+  "servings": 20,
+  "defaultServings": 20,
+  "cuisines": [
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein",
+    "high-fiber"
+  ],
+  "category": "Spice Mix",
+  "featured": true,
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Measure and prepare all ingredients.",
+      "duration": 10,
+      "tips": [
+        "Measure dals and spices separately for easier roasting.",
+        "Ensure all ingredients are at room temperature before roasting.",
+        "Use a heavy-bottom pan to prevent burning."
+      ],
+      "subSteps": [
+        "Measure 1 cup toor dal and place in a small bowl.",
+        "Measure 0.5 cup moong dal in a separate bowl.",
+        "Measure spices: 1 tbsp jeera, 1 tbsp coriander seeds, 0.5 tsp black peppercorns.",
+        "Count out 4 medium dry red chillies and 15-20 dried curry leaves.",
+        "Have 0.5 tsp turmeric powder ready.",
+        "Set up a large clean plate or tray for cooling roasted ingredients.",
+        "VALIDATION: All ingredients measured and separated. Plate is ready for cooling. Pan is clean and dry."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Toor Dal",
+      "ingredientSlug": "toor-dal",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "kandi pappu, unsoaked"
+    },
+    {
+      "id": 2,
+      "name": "Moong Dal",
+      "ingredientSlug": "moong-dal",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "pesara pappu, unsoaked"
+    },
+    {
+      "id": 3,
+      "name": "Jeera",
+      "ingredientSlug": "jeera",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": 4,
+      "name": "Coriander Seeds",
+      "ingredientSlug": "coriander-seeds",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": 5,
+      "name": "Black Peppercorns",
+      "ingredientSlug": "black-peppercorns",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 6,
+      "name": "Dry Red Chilli",
+      "ingredientSlug": "dry-red-chilli",
+      "amount": 4,
+      "unit": "medium",
+      "notes": "whole"
+    },
+    {
+      "id": 7,
+      "name": "Turmeric Powder",
+      "ingredientSlug": "turmeric-powder",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Dried Curry Leaves",
+      "ingredientSlug": "dried-curry-leaves",
+      "amount": 15,
+      "unit": "whole",
+      "notes": "loosely packed"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dry roast toor dal.",
+      "duration": 8,
+      "tips": [
+        "Roast on medium-low flame to prevent burning.",
+        "Stir continuously for even roasting.",
+        "Toor dal is done when aromatic and slightly golden."
+      ],
+      "subSteps": [
+        "Heat a heavy-bottom pan over medium-low flame for 30 seconds.",
+        "Add 1 cup toor dal to the pan.",
+        "Stir continuously with a wooden spoon for 6-8 minutes.",
+        "Roast until: dal becomes aromatic, takes on a slightly golden color, and feels warm.",
+        "Test by pressing a dal: it should be crisp but not burnt.",
+        "Transfer to the clean plate to cool completely.",
+        "VALIDATION: Toor dal is light golden in color. Aroma is nutty and pleasant. Dals are crisp and cool completely (approximately 5 minutes)."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Dry roast moong dal.",
+      "duration": 5,
+      "tips": [
+        "Roast moong dal separately to prevent over-roasting toor dal.",
+        "Shorter roasting time needed compared to toor dal.",
+        "Roast until fragrant and light golden."
+      ],
+      "subSteps": [
+        "Use the same hot pan (no need to clean).",
+        "Add 0.5 cup moong dal to the pan.",
+        "Stir continuously for 4-5 minutes until fragrant.",
+        "Moong dal is done when: color lightens to pale golden, aroma is sweet and pleasant.",
+        "Transfer to the cooling plate with roasted toor dal.",
+        "Allow both dals to cool completely before proceeding.",
+        "VALIDATION: Moong dal is light golden. Aroma is fragrant and sweet. Both dal portions are completely cooled and crisp."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Dry roast spices.",
+      "duration": 2,
+      "tips": [
+        "Roast spices quickly — they burn easily.",
+        "Work with medium-low flame for better control.",
+        "Curry leaves should be crisp but not burnt."
+      ],
+      "subSteps": [
+        "Use the same pan on medium-low flame.",
+        "Add 1 tbsp jeera seeds.",
+        "Add 1 tbsp coriander seeds.",
+        "Add 0.5 tsp black peppercorns.",
+        "Roast for 30-40 seconds, stirring constantly, until aromatic.",
+        "Add 4 dry red chillies and 15 dried curry leaves.",
+        "Continue roasting for another 30 seconds until all spices are fragrant and dry.",
+        "Remove from heat immediately.",
+        "Transfer to cooling plate with the roasted dals.",
+        "Allow all roasted ingredients to cool completely.",
+        "VALIDATION: Spices are aromatic and dry. Curry leaves are crisp. No burnt smell. All ingredients are completely cooled before grinding."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Grind into fine powder.",
+      "duration": 8,
+      "tips": [
+        "The finer the powder, the faster it hydrates when used.",
+        "Grind in batches if mixer grinder is small.",
+        "Sieve to ensure uniform fine powder."
+      ],
+      "subSteps": [
+        "Transfer all cooled roasted dals and spices to a mixer grinder.",
+        "Add 0.5 tsp turmeric powder.",
+        "Close the lid and grind on high speed for 2-3 minutes until fine powder forms.",
+        "Open and check texture: powder should be fine with no visible whole seeds.",
+        "If coarse particles remain, sieve the mixture through a fine mesh.",
+        "Collect coarse particles and regrind them.",
+        "Combine finely ground powder with any coarse particles and grind again until completely fine.",
+        "Continue until entire mix is a fine, uniform powder.",
+        "VALIDATION: Powder is fine and uniform. No visible whole seeds or large particles. Color is consistent throughout. Aroma is aromatic and pleasant."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Store the dal mix.",
+      "duration": 5,
+      "tips": [
+        "Store in completely dry, airtight containers.",
+        "Keep away from humidity and direct sunlight.",
+        "Label container with date for easy tracking."
+      ],
+      "subSteps": [
+        "Allow ground powder to cool to room temperature completely (approximately 30 minutes).",
+        "Transfer powder to clean, completely dry airtight containers.",
+        "Ensure containers are sealed tightly.",
+        "Store at room temperature (20-25°C) for up to 1 month, or refrigerate for 2-3 months.",
+        "Keep containers away from moisture and direct sunlight.",
+        "Optionally label with preparation date and contents.",
+        "VALIDATION: Container is airtight and completely sealed. Powder is dry and flows freely. Storage location is cool and away from humidity."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard Andhra Mix",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Spicy",
+      "adjustments": {
+        "dry-red-chilli": {
+          "multiplier": 1.5
+        },
+        "black-peppercorns": {
+          "multiplier": 1.5
+        }
+      }
+    },
+    {
+      "name": "Mild Version",
+      "adjustments": {
+        "dry-red-chilli": {
+          "multiplier": 0.5
+        },
+        "black-peppercorns": {
+          "multiplier": 0.5
+        }
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Andhra Instant Dal Mix Recipe | Ready-Mix Pappu Powder",
+    "metaDescription": "Make your own Andhra-style instant dal mix powder at home. Quick roasting and grinding method yields a spicy dal powder that hydrates in minutes for weeknight dinners."
+  }
+}

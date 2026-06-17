@@ -1,5 +1,30 @@
 [
   {
+    "slug": "andhra-instant-dal-mix",
+    "title": "Andhra Style Instant Dal Mix (Ready-Mix Pappu Powder)",
+    "description": "A spicy Andhra-style instant dal mix powder that can be prepared in minutes using hot water and a fresh garlic tadka. Make a large batch and store for quick weeknight dinners.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-instant-dal-mix.png",
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "high-fiber"
+    ],
+    "category": "Spice Mix",
+    "difficulty": "easy",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 20,
+    "featured": true,
+    "publishedAt": "2026-06-17T00:00:00Z"
+  },
+  {
     "slug": "rose-kaju-katli",
     "title": "Premium Rose Kaju Katli with Golden Border",
     "description": "An elegant layered cashew sweet featuring ivory-white kaju layers, a thin rose-date center, and a decorative golden border. Minimalist luxury with optional rose petal or pistachio garnish.",
