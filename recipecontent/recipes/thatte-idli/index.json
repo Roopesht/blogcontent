@@ -1,0 +1,297 @@
+{
+  "slug": "thatte-idli",
+  "title": "Bengaluru-Style Thatte Idli",
+  "description": "Soft, fluffy steamed cakes made from fermented rice and urad dal batter. A traditional South Indian breakfast staple with a light, airy crumb.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/thatte-idli.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/thatte-idli.png",
+  "difficulty": "medium",
+  "prepTime": 30,
+  "cookTime": 15,
+  "servings": 4,
+  "defaultServings": 4,
+  "cuisines": ["South Indian"],
+  "dietaryTags": ["vegetarian", "vegan"],
+  "healthTags": ["high-protein", "fermented"],
+  "category": "Breakfast",
+  "featured": false,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Hotel-Style (Extra Soft)",
+      "adjustments": {
+        "ingredient_note": "Add 50g cooked rice while grinding rice for softer, moist idlis"
+      }
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Soak idli rice",
+      "duration": 240,
+      "subSteps": [
+        "Measure 1000 g idli rice",
+        "Rinse under water 2-3 times",
+        "Add to a bowl with water to cover by 2 inches",
+        "Soak separately for 4-6 hours at room temperature",
+        "VALIDATION: Rice grains soft when pressed, water slightly cloudy after rinsing"
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Soak urad dal and methi seeds",
+      "duration": 240,
+      "subSteps": [
+        "Measure 375 g whole urad dal",
+        "Measure 8 g fenugreek seeds",
+        "Combine in a separate bowl",
+        "Add water to cover by 2 inches",
+        "Soak separately for 4-6 hours at room temperature",
+        "VALIDATION: Dal grains soft, easily crushable between fingers"
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Soak poha (flattened rice)",
+      "duration": 15,
+      "subSteps": [
+        "Measure 40 g poha",
+        "Add to a small bowl with water to cover",
+        "Soak for 15-20 minutes before grinding",
+        "VALIDATION: Poha softened, easily mashed by hand"
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Grind urad dal to fluffy batter",
+      "duration": 20,
+      "subSteps": [
+        "Drain soaked urad dal and methi seeds completely",
+        "Transfer to wet grinder",
+        "Grind until very smooth, fluffy, and airy",
+        "Add water gradually (2-3 tbsp at a time) as needed",
+        "Grind for 10-15 minutes until batter becomes light and airy",
+        "VALIDATION: Batter is fluffy, light in color, holds peaks when lifted with spoon"
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Grind rice and poha to smooth batter",
+      "duration": 20,
+      "subSteps": [
+        "Drain soaked rice completely",
+        "Drain soaked poha",
+        "Transfer both to wet grinder",
+        "Grind until smooth to slightly grainy texture",
+        "Add water gradually (2-3 tbsp at a time) as needed",
+        "Do not make completely coarse or too fine",
+        "VALIDATION: Batter is smooth, slightly grainy, not powdery, not paste-like"
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Combine batters",
+      "duration": 3,
+      "subSteps": [
+        "Pour urad batter into a large vessel or bowl",
+        "Add rice batter to the same vessel",
+        "Mix thoroughly using your hand for 2-3 minutes",
+        "Distribute urad batter evenly throughout rice batter",
+        "Leave at least 30-40% empty space in vessel for fermentation",
+        "VALIDATION: Uniform mixture, no pockets of separated batter, light and airy texture"
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Ferment batter",
+      "duration": 540,
+      "subSteps": [
+        "Cover vessel loosely (do not seal tightly)",
+        "Leave at room temperature for 8-12 hours depending on temperature",
+        "Warmer environments ferment faster (8 hours), cooler takes longer (12 hours)",
+        "Do not stir or disturb during fermentation",
+        "VALIDATION: Batter rises noticeably, becomes airy, small bubbles visible on surface, mild fermented aroma develops"
+      ]
+    },
+    {
+      "order": 8,
+      "instruction": "Season fermented batter",
+      "duration": 2,
+      "subSteps": [
+        "After fermentation completes, add 22-25 g salt",
+        "Mix gently using hand for 1-2 minutes",
+        "Do not over-mix or you will deflate the batter",
+        "VALIDATION: Salt evenly distributed, batter still light and airy, no loss of volume"
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Idli Rice",
+      "ingredientSlug": "idli-rice",
+      "amount": 1000,
+      "unit": "g",
+      "notes": "Use short-grain rice specifically for idlis, not regular basmati"
+    },
+    {
+      "id": 2,
+      "name": "Whole Urad Dal",
+      "ingredientSlug": "urad-dal-whole",
+      "amount": 375,
+      "unit": "g",
+      "notes": "Use whole urad dal (sabut urad), not split or husked"
+    },
+    {
+      "id": 3,
+      "name": "Poha (Flattened Rice)",
+      "ingredientSlug": "poha",
+      "amount": 40,
+      "unit": "g",
+      "notes": "Adds softness and moisture to the idlis"
+    },
+    {
+      "id": 4,
+      "name": "Fenugreek Seeds (Methi)",
+      "ingredientSlug": "fenugreek-seeds",
+      "amount": 8,
+      "unit": "g",
+      "notes": "Aids fermentation and adds subtle flavor"
+    },
+    {
+      "id": 5,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 22,
+      "unit": "g",
+      "notes": "Add after fermentation, adjust to taste (22-25 g)"
+    },
+    {
+      "id": 6,
+      "name": "Oil or Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "For greasing thatte idli plates"
+    },
+    {
+      "id": 7,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 2,
+      "unit": "cups",
+      "notes": "For steaming in pressure cooker"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat water in cooker",
+      "duration": 5,
+      "subSteps": [
+        "Pour 2 cups water into 10-litre pressure cooker",
+        "Place cooker on stove",
+        "Heat on medium flame until water begins to boil vigorously",
+        "VALIDATION: Large bubbles rising rapidly, steam visible, no boiling over"
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare and grease thatte idli plates",
+      "duration": 5,
+      "subSteps": [
+        "Take thatte idli plates (6-inch)",
+        "Lightly grease each plate with oil or ghee using fingers or brush",
+        "Spread oil evenly across entire surface",
+        "Ensure grooves and edges are greased",
+        "VALIDATION: Entire plate has thin, even oil coating, no dry spots"
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Fill plates with batter",
+      "duration": 5,
+      "subSteps": [
+        "Stir fermented batter gently once with hand",
+        "Use a ladle to pour batter into each greased plate",
+        "Fill each plate about ¾ full (three-quarters)",
+        "Do not fill to the brim to allow space for expansion",
+        "Repeat for all plates needed",
+        "VALIDATION: All plates uniformly filled, batter level is same across plates, no spills on edges"
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Load cooker with idli stand",
+      "duration": 3,
+      "subSteps": [
+        "Arrange filled plates on idli stand in cooker",
+        "Stack plates if space allows",
+        "Carefully place entire stand with loaded plates inside hot cooker",
+        "Close cooker lid securely",
+        "Keep whistle (weight) on the cooker",
+        "VALIDATION: Stand is stable, plates do not tilt, lid closes completely, whistle is in place"
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Steam the idlis",
+      "duration": 8,
+      "subSteps": [
+        "Maintain medium flame throughout cooking",
+        "Wait for cooker to come to pressure and produce 1 whistle",
+        "Count approximately 1 minute after first whistle",
+        "Immediately switch off the stove when 1 whistle is complete",
+        "Do not allow a second whistle",
+        "VALIDATION: Single clear whistle sound, steam escaping from vent, no hissing continues"
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Rest the cooker",
+      "duration": 5,
+      "subSteps": [
+        "Leave cooker closed after switching off heat",
+        "Do not open lid or remove whistle",
+        "Allow residual steam to continue cooking for 5 minutes",
+        "This resting period improves softness and fluffiness",
+        "VALIDATION: Steam stops escaping from vent, cooker cools slightly, no pressure remaining"
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Remove and release idlis",
+      "duration": 5,
+      "subSteps": [
+        "Open cooker lid carefully, tilting away from face",
+        "Allow steam to escape safely",
+        "Remove idli stand with filled plates",
+        "Let plates cool for 1-2 minutes",
+        "Use flat spoon, butter knife, or wet fingers to gently run around edges of each idli",
+        "Lift idli carefully from plate",
+        "Place on serving plate",
+        "VALIDATION: Idlis are soft, fluffy, light golden color, release easily without breaking"
+      ]
+    },
+    {
+      "order": 8,
+      "instruction": "Serve hot",
+      "duration": 0,
+      "subSteps": [
+        "Arrange idlis on a plate",
+        "Serve immediately while hot and soft",
+        "Accompany with groundnut-coriander chutney",
+        "Serve with coconut chutney on the side",
+        "Pour sambar in a small bowl",
+        "Optional: drizzle small spoon of ghee on top",
+        "VALIDATION: Idlis are hot to touch, aroma is fresh and inviting, texture is light and bouncy"
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Thatte Idli Recipe — Soft Bengaluru-Style Idlis",
+    "metaDescription": "Traditional Bengaluru-style thatte idli recipe. Learn to make soft, fluffy steamed idlis from fermented rice and urad dal batter with detailed instructions."
+  }
+}

@@ -1,5 +1,29 @@
 [
   {
+    "slug": "thatte-idli",
+    "title": "Thatte Idli (Soft Bengaluru-Style)",
+    "description": "Soft, fluffy steamed cakes made from fermented rice and urad dal batter. A traditional South Indian breakfast staple with a light, airy crumb.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/thatte-idli.png",
+    "cuisines": [
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "fermented"
+    ],
+    "category": "Breakfast",
+    "difficulty": "medium",
+    "prepTime": 30,
+    "cookTime": 15,
+    "servings": 4,
+    "featured": false,
+    "publishedAt": "2026-06-21T00:00:00Z"
+  },
+  {
     "slug": "andhra-instant-dal-mix",
     "title": "Andhra Style Instant Dal Mix (Ready-Mix Pappu Powder)",
     "description": "A spicy Andhra-style instant dal mix powder that can be prepared in minutes using hot water and a fresh garlic tadka. Make a large batch and store for quick weeknight dinners.",
