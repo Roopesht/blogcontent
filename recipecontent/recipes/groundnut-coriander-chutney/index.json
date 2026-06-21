@@ -1,0 +1,201 @@
+{
+  "slug": "groundnut-coriander-chutney",
+  "title": "Groundnut-Coriander Chutney",
+  "description": "A fresh coriander and groundnut-based chutney with no garlic and mild ginger, perfect for tatte idlis. Versatile with optional tempering for added depth.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/groundnut-coriander-chutney.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/groundnut-coriander-chutney.png",
+  "difficulty": "easy",
+  "prepTime": 10,
+  "cookTime": 5,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": [
+    "South Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein"
+  ],
+  "category": "Chutney",
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare groundnuts.",
+      "duration": 5,
+      "subSteps": [
+        "If groundnuts are not already roasted, dry roast them in a pan over medium heat.",
+        "Roast until lightly golden, about 3-4 minutes, stirring occasionally.",
+        "Cool slightly before grinding.",
+        "VALIDATION: Groundnuts should be light golden in color, aromatic, and cool enough to handle."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare fresh herbs and aromatics.",
+      "duration": 5,
+      "subSteps": [
+        "Wash coriander leaves thoroughly with tender stems.",
+        "Slit 3-4 green chilies lengthwise, remove seeds if you prefer less heat.",
+        "Peel and measure 1/2 inch ginger piece.",
+        "VALIDATION: Coriander leaves should be clean and damp, chilies slit, ginger peeled and ready to blend."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Groundnuts",
+      "ingredientSlug": "peanuts",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "roasted"
+    },
+    {
+      "id": 2,
+      "name": "Fried Chana Dal",
+      "ingredientSlug": "fried-chana-dal",
+      "amount": 0.25,
+      "unit": "cup",
+      "notes": "hurigadale"
+    },
+    {
+      "id": 3,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "cups packed",
+      "notes": "with tender stems"
+    },
+    {
+      "id": 4,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": 5,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 3.5,
+      "unit": "whole",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 6,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 0.5,
+      "unit": "inch piece",
+      "notes": "reduced quantity"
+    },
+    {
+      "id": 7,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.67,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 8,
+      "name": "Jaggery",
+      "ingredientSlug": "jaggery",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "optional"
+    },
+    {
+      "id": 9,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "id": 10,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 11,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 9,
+      "unit": "whole"
+    },
+    {
+      "id": 13,
+      "name": "Hing",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grind chutney base.",
+      "duration": 5,
+      "subSteps": [
+        "Add roasted groundnuts, fried chana dal, coriander leaves, tamarind, green chilies, ginger, salt, and jaggery to a mixer or food processor.",
+        "Add 1/2 cup water and blend until smooth.",
+        "Gradually add remaining water (1/2 cup) while grinding to reach desired consistency.",
+        "VALIDATION: Chutney should be smooth, slightly thick, and fall slowly from a spoon. Consistency should coat idli rather than run across the plate."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare tempering (optional).",
+      "duration": 3,
+      "subSteps": [
+        "Heat 1 tsp oil in a small pan over medium heat.",
+        "Once hot, add 1/2 tsp mustard seeds and cover with a lid.",
+        "Let seeds splutter for 15-20 seconds until they stop crackling.",
+        "Add curry leaves and a pinch of hing.",
+        "VALIDATION: Seeds should splutter vigorously and turn brown (not black). Curry leaves should be fragrant and slightly curled."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer and finish.",
+      "duration": 2,
+      "subSteps": [
+        "Transfer the ground chutney to a serving bowl.",
+        "Pour the hot tempering over the chutney.",
+        "Stir gently to incorporate the tempering flavors.",
+        "VALIDATION: Chutney should have a glossy finish with aromatic tempering oil visible."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Coriander",
+      "adjustments": {
+        "coriander_leaves": "3 cups packed (for brighter green chutney)"
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Groundnut-Coriander Chutney Recipe | Tatte Idli Chutney",
+    "metaDescription": "Fresh coriander and groundnut chutney without garlic, with mild ginger. Perfect for tatte idlis with optional tempering. South Indian chutney recipe."
+  }
+}

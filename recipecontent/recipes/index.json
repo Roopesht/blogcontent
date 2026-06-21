@@ -1,5 +1,29 @@
 [
   {
+    "slug": "groundnut-coriander-chutney",
+    "title": "Groundnut-Coriander Chutney",
+    "description": "A fresh coriander and groundnut-based chutney with no garlic and mild ginger, perfect for tatte idlis. Versatile with optional tempering for added depth.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/groundnut-coriander-chutney.png",
+    "cuisines": [
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein"
+    ],
+    "category": "Chutney",
+    "difficulty": "easy",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 3,
+    "featured": false,
+    "publishedAt": "2026-06-21T00:00:00Z"
+  },
+  {
     "slug": "thatte-idli",
     "title": "Thatte Idli (Soft Bengaluru-Style)",
     "description": "Soft, fluffy steamed cakes made from fermented rice and urad dal batter. A traditional South Indian breakfast staple with a light, airy crumb.",
