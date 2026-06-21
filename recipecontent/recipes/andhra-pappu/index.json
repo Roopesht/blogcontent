@@ -74,7 +74,7 @@
       "id": 5,
       "name": "Water",
       "ingredientSlug": "water",
-      "amount": 2.5,
+      "amount": 3,
       "unit": "cups",
       "notes": "for pressure cooking"
     },
@@ -82,7 +82,7 @@
       "id": 6,
       "name": "Tamarind",
       "ingredientSlug": "tamarind",
-      "amount": 2,
+      "amount": 1,
       "unit": "tsp",
       "notes": "pulp"
     },
@@ -144,6 +144,14 @@
       "ingredientSlug": "hing",
       "amount": 1,
       "unit": "pinch"
+    },
+    {
+      "id": 15,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "grated"
     }
   ],
   "steps": [
@@ -182,7 +190,7 @@
         "Heat oil or ghee in a small pan.",
         "Add mustard seeds and let them splutter.",
         "Add cumin seeds.",
-        "Add crushed garlic and sauté lightly.",
+        "Add grated ginger and crushed garlic, sauté lightly.",
         "Add dry red chilies, curry leaves, and hing.",
         "Turn off flame.",
         "Pour hot tempering over the dal.",
