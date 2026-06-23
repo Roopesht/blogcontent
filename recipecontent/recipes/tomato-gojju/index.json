@@ -1,0 +1,273 @@
+{
+  "slug": "tomato-gojju",
+  "title": "Tomato Gojju",
+  "description": "A thick, spicy, tangy tomato gojju with crunchy onions, crushed garlic, fresh coriander, and tamarind. Perfect with hot rice.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/tomato-gojju.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/tomato-gojju.png",
+  "difficulty": "medium",
+  "prepTime": 20,
+  "cookTime": 30,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": [
+    "South Indian",
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein"
+  ],
+  "category": "Curry",
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Soak tamarind.",
+      "duration": 10,
+      "subSteps": [
+        "Take a small gooseberry-sized ball of tamarind (about 10g).",
+        "Soak in 1/4 cup warm water for 10 minutes.",
+        "Squeeze and extract the thick pulp, discarding fibers and seeds.",
+        "VALIDATION: Tamarind should yield a thick, brown, smooth extract. Fibers and seeds should be completely separated."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare fresh ingredients.",
+      "duration": 10,
+      "subSteps": [
+        "Chop 3 medium ripe tomatoes into rough pieces.",
+        "Finely chop 1 medium onion (about 120g) into small pieces.",
+        "Slit 3-4 green chilies lengthwise.",
+        "Lightly crush 5-6 garlic cloves.",
+        "Finely chop 1/2 cup coriander leaves.",
+        "VALIDATION: Tomatoes should be roughly chopped, onions finely diced, chilies slit, garlic lightly crushed (not minced), coriander finely chopped."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Tomatoes",
+      "ingredientSlug": "tomatoes",
+      "amount": 300,
+      "unit": "g",
+      "notes": "ripe, 3 medium"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 3,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 3.5,
+      "unit": "whole",
+      "notes": "slit"
+    },
+    {
+      "id": 4,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 10,
+      "unit": "g",
+      "notes": "small gooseberry-sized ball"
+    },
+    {
+      "id": 5,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 5.5,
+      "unit": "cloves",
+      "notes": "lightly crushed"
+    },
+    {
+      "id": 6,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 7,
+      "name": "Jaggery",
+      "ingredientSlug": "jaggery",
+      "amount": 2,
+      "unit": "tsp"
+    },
+    {
+      "id": 8,
+      "name": "Turmeric Powder",
+      "ingredientSlug": "turmeric-powder",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 9,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 10,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 0.875,
+      "unit": "cup",
+      "notes": "1/2 cup for cooking tomatoes, 3/8 cup for consistency"
+    },
+    {
+      "id": 11,
+      "name": "Groundnut Oil",
+      "ingredientSlug": "groundnut-oil",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 12,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 13,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 14,
+      "name": "Urad Dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 15,
+      "name": "Dry Red Chili",
+      "ingredientSlug": "dry-red-chili",
+      "amount": 1,
+      "unit": "whole"
+    },
+    {
+      "id": 16,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 9,
+      "unit": "whole"
+    },
+    {
+      "id": 17,
+      "name": "Roasted Methi Powder",
+      "ingredientSlug": "roasted-methi-powder",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "optional"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook tomatoes.",
+      "duration": 12,
+      "subSteps": [
+        "Add roughly chopped tomatoes to a heavy-bottomed pan.",
+        "Add the slit green chilies and 1/4 tsp turmeric powder.",
+        "Add 1/2 cup water.",
+        "Cook on medium flame for 10-12 minutes, stirring occasionally.",
+        "VALIDATION: Tomatoes should become soft and mushy, breaking down into a thick mixture. Color should deepen to a dark red-brown."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Make gojju base.",
+      "duration": 10,
+      "subSteps": [
+        "Lightly mash the cooked tomatoes using a masher or spoon, keeping some texture.",
+        "Add the tamarind extract to the tomato mixture.",
+        "Add 1 tsp salt.",
+        "Add 2 tsp jaggery.",
+        "Stir well to combine.",
+        "Simmer for 8-10 minutes on medium heat until the mixture becomes thick and glossy.",
+        "VALIDATION: Gojju should coat the back of a spoon and move slowly when tilted. It should have a glossy, thick consistency."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare tempering.",
+      "duration": 5,
+      "subSteps": [
+        "Heat 1.5 tbsp groundnut oil in another small pan over medium heat.",
+        "Once hot, add 1/2 tsp mustard seeds and cover immediately.",
+        "Allow seeds to splutter for 15-20 seconds until crackling stops.",
+        "Add 1/4 tsp cumin seeds, 1/2 tsp urad dal, 1 dry red chili, and 8-10 curry leaves.",
+        "Fry for 30-40 seconds until aromatic and dal turns light golden.",
+        "VALIDATION: All seeds should splutter and crackle. Urad dal should be golden. Aroma should be strong and fragrant."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and onion.",
+      "duration": 3,
+      "subSteps": [
+        "Add 5-6 lightly crushed garlic cloves to the tempering.",
+        "Sauté for about 30 seconds until fragrant.",
+        "Add the finely chopped onion.",
+        "Cook for only 2-3 minutes, stirring gently.",
+        "VALIDATION: Garlic should be fragrant but not browned. Onions should remain slightly crunchy with a bite, not fully soft."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Combine and finish.",
+      "duration": 5,
+      "subSteps": [
+        "Pour the tempering (garlic, onion, and oil) into the tomato gojju mixture.",
+        "Add 1/4 tsp roasted methi powder if using.",
+        "Stir gently to incorporate.",
+        "Simmer for 3 minutes on low heat.",
+        "Switch off the flame.",
+        "Add the finely chopped coriander leaves.",
+        "Cover and rest for 5 minutes.",
+        "VALIDATION: Gojju should be thick, glossy, and fragrant. Flavors should be balanced: tangy (tamarind), sweet (jaggery), spicy (chilies), aromatic (garlic and coriander), with crunchy onion texture."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Spicier",
+      "adjustments": {
+        "green_chilies": "5-6 instead of 3-4",
+        "dry_red_chili": "2 instead of 1"
+      }
+    },
+    {
+      "name": "Tangier",
+      "adjustments": {
+        "tamarind": "increase to small lemon-sized ball"
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Tomato Gojju Recipe | South Indian Andhra Curry with Rice",
+    "metaDescription": "Thick and spicy tomato gojju with crunchy onions, garlic, coriander, and tamarind. Perfect curry to serve with hot steamed rice."
+  }
+}

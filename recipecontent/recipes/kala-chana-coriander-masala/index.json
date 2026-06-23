@@ -1,0 +1,309 @@
+{
+  "slug": "kala-chana-coriander-masala",
+  "title": "Kala Chana Coriander Masala",
+  "description": "A dry curry of spiced black chickpeas coated in a fresh, aromatic coriander and garlic green masala. Perfect accompaniment for warm chapatis.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/kala-chana-coriander-masala.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/kala-chana-coriander-masala.png",
+  "difficulty": "medium",
+  "prepTime": 30,
+  "cookTime": 30,
+  "servings": 2,
+  "defaultServings": 2,
+  "cuisines": [
+    "North Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein",
+    "high-fiber"
+  ],
+  "category": "Curry",
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Soak and cook kala chana.",
+      "duration": 20,
+      "subSteps": [
+        "Measure 100g (½ cup) kala chana (dry black chickpeas).",
+        "Rinse thoroughly 2-3 times under running water.",
+        "Soak overnight in water (or minimum 6-8 hours).",
+        "Drain water and rinse again.",
+        "Add to a pressure cooker with 2 cups fresh water and a pinch of salt.",
+        "Pressure cook on medium heat for 3-4 whistles until soft but not mushy.",
+        "Drain excess water, leaving just a slight moisture.",
+        "VALIDATION: Chana should be soft when pressed between fingers but retain shape. No excess water should be visible."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare ingredients for green masala paste.",
+      "duration": 10,
+      "subSteps": [
+        "Roughly chop 1 packed cup fresh coriander leaves.",
+        "Separate 15-20 curry leaves.",
+        "Slit 4-5 green chilies lengthwise.",
+        "Peel 5 garlic cloves.",
+        "Peel and measure 1/2 inch ginger piece.",
+        "Grate or chop 2 tbsp fresh coconut.",
+        "VALIDATION: All ingredients should be prepared and ready. Coriander and curry leaves should be clean and damp."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare onion and tomato.",
+      "duration": 5,
+      "subSteps": [
+        "Finely chop 1 medium onion (about 100g).",
+        "Finely chop 1 small tomato (about 60g).",
+        "VALIDATION: Onion and tomato should be uniformly and finely chopped."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Kala Chana",
+      "ingredientSlug": "kala-chana",
+      "amount": 100,
+      "unit": "g",
+      "notes": "dry, soaked overnight"
+    },
+    {
+      "id": 2,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 3,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 1,
+      "unit": "small",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 4,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 1.5,
+      "unit": "tbsp"
+    },
+    {
+      "id": 5,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.75,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 6,
+      "name": "Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 1,
+      "unit": "packed cup",
+      "notes": "for green paste"
+    },
+    {
+      "id": 7,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 17.5,
+      "unit": "whole",
+      "notes": "for green paste"
+    },
+    {
+      "id": 8,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 4.5,
+      "unit": "whole",
+      "notes": "for green paste"
+    },
+    {
+      "id": 9,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 5,
+      "unit": "cloves",
+      "notes": "for green paste"
+    },
+    {
+      "id": 10,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 0.5,
+      "unit": "inch piece",
+      "notes": "for green paste"
+    },
+    {
+      "id": 11,
+      "name": "Fresh Coconut",
+      "ingredientSlug": "fresh-coconut",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "for green paste"
+    },
+    {
+      "id": 12,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "for green paste"
+    },
+    {
+      "id": 13,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 14,
+      "name": "Urad Dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 15,
+      "name": "Hing",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch",
+      "notes": "for tempering"
+    },
+    {
+      "id": 16,
+      "name": "Garam Masala",
+      "ingredientSlug": "garam-masala",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "for finishing"
+    },
+    {
+      "id": 17,
+      "name": "Lemon Juice",
+      "ingredientSlug": "lemon-juice",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "for finishing"
+    },
+    {
+      "id": 18,
+      "name": "Fresh Coriander",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "chopped, for finishing"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make green masala paste.",
+      "duration": 5,
+      "subSteps": [
+        "Add coriander leaves, curry leaves, green chilies, garlic, ginger, fresh coconut, and cumin seeds to a grinder or food processor.",
+        "Add 2-3 tbsp water (just enough to grind).",
+        "Grind to a smooth paste with no visible chunks.",
+        "VALIDATION: Paste should be bright green, smooth, and aromatic. No raw ingredient pieces should be visible."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Temper the oil.",
+      "duration": 3,
+      "subSteps": [
+        "Heat 1.5 tbsp oil in a heavy-bottomed pan over medium heat.",
+        "Once hot, add 1/2 tsp mustard seeds and cover immediately.",
+        "Allow seeds to splutter for 15-20 seconds until crackling stops.",
+        "Add 1/2 tsp urad dal and 1 pinch hing.",
+        "Fry for 10-15 seconds until dal turns light golden and aromatic.",
+        "VALIDATION: Seeds should splutter vigorously. Urad dal should be golden. Strong aromatic smell should be present."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Cook onion and tomato.",
+      "duration": 5,
+      "subSteps": [
+        "Add finely chopped onion to the tempered oil.",
+        "Sauté for 4-5 minutes on medium heat until light golden.",
+        "Add finely chopped tomato.",
+        "Cook for 3-4 minutes until tomato becomes soft and mushy.",
+        "VALIDATION: Onion should be light golden and translucent. Tomato should break down completely and blend into a soft mixture."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Add and cook green masala.",
+      "duration": 5,
+      "subSteps": [
+        "Add the ground green masala paste to the onion-tomato mixture.",
+        "Stir continuously to combine well.",
+        "Cook on medium heat for 4-5 minutes, stirring frequently.",
+        "Cook until the raw smell of garlic and ginger disappears.",
+        "The masala should start to caramelize slightly at the edges.",
+        "VALIDATION: Raw pungent smell should disappear completely. The mixture should be aromatic and the oil should start separating at the edges."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Add cooked kala chana.",
+      "duration": 5,
+      "subSteps": [
+        "Add the cooked and drained kala chana to the masala.",
+        "Add 3/4 tsp salt.",
+        "Mix thoroughly with a spoon or spatula, ensuring every chana is coated with the green masala.",
+        "Cook for 4-5 minutes on medium heat, stirring occasionally.",
+        "VALIDATION: Each chana should be coated with a thick layer of green masala. Texture should be dry, not gravy-based. Moisture should come from the onion and tomato."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Finish the dish.",
+      "duration": 2,
+      "subSteps": [
+        "Switch off the flame.",
+        "Add 1/4 tsp garam masala and 1 tsp lemon juice.",
+        "Add 2 tbsp finely chopped fresh coriander leaves.",
+        "Mix gently to combine all flavors.",
+        "Cover and rest for 5 minutes before serving.",
+        "VALIDATION: The dish should have a strong coriander aroma. Flavors should be balanced with spice, tanginess, and aromatic coriander. Each chana should be generously coated."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Extra Spicy",
+      "adjustments": {
+        "green_chilies": "6-7 instead of 4-5"
+      }
+    },
+    {
+      "name": "Coconut-Rich",
+      "adjustments": {
+        "fresh_coconut": "3 tbsp instead of 2 tbsp"
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Kala Chana Coriander Masala Recipe | Black Chickpea Curry",
+    "metaDescription": "Dry curry of black chickpeas coated in fresh coriander and garlic green masala. A protein-rich North Indian side dish perfect with warm chapatis."
+  }
+}

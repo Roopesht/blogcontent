@@ -1,5 +1,55 @@
 [
   {
+    "slug": "kala-chana-coriander-masala",
+    "title": "Kala Chana Coriander Masala",
+    "description": "A dry curry of spiced black chickpeas coated in a fresh, aromatic coriander and garlic green masala. Perfect accompaniment for warm chapatis.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/kala-chana-coriander-masala.png",
+    "cuisines": [
+      "North Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "high-fiber"
+    ],
+    "category": "Curry",
+    "difficulty": "medium",
+    "prepTime": 30,
+    "cookTime": 30,
+    "servings": 2,
+    "featured": false,
+    "publishedAt": "2026-06-23T00:00:00Z"
+  },
+  {
+    "slug": "tomato-gojju",
+    "title": "Tomato Gojju",
+    "description": "A thick, spicy, tangy tomato gojju with crunchy onions, crushed garlic, fresh coriander, and tamarind. Perfect with hot rice.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/tomato-gojju.png",
+    "cuisines": [
+      "South Indian",
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein"
+    ],
+    "category": "Curry",
+    "difficulty": "medium",
+    "prepTime": 20,
+    "cookTime": 30,
+    "servings": 3,
+    "featured": false,
+    "publishedAt": "2026-06-23T00:00:00Z"
+  },
+  {
     "slug": "groundnut-coriander-chutney",
     "title": "Groundnut-Coriander Chutney",
     "description": "A fresh coriander and groundnut-based chutney with no garlic and mild ginger, perfect for tatte idlis. Versatile with optional tempering for added depth.",
