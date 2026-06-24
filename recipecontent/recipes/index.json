@@ -1,5 +1,30 @@
 [
   {
+    "slug": "andhra-chana-masala",
+    "title": "Andhra-Style Chana Masala for Rice",
+    "description": "A thick, spicy, rice-friendly chana masala with onion-tomato base, curry leaves, tamarind, and fresh coriander. Designed to mix beautifully with hot rice.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-chana-masala.png",
+    "cuisines": [
+      "Andhra"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "high-fiber"
+    ],
+    "category": "Curry",
+    "difficulty": "medium",
+    "prepTime": 30,
+    "cookTime": 45,
+    "servings": 3,
+    "featured": false,
+    "publishedAt": "2026-06-24T00:00:00Z"
+  },
+  {
     "slug": "kala-chana-coriander-masala",
     "title": "Kala Chana Coriander Masala",
     "description": "A dry curry of spiced black chickpeas coated in a fresh, aromatic coriander and garlic green masala. Perfect accompaniment for warm chapatis.",

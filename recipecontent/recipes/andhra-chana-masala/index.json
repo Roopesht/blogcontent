@@ -1,0 +1,401 @@
+{
+  "slug": "andhra-chana-masala",
+  "title": "Andhra-Style Chana Masala for Rice",
+  "description": "A thick, spicy, rice-friendly chana masala with onion-tomato base, curry leaves, tamarind, and fresh coriander. Designed to mix beautifully with hot rice.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-chana-masala.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-chana-masala.png",
+  "difficulty": "medium",
+  "prepTime": 30,
+  "cookTime": 45,
+  "servings": 3,
+  "defaultServings": 3,
+  "cuisines": [
+    "Andhra"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "healthTags": [
+    "high-protein",
+    "high-fiber"
+  ],
+  "category": "Curry",
+  "featured": false,
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Soak and cook chana.",
+      "duration": 20,
+      "subSteps": [
+        "Measure 1 cup dried chana (kala chana or white chana).",
+        "Wash the soaked chana well under running water.",
+        "Add to a pressure cooker with 3 cups water, 1/4 tsp turmeric powder, 3/4 tsp salt, and 1 inch lightly crushed ginger.",
+        "Pressure cook for 6 whistles or until chana is cooked through and soft enough to press, but not mushy.",
+        "Let pressure release naturally.",
+        "Reserve the cooking water. Do not discard it.",
+        "VALIDATION: Chana should be soft when pressed between fingers but retain its shape. Cooking water should be clear to slightly cloudy."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare ingredients for masala paste.",
+      "duration": 10,
+      "subSteps": [
+        "Roughly chop 2 medium tomatoes (about 250g).",
+        "Slit 3 to 4 green chillies lengthwise.",
+        "Peel 6 garlic cloves.",
+        "Peel and measure 1 inch ginger piece.",
+        "Roughly chop 1/2 cup fresh coriander leaves with tender stems (lightly packed).",
+        "VALIDATION: All ingredients should be prepped and ready. Coriander leaves should be clean and fresh."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Crush part of the cooked chana.",
+      "duration": 5,
+      "subSteps": [
+        "Take about 1/4 to 1/3 of the cooked chana from the pressure cooker.",
+        "Lightly crush it using a ladle or masher.",
+        "Keep the rest of the chana whole.",
+        "VALIDATION: Some chana should be crushed (not fully mashed), and most should remain whole."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Prepare remaining ingredients.",
+      "duration": 5,
+      "subSteps": [
+        "Finely chop 2 medium onions (about 200g).",
+        "Soak a small marble-sized tamarind in 3 tbsp warm water and extract the pulp.",
+        "Measure out all spice powders: turmeric, coriander powder, red chilli powder.",
+        "VALIDATION: Onions should be uniformly and finely chopped. Tamarind should be well-soaked and pulpy."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Dried Chana",
+      "ingredientSlug": "chana",
+      "amount": 1,
+      "unit": "cup",
+      "notes": "kala chana or white chana, soaked overnight"
+    },
+    {
+      "id": 2,
+      "name": "Water",
+      "ingredientSlug": "water",
+      "amount": 3,
+      "unit": "cups",
+      "notes": "for pressure cooking chana"
+    },
+    {
+      "id": 3,
+      "name": "Turmeric Powder",
+      "ingredientSlug": "turmeric",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "1/4 tsp for cooking chana, 1/4 tsp for masala"
+    },
+    {
+      "id": 4,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.75,
+      "unit": "tsp",
+      "notes": "for cooking chana, adjust to taste later"
+    },
+    {
+      "id": 5,
+      "name": "Ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1.5,
+      "unit": "inch piece",
+      "notes": "1 inch crushed for cooking chana, 1/2 inch for paste"
+    },
+    {
+      "id": 6,
+      "name": "Tomato",
+      "ingredientSlug": "tomato",
+      "amount": 2,
+      "unit": "medium",
+      "notes": "roughly chopped"
+    },
+    {
+      "id": 7,
+      "name": "Green Chili",
+      "ingredientSlug": "green-chili",
+      "amount": 3.5,
+      "unit": "whole",
+      "notes": "slit for paste"
+    },
+    {
+      "id": 8,
+      "name": "Garlic",
+      "ingredientSlug": "garlic",
+      "amount": 6,
+      "unit": "cloves",
+      "notes": "for masala paste"
+    },
+    {
+      "id": 9,
+      "name": "Fresh Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 0.5,
+      "unit": "cup",
+      "notes": "lightly packed with tender stems, for paste"
+    },
+    {
+      "id": 10,
+      "name": "Onion",
+      "ingredientSlug": "onion",
+      "amount": 2,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 11,
+      "name": "Oil",
+      "ingredientSlug": "oil",
+      "amount": 2.75,
+      "unit": "tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "id": 12,
+      "name": "Mustard Seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 13,
+      "name": "Cumin Seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 14,
+      "name": "Curry Leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 1,
+      "unit": "sprig",
+      "notes": "for tempering"
+    },
+    {
+      "id": 15,
+      "name": "Hing",
+      "ingredientSlug": "hing",
+      "amount": 1,
+      "unit": "pinch",
+      "notes": "for tempering"
+    },
+    {
+      "id": 16,
+      "name": "Coriander Powder",
+      "ingredientSlug": "coriander-powder",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "for masala"
+    },
+    {
+      "id": 17,
+      "name": "Red Chili Powder",
+      "ingredientSlug": "red-chili-powder",
+      "amount": 1.25,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "id": 18,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "marble-sized piece",
+      "notes": "soaked and extracted"
+    },
+    {
+      "id": 19,
+      "name": "Garam Masala",
+      "ingredientSlug": "garam-masala",
+      "amount": 0.375,
+      "unit": "tsp",
+      "notes": "1/4 to 1/2 tsp for finishing"
+    },
+    {
+      "id": 20,
+      "name": "Jaggery",
+      "ingredientSlug": "jaggery",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "optional but recommended"
+    },
+    {
+      "id": 21,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "for finishing"
+    },
+    {
+      "id": 22,
+      "name": "Fresh Coriander Leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "chopped, for finishing"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make the masala paste.",
+      "duration": 5,
+      "subSteps": [
+        "Add tomatoes, green chillies, garlic, ginger, and 1/2 cup fresh coriander leaves to a mixer jar.",
+        "Add 2 to 3 tbsp water only if needed for grinding.",
+        "Grind to a smooth paste with no visible chunks.",
+        "Note: Do not add onion to this paste.",
+        "VALIDATION: Paste should be smooth, bright green-red colored, and aromatic. No raw ingredient pieces should be visible."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the tempering.",
+      "duration": 3,
+      "subSteps": [
+        "Heat 2.5 to 3 tbsp oil in a kadai or heavy-bottomed pan over medium heat.",
+        "Once hot, add 1/2 tsp mustard seeds and cover immediately.",
+        "Allow seeds to splutter for 15-20 seconds until crackling stops.",
+        "Add 1/2 tsp cumin seeds.",
+        "Then add curry leaves and a pinch of hing.",
+        "VALIDATION: Seeds should splutter vigorously. Strong aromatic smell should be present."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Fry the onions well.",
+      "duration": 8,
+      "subSteps": [
+        "Add 2 finely chopped medium onions to the tempered oil.",
+        "Sauté on medium flame for 7-8 minutes, stirring often.",
+        "Cook until soft, golden, and lightly caramelized at the edges.",
+        "Do not rush this step.",
+        "VALIDATION: Onions should be soft and golden-brown. Lightly caramelized edges should be visible. Sweet aroma should be noticeable."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Add and cook the masala paste.",
+      "duration": 10,
+      "subSteps": [
+        "Add the prepared coriander-tomato paste to the pan.",
+        "Cook on medium flame, stirring often, until the raw smell disappears.",
+        "Continue cooking until the paste thickens.",
+        "Cook until the colour deepens and oil begins to separate lightly from the sides.",
+        "This usually takes 8 to 10 minutes depending on flame and moisture.",
+        "VALIDATION: Raw smell should disappear completely. Paste should be darker and glossy. Oil should separate slightly at the edges."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Add spice powders.",
+      "duration": 2,
+      "subSteps": [
+        "Add 1/4 tsp turmeric powder.",
+        "Add 1.5 tsp coriander powder.",
+        "Add 1 to 1.5 tsp red chilli powder (adjust to taste).",
+        "Mix well and fry for 1 to 2 minutes on low flame.",
+        "VALIDATION: Spices should be well incorporated. No raw powder smell should remain."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Add tamarind extract.",
+      "duration": 2,
+      "subSteps": [
+        "Add the tamarind extract (soaked in 3 tbsp warm water) to the masala.",
+        "Mix well.",
+        "Cook for 1 minute so the sourness blends into the masala instead of tasting sharp.",
+        "VALIDATION: Tamarind should be well distributed. Sourness should blend in gradually."
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Add chana and cooking stock.",
+      "duration": 2,
+      "subSteps": [
+        "Add the whole cooked chana to the pan.",
+        "Add the lightly crushed chana.",
+        "Add about 3/4 to 1 cup reserved chana cooking water.",
+        "Add extra salt if needed.",
+        "Mix thoroughly so all chana is coated.",
+        "VALIDATION: All chana should be coated with masala. Consistency should be thicker than a normal curry but with some flow."
+      ]
+    },
+    {
+      "order": 8,
+      "instruction": "Simmer until thick and rice-friendly.",
+      "duration": 12,
+      "subSteps": [
+        "Cook on low to medium flame for 10 to 15 minutes, stirring occasionally.",
+        "The masala should thicken and coat the chana.",
+        "The mixture should become slightly glossy.",
+        "Target consistency: thick flowing, not watery. Should be thicker than sambar but looser than a dry usli.",
+        "If too thick, add more reserved chana stock or hot water.",
+        "If too loose, simmer longer uncovered.",
+        "VALIDATION: Masala should coat the chana and have a thick, flowing consistency. When stirred, it should cling to the spoon."
+      ]
+    },
+    {
+      "order": 9,
+      "instruction": "Finish the masala.",
+      "duration": 2,
+      "subSteps": [
+        "Add 1/4 to 1/2 tsp garam masala.",
+        "Add 1/2 tsp jaggery (if using) for sweetness and to balance tamarind.",
+        "Add 2 tbsp chopped fresh coriander leaves.",
+        "Add 1 tsp ghee.",
+        "Mix well and simmer for 1 more minute.",
+        "Switch off the flame and rest for 5 minutes before serving.",
+        "VALIDATION: All finishing ingredients should be well incorporated. Aroma should be fragrant and balanced. Resting helps chana absorb the masala better."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Spicier Version",
+      "adjustments": {
+        "green_chilies": "5 instead of 3-4",
+        "red_chili_powder": "1.5 to 2 tsp instead of 1-1.5 tsp"
+      }
+    },
+    {
+      "name": "Kala Chana Version",
+      "adjustments": {
+        "chana_type": "kala chana (black chickpeas)",
+        "cooking_whistles": "May need 1-2 extra whistles for softer texture"
+      }
+    },
+    {
+      "name": "Richer Version",
+      "adjustments": {
+        "ghee": "1 extra tsp for finishing instead of 1 tsp"
+      }
+    }
+  ],
+  "seo": {
+    "metaTitle": "Andhra Chana Masala Recipe — Rice Curry | Authentic",
+    "metaDescription": "Thick, spicy Andhra-style chana masala for rice with curry leaves, tamarind, and fresh coriander. Perfect with hot rice. Easy recipe."
+  }
+}
