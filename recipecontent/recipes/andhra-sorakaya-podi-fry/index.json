@@ -1,0 +1,400 @@
+{
+  "slug": "andhra-sorakaya-podi-fry",
+  "title": "Andhra Style Sorakaya Podi Fry",
+  "description": "A spicy, dry Andhra-style bottle gourd fry coated with a flavorful groundnut-sesame podi. Perfect with hot rice and ghee or chapathi.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-sorakaya-podi-fry.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-sorakaya-podi-fry.png",
+  "difficulty": "medium",
+  "prepTime": 15,
+  "cookTime": 30,
+  "servings": 5,
+  "defaultServings": 5,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian"],
+  "healthTags": ["low-calorie", "high-fiber"],
+  "category": "Vegetable Fry",
+  "featured": false,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare and roast podi ingredients",
+      "duration": 15,
+      "subSteps": [
+        "Measure 4 parts roasted groundnuts (approximately 1 cup)",
+        "Measure 1 part roasted sesame seeds (approximately 1/4 cup)",
+        "Measure 1 part roasted fried gram, also called dalia (approximately 1/4 cup)",
+        "Measure 1 part lightly roasted flax seeds (approximately 1/4 cup)",
+        "Measure 3-4 dry red chillies",
+        "Measure 2 garlic cloves",
+        "Measure 1/2 tsp cumin seeds",
+        "Heat a dry pan on medium heat",
+        "Add cumin seeds and dry roast for 20-30 seconds until fragrant, stirring constantly",
+        "Remove cumin seeds and set aside",
+        "Lightly toast the dry red chillies in the same pan for 15-20 seconds, just until fragrant (do not burn)",
+        "Remove chillies and set aside",
+        "Allow all roasted ingredients to cool completely (at least 5 minutes)",
+        "Add all prepared ingredients to a mixer or food processor: groundnuts, sesame seeds, fried gram, flax seeds, toasted chillies, garlic cloves, roasted cumin seeds, and 1/4 tsp salt",
+        "Pulse 4-5 times until ingredients are broken into a coarse powder with visible texture",
+        "Do not grind into a fine paste - keep it coarse and grainy",
+        "Transfer to a bowl and measure out 5 tbsp for the curry",
+        "VALIDATION: The podi should resemble breadcrumbs with visible groundnut and sesame pieces, not a fine powder. You should see the texture and grain clearly. It should smell nutty and aromatic with a hint of chilli heat."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare vegetables for frying",
+      "duration": 10,
+      "subSteps": [
+        "Peel the bottle gourd (sorakaya) completely using a vegetable peeler or knife, removing the green skin",
+        "Rinse the peeled bottle gourd thoroughly under running water",
+        "Cut the bottle gourd into pieces of exactly 5 × 5 × 10 mm (approximately 1/4 inch × 1/4 inch × 3/8 inch)",
+        "Peel 1 medium onion and chop finely into small pieces (approximately 1/4 inch)",
+        "Cut 6-8 hot green chillies in half lengthwise",
+        "Chop the green chillies finely into 1/8 inch pieces",
+        "Peel 5-6 garlic cloves and mince finely to get approximately 1 tbsp minced garlic",
+        "Peel a 1.5-inch piece of fresh ginger",
+        "Grate the ginger finely to get approximately 1.5 tsp of grated ginger",
+        "Measure and chop fresh coriander leaves (2 tbsp, about 1/4 cup loosely packed)",
+        "Cut 1/2 lemon for juicing later",
+        "VALIDATION: Bottle gourd pieces should be uniform in size (5 × 5 × 10 mm). Onion should be finely chopped. Garlic should be minced into tiny pieces. Ginger should be freshly grated. Coriander leaves should be roughly chopped."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Bottle gourd",
+      "ingredientSlug": "bottle-gourd",
+      "amount": 600,
+      "unit": "g",
+      "notes": "peeled and cut into 5 × 5 × 10 mm pieces"
+    },
+    {
+      "id": 2,
+      "name": "Groundnut oil",
+      "ingredientSlug": "groundnut-oil",
+      "amount": 3,
+      "unit": "tbsp",
+      "notes": "or sunflower oil"
+    },
+    {
+      "id": 3,
+      "name": "Mustard seeds",
+      "ingredientSlug": "mustard-seeds",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "Cumin seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "for tempering"
+    },
+    {
+      "id": 5,
+      "name": "Urad dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "Chana dal",
+      "ingredientSlug": "chana-dal",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "name": "Curry leaves",
+      "ingredientSlug": "curry-leaves",
+      "amount": 10,
+      "unit": "leaves",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "name": "Asafoetida",
+      "ingredientSlug": "asafoetida",
+      "amount": 0.1,
+      "unit": "tsp",
+      "notes": "pinch of hing"
+    },
+    {
+      "id": 9,
+      "name": "Medium onion",
+      "ingredientSlug": "onion",
+      "amount": 1,
+      "unit": "medium",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 10,
+      "name": "Hot green chillies",
+      "ingredientSlug": "green-chillies",
+      "amount": 7,
+      "unit": "whole",
+      "notes": "finely chopped"
+    },
+    {
+      "id": 11,
+      "name": "Garlic cloves",
+      "ingredientSlug": "garlic",
+      "amount": 5.5,
+      "unit": "cloves",
+      "notes": "5-6 cloves minced for curry, 2 for podi"
+    },
+    {
+      "id": 12,
+      "name": "Fresh ginger",
+      "ingredientSlug": "ginger",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "id": 13,
+      "name": "Turmeric powder",
+      "ingredientSlug": "turmeric-powder",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 1.25,
+      "unit": "tsp",
+      "notes": "adjust to taste, used in curry and podi"
+    },
+    {
+      "id": 15,
+      "name": "Hot red chilli powder",
+      "ingredientSlug": "red-chilli-powder",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "optional spice layer"
+    },
+    {
+      "id": 16,
+      "name": "Kashmiri chilli powder",
+      "ingredientSlug": "kashmiri-chilli-powder",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "optional spice layer"
+    },
+    {
+      "id": 17,
+      "name": "Coriander powder",
+      "ingredientSlug": "coriander-powder",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "optional spice layer"
+    },
+    {
+      "id": 18,
+      "name": "Roasted groundnuts",
+      "ingredientSlug": "roasted-groundnuts",
+      "amount": 4,
+      "unit": "parts",
+      "notes": "for podi, unskinned preferred"
+    },
+    {
+      "id": 19,
+      "name": "Roasted sesame seeds",
+      "ingredientSlug": "sesame-seeds",
+      "amount": 1,
+      "unit": "part",
+      "notes": "for podi"
+    },
+    {
+      "id": 20,
+      "name": "Roasted fried gram",
+      "ingredientSlug": "fried-gram",
+      "amount": 1,
+      "unit": "part",
+      "notes": "dalia, for podi"
+    },
+    {
+      "id": 21,
+      "name": "Lightly roasted flax seeds",
+      "ingredientSlug": "flax-seeds",
+      "amount": 1,
+      "unit": "part",
+      "notes": "for podi"
+    },
+    {
+      "id": 22,
+      "name": "Dry red chillies",
+      "ingredientSlug": "dry-red-chillies",
+      "amount": 4,
+      "unit": "whole",
+      "notes": "for podi, adjust quantity for more or less heat"
+    },
+    {
+      "id": 23,
+      "name": "Fresh coriander leaves",
+      "ingredientSlug": "coriander-leaves",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "finely chopped, for garnish"
+    },
+    {
+      "id": 24,
+      "name": "Lemon juice",
+      "ingredientSlug": "lemon-juice",
+      "amount": 0.5,
+      "unit": "lemon",
+      "notes": "fresh squeezed"
+    },
+    {
+      "id": 25,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "optional but recommended"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil and temper spices",
+      "duration": 2,
+      "subSteps": [
+        "Heat a heavy-bottomed kadai or thick-bottomed pan over medium heat",
+        "Add 3 tbsp groundnut oil to the pan",
+        "Allow oil to heat for about 30 seconds until a small mustard seed sizzles immediately when dropped in",
+        "Add 1 tsp mustard seeds to the hot oil",
+        "Let the mustard seeds splutter and pop for 10-15 seconds",
+        "When the mustard seeds stop sputtering, immediately add 1 tsp cumin seeds",
+        "Add 1 tsp urad dal to the pan",
+        "Add 1 tsp chana dal to the pan",
+        "Cook the dals for about 30-40 seconds until they turn light golden, stirring gently",
+        "Add curry leaves (8-10 leaves) to the pan",
+        "Add a pinch of asafoetida (hing) to the pan",
+        "Fry for about 10 seconds until fragrant",
+        "VALIDATION: Mustard seeds should splutter audibly. Cumin seeds should become fragrant. Dals should turn light golden but not brown. The kitchen should smell strongly of aromatic tempering spices."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté aromatics",
+      "duration": 6,
+      "subSteps": [
+        "Add 1 chopped medium onion to the pan immediately after tempering",
+        "Mix well with the spiced oil",
+        "Cook on medium flame for 3-4 minutes, stirring occasionally",
+        "The onion should gradually become translucent and soft",
+        "Add 6-8 finely chopped hot green chillies to the pan",
+        "Sauté for 1 minute, stirring to combine",
+        "Add 5-6 minced garlic cloves to the pan",
+        "Stir continuously for 1 minute until garlic is fragrant",
+        "Add 1.5 tsp freshly grated ginger to the pan",
+        "Cook for another 30 seconds until ginger is fully fragrant",
+        "VALIDATION: Onions should be translucent and soft. Garlic should be fragrant and evenly distributed. Ginger should release a fresh, pungent aroma. The mixture should look like a spice paste."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Add bottle gourd and turmeric",
+      "duration": 2,
+      "subSteps": [
+        "Add 600g of the cut bottle gourd pieces to the pan",
+        "Add 1/4 tsp turmeric powder to the pan",
+        "Add 1.25 tsp salt to the pan",
+        "Mix well, ensuring every piece of bottle gourd is coated with the spiced mixture",
+        "Stir thoroughly to combine all ingredients evenly",
+        "VALIDATION: Every piece of bottle gourd should be coated with the golden spice mixture. The turmeric should tint everything golden."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Cook bottle gourd with cover",
+      "duration": 10,
+      "subSteps": [
+        "Cover the pan with a lid",
+        "Reduce heat to medium",
+        "Cook covered for 8-10 minutes",
+        "Do not add any water - the bottle gourd will release its own moisture",
+        "The bottle gourd will start releasing water as it cooks",
+        "VALIDATION: The bottle gourd should be steaming and releasing moisture. You should see liquid in the pan as it cooks."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Dry the vegetable completely",
+      "duration": 12,
+      "subSteps": [
+        "Remove the lid from the pan",
+        "Increase heat to medium-high",
+        "Cook uncovered, stirring every minute to prevent sticking",
+        "The goal is to evaporate nearly all the moisture",
+        "Continue cooking for 8-12 minutes, stirring frequently",
+        "The bottle gourd should be cooked through but still hold its shape",
+        "Watch for the edges to begin browning slightly",
+        "The pan should look fairly dry with minimal liquid remaining",
+        "This is the most critical step - the vegetable should be almost completely dry before adding podi",
+        "VALIDATION: Nearly all moisture should have evaporated. The bottle gourd pieces should be cooked through but still hold their shape. The edges should show slight browning. When you tilt the pan, no liquid should pool at the bottom. The kitchen should smell strongly of cooked bottle gourd with spices."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Add optional spice layer",
+      "duration": 1,
+      "subSteps": [
+        "Add 0.5 tsp hot red chilli powder to the pan (optional)",
+        "Add 0.5 tsp Kashmiri chilli powder to the pan (optional)",
+        "Add 0.5 tsp coriander powder to the pan (optional)",
+        "Mix well for about 30 seconds to incorporate the spices evenly",
+        "VALIDATION: The spices should be evenly distributed throughout the vegetable. The color should deepen slightly."
+      ]
+    },
+    {
+      "order": 7,
+      "instruction": "Add chutney powder and finish cooking",
+      "duration": 3,
+      "subSteps": [
+        "Reduce the flame to low heat",
+        "Sprinkle 5 tbsp of the prepared chutney powder (podi) evenly over the bottle gourd",
+        "Mix gently but thoroughly with a spoon or spatula, ensuring every piece is coated with podi",
+        "Cook for 2-3 minutes on low heat, stirring occasionally to allow podi to fully incorporate",
+        "If the mixture looks too dry, drizzle 1 tsp oil and mix gently",
+        "The mixture should be moist but crumbly, not wet",
+        "Switch off the flame",
+        "VALIDATION: Every piece of bottle gourd should have a visible coating of podi. The curry should smell strongly of roasted groundnuts, sesame, and spices. The texture should be moist and crumbly, not wet or oily."
+      ]
+    },
+    {
+      "order": 8,
+      "instruction": "Final finishing",
+      "duration": 5,
+      "subSteps": [
+        "Add 2 tbsp finely chopped fresh coriander leaves to the hot curry",
+        "Add juice from 1/2 lemon to the curry",
+        "Add 1 tsp ghee to the pan (optional)",
+        "Mix gently just 2-3 times to combine - do not overmix",
+        "Transfer the curry to a serving bowl",
+        "Cover and let rest for 5-10 minutes before serving",
+        "This resting time allows the podi to absorb remaining moisture and flavors to settle",
+        "VALIDATION: The curry should have a bright green coriander garnish visible. The lemon should provide a subtle tang that brightens the overall flavor. The aroma should be complex - nutty, spicy, and fresh all at once. The texture should be dry and crumbly with each piece well-coated."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Andhra Sorakaya Podi Fry — Bottle Gourd with Peanut-Sesame",
+    "metaDescription": "Authentic Andhra-style bottle gourd fry with roasted peanut-sesame podi coating. Dry curry recipe with fresh ginger, garlic, and aromatic spices for rice or chapathi."
+  }
+}

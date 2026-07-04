@@ -1,5 +1,29 @@
 [
   {
+    "slug": "andhra-sorakaya-podi-fry",
+    "title": "Andhra Style Sorakaya Podi Fry",
+    "description": "A spicy, dry Andhra-style bottle gourd fry coated with a flavorful groundnut-sesame podi. Perfect with hot rice and ghee or chapathi.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/andhra-sorakaya-podi-fry.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "healthTags": [
+      "low-calorie",
+      "high-fiber"
+    ],
+    "category": "Vegetable Fry",
+    "difficulty": "medium",
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 5,
+    "featured": false,
+    "publishedAt": "2026-07-04T00:00:00Z"
+  },
+  {
     "slug": "andhra-chana-masala",
     "title": "Andhra-Style Chana Masala for Rice",
     "description": "A thick, spicy, rice-friendly chana masala with onion-tomato base, curry leaves, tamarind, and fresh coriander. Designed to mix beautifully with hot rice.",
