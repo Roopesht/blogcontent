@@ -1,5 +1,32 @@
 [
   {
+    "slug": "moringa-chutney-powder",
+    "title": "Moringa Chutney Powder (Drumstick Leaf Podi)",
+    "description": "A aromatic, spiced chutney powder made with dried moringa leaves, roasted lentils, and garlic. A nutrient-rich condiment perfect with rice, dosa, and idli.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/moringa-chutney-powder.png",
+    "cuisines": [
+      "Andhra",
+      "South Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free",
+      "vegan"
+    ],
+    "healthTags": [
+      "high-protein",
+      "high-iron",
+      "nutrient-rich"
+    ],
+    "category": "Chutney",
+    "difficulty": "easy",
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 8,
+    "featured": false,
+    "publishedAt": "2026-07-19T00:00:00Z"
+  },
+  {
     "slug": "andhra-sorakaya-podi-fry",
     "title": "Andhra Style Sorakaya Podi Fry",
     "description": "A spicy, dry Andhra-style bottle gourd fry coated with a flavorful groundnut-sesame podi. Perfect with hot rice and ghee or chapathi.",

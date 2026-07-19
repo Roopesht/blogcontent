@@ -1,0 +1,247 @@
+{
+  "slug": "moringa-chutney-powder",
+  "title": "Moringa Chutney Powder (Drumstick Leaf Podi)",
+  "description": "A aromatic, spiced chutney powder made with dried moringa leaves, roasted lentils, and garlic. A nutrient-rich condiment perfect with rice, dosa, and idli.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/moringa-chutney-powder.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/moringa-chutney-powder.png",
+  "difficulty": "easy",
+  "prepTime": 20,
+  "cookTime": 15,
+  "servings": 8,
+  "defaultServings": 8,
+  "cuisines": ["Andhra", "South Indian"],
+  "dietaryTags": ["vegetarian", "gluten-free", "vegan"],
+  "healthTags": ["high-protein", "high-iron", "nutrient-rich"],
+  "category": "Chutney",
+  "featured": false,
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    }
+  ],
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Prepare and dry moringa leaves",
+      "duration": 15,
+      "subSteps": [
+        "Pick fresh moringa leaves from the stems, discarding any yellowed or damaged leaves",
+        "Rinse the moringa leaves thoroughly under running water and pat dry with a clean cloth",
+        "Spread the moringa leaves on a microwave-safe plate in a single layer",
+        "Microwave on high heat for 3-4 minutes in 1-minute intervals, stirring between each interval",
+        "The leaves should be completely dried and crispy, breaking apart easily when touched",
+        "Remove from microwave and let cool completely (approximately 5 minutes)",
+        "You should have approximately 2 cups of loosely packed dried moringa leaves",
+        "VALIDATION: Leaves should be completely dry and crispy, not wilted or soft. They should break apart easily when crushed between fingers. No moisture should remain."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare all ingredients",
+      "duration": 5,
+      "subSteps": [
+        "Measure 2 tbsp chana dal (Bengal gram)",
+        "Measure 2 tbsp urad dal (split black gram)",
+        "Measure 10-12 dry red chillies (Guntur chillies preferred for best flavor)",
+        "Measure 1.5 tsp coriander seeds (dhaniyalu)",
+        "Measure 1.5 tsp cumin seeds (jeelakara)",
+        "Peel 8-10 garlic cloves and set aside",
+        "Take a small lemon-sized ball of tamarind (approximately 1 tbsp)",
+        "Clean the tamarind by removing any seeds or stringy bits",
+        "Measure 1/4 tsp asafoetida (hing)",
+        "Measure 1 tsp peanut or sesame oil",
+        "VALIDATION: All ingredients measured and prepared. Tamarind should be cleaned of seeds and stringy bits. Garlic cloves should be peeled."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Dried moringa leaves",
+      "ingredientSlug": "dried-moringa-leaves",
+      "amount": 2,
+      "unit": "cups",
+      "notes": "tightly packed, microwave-dried"
+    },
+    {
+      "id": 2,
+      "name": "Chana dal",
+      "ingredientSlug": "chana-dal",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "Bengal gram"
+    },
+    {
+      "id": 3,
+      "name": "Urad dal",
+      "ingredientSlug": "urad-dal",
+      "amount": 2,
+      "unit": "tbsp",
+      "notes": "split black gram"
+    },
+    {
+      "id": 4,
+      "name": "Dry red chillies",
+      "ingredientSlug": "dry-red-chillies",
+      "amount": 11,
+      "unit": "whole",
+      "notes": "Guntur chillies work best, adjust for heat preference"
+    },
+    {
+      "id": 5,
+      "name": "Coriander seeds",
+      "ingredientSlug": "coriander-seeds",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "dhaniyalu"
+    },
+    {
+      "id": 6,
+      "name": "Cumin seeds",
+      "ingredientSlug": "cumin-seeds",
+      "amount": 1.5,
+      "unit": "tsp",
+      "notes": "jeelakara"
+    },
+    {
+      "id": 7,
+      "name": "Garlic cloves",
+      "ingredientSlug": "garlic",
+      "amount": 9,
+      "unit": "cloves",
+      "notes": "peeled, added raw at the end"
+    },
+    {
+      "id": 8,
+      "name": "Tamarind",
+      "ingredientSlug": "tamarind",
+      "amount": 1,
+      "unit": "ball",
+      "notes": "lemon-sized, cleaned of seeds"
+    },
+    {
+      "id": 9,
+      "name": "Asafoetida",
+      "ingredientSlug": "asafoetida",
+      "amount": 0.25,
+      "unit": "tsp",
+      "notes": "hing"
+    },
+    {
+      "id": 10,
+      "name": "Peanut oil",
+      "ingredientSlug": "peanut-oil",
+      "amount": 1,
+      "unit": "tsp",
+      "notes": "or sesame oil"
+    },
+    {
+      "id": 11,
+      "name": "Salt",
+      "ingredientSlug": "salt",
+      "amount": 0.5,
+      "unit": "tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Roast lentils",
+      "duration": 3,
+      "subSteps": [
+        "Heat a heavy-bottomed pan over medium heat",
+        "Add 0.5 tsp peanut or sesame oil to the pan",
+        "Once oil is hot, add 2 tbsp chana dal (Bengal gram) to the pan",
+        "Add 2 tbsp urad dal (split black gram) to the pan",
+        "Roast continuously, stirring frequently with a spoon, for 2-3 minutes",
+        "Watch the color carefully - the dals should turn from pale to light golden brown",
+        "The dals should release a rich, nutty aroma when properly roasted",
+        "Do not allow the dals to burn - they should remain light golden, not dark brown",
+        "VALIDATION: Both dals should be light golden brown with a strong nutty aroma. Some pieces may stick to the pan slightly. The roasted dals should smell warm and toasted."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Add spices and chillies",
+      "duration": 2,
+      "subSteps": [
+        "Lower the flame to low-medium",
+        "Add 1.5 tsp coriander seeds to the pan",
+        "Add 10-12 dry red chillies to the pan",
+        "Stir-fry the mixture continuously for approximately 2 minutes",
+        "Watch the chillies carefully - they should swell slightly and change color",
+        "The mixture should become fragrant with warm spice aromas",
+        "Do not let the chillies burn - they should darken slightly but not turn black",
+        "VALIDATION: Chillies should swell and change to a darker red-brown color. The kitchen should smell strongly of roasted chillies and coriander. Spices should be fragrant but not burnt."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining aromatics",
+      "duration": 1,
+      "subSteps": [
+        "Add 1.5 tsp cumin seeds to the pan",
+        "Add tamarind pieces (approximately 1 lemon-sized ball) to the pan",
+        "Add 1/4 tsp asafoetida (hing) to the pan",
+        "Stir well to combine all ingredients",
+        "Sauté for just 1 minute to warm up the tamarind and awaken the cumin oils",
+        "The mixture should be warm and fragrant",
+        "Turn off the heat immediately after 1 minute",
+        "VALIDATION: All ingredients should be warm and aromatic. Tamarind should soften slightly from the heat. Cumin oils should be released, creating a warm, spiced aroma."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Cool spice and moringa mixture",
+      "duration": 10,
+      "subSteps": [
+        "While the pan is still warm (after turning off heat), toss the 2 cups of crisp, dried moringa leaves directly into the warm pan",
+        "Stir gently to combine the leaves with the warm spice mixture",
+        "The residual heat from the pan will draw out any remaining microscopic moisture from the leaves",
+        "Spread the mixture on a clean plate to cool completely",
+        "Allow the mixture to cool for approximately 10 minutes at room temperature",
+        "The leaves should remain crispy and not become soft or wilted",
+        "Once cooled, you should have a fragrant, dry mixture of moringa leaves and toasted spices",
+        "VALIDATION: Moringa leaves should remain crispy and dry. The mixture should be cool to the touch. The aroma should be complex - nutty, spicy, tangy, and herbaceous all at once."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Grind to semi-coarse powder",
+      "duration": 2,
+      "subSteps": [
+        "Add the cooled spice-and-moringa mixture to a dry mixer jar",
+        "Add 0.5 tsp salt to the mixer jar",
+        "Do not add liquid - the mixer should work with completely dry ingredients",
+        "Close the mixer lid securely",
+        "Pulse the mixer 4-5 times, each pulse lasting about 2-3 seconds",
+        "Do not blend continuously - use short pulses to maintain texture",
+        "After each pulse, check the consistency - you want a semi-coarse powder, not a fine flour",
+        "The mixture should have visible texture with specks of moringa, chillies, and spices visible",
+        "Do not over-grind - the goal is a grainy podi, not a paste",
+        "VALIDATION: The podi should resemble coarse breadcrumbs with visible green specks from moringa leaves and red specks from chillies. It should not be a fine powder. You should see individual ingredients clearly."
+      ]
+    },
+    {
+      "order": 6,
+      "instruction": "Add raw garlic and finish",
+      "duration": 1,
+      "subSteps": [
+        "Add 8-10 peeled garlic cloves to the mixer jar containing the semi-coarse podi",
+        "Pulse the mixer 2-3 times, each pulse lasting 2-3 seconds",
+        "The dampness of the garlic will help the podi bind together beautifully without turning it into a paste",
+        "Stop pulsing when the garlic is roughly broken up and distributed throughout",
+        "Do not over-blend - the garlic should be in small pieces, not minced fine",
+        "Transfer the finished podi to a clean, dry glass jar",
+        "Let it cool completely before sealing the jar",
+        "VALIDATION: The garlic should be roughly broken up and distributed throughout the podi. The mixture should hold together slightly when squeezed but still have a crumbly texture. It should not be wet or paste-like. The aroma should be pungent with fresh garlic, warm spices, and fresh moringa."
+      ]
+    }
+  ],
+  "seo": {
+    "metaTitle": "Moringa Chutney Powder (Drumstick Leaf Podi) — Nutrient-Rich",
+    "metaDescription": "Easy homemade moringa chutney powder with dried drumstick leaves, roasted spices, and garlic. A protein-rich South Indian condiment for rice and dosa."
+  }
+}
