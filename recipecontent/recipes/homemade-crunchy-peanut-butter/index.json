@@ -1,0 +1,148 @@
+{
+  "slug": "homemade-crunchy-peanut-butter",
+  "title": "Homemade Crunchy Peanut Butter with Jaggery and Ghee",
+  "description": "A wholesome crunchy peanut butter made from skin-on roasted peanuts, a touch of ghee, and a little jaggery. No refined sugar, no palm oil, no preservatives.",
+  "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/homemade-crunchy-peanut-butter.png",
+  "heroImageUrl": "https://images.ojasamirai.com/ojasa/recipes/homemade-crunchy-peanut-butter.png",
+  "difficulty": "easy",
+  "prepTime": 5,
+  "cookTime": 40,
+  "servings": 16,
+  "defaultServings": 16,
+  "cuisines": [
+    "Indian"
+  ],
+  "dietaryTags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "healthTags": [
+    "high-protein",
+    "heart-healthy",
+    "fiber-rich"
+  ],
+  "category": "Snack",
+  "featured": false,
+  "preparation": [
+    {
+      "order": 1,
+      "instruction": "Sort and measure the peanuts",
+      "duration": 5,
+      "subSteps": [
+        "Measure 2 small cups raw skin-on peanuts into a plate",
+        "Discard any shriveled, discolored or moldy peanuts",
+        "Powder 1.5 tbsp jaggery by crushing or grating it fine so it blends without lumps",
+        "VALIDATION: Peanuts are plump, uniform and cream-pink with intact skins. Jaggery is a fine powder with no lumps."
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Raw Peanuts",
+      "ingredientSlug": "peanuts",
+      "amount": 2,
+      "unit": "cups",
+      "notes": "skin-on, small cups (about 280 g); sort out any shriveled or moldy ones"
+    },
+    {
+      "id": 2,
+      "name": "Ghee",
+      "ingredientSlug": "ghee",
+      "amount": 1,
+      "unit": "tbsp",
+      "notes": "melted; helps the butter turn smooth and glossy"
+    },
+    {
+      "id": 3,
+      "name": "Jaggery",
+      "ingredientSlug": "jaggery",
+      "amount": 1.5,
+      "unit": "tbsp",
+      "notes": "powdered or finely grated; reduce to 1 tbsp for even less sweet"
+    },
+    {
+      "id": 4,
+      "name": "Rock Salt",
+      "ingredientSlug": "rock-salt",
+      "amount": 1,
+      "unit": "pinch",
+      "notes": "adjust to taste"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dry roast the peanuts",
+      "duration": 12,
+      "subSteps": [
+        "Heat a heavy-bottomed kadai over low-medium heat for 1 minute",
+        "Add all the peanuts and stir continuously with a spatula",
+        "Roast 10-12 minutes, stirring every 20-30 seconds, so they brown evenly without scorching",
+        "Switch off the heat once the skins darken and a nutty aroma fills the kitchen",
+        "VALIDATION: Skins are blistered and crackling, peanuts are light golden inside when one is split, with a deep roasted aroma. No black or burnt spots."
+      ]
+    },
+    {
+      "order": 2,
+      "instruction": "Cool and rub off the skins partly",
+      "duration": 15,
+      "subSteps": [
+        "Spread the peanuts on a plate and cool for 10-15 minutes until barely warm",
+        "Rub gently between your palms to loosen the loose papery skins and blow them away; keep skins that cling (they hold fibre and antioxidants)",
+        "Set aside 1/4 cup of the roasted peanuts and crush them coarsely with a rolling pin for crunch",
+        "VALIDATION: Peanuts are warm to the touch, not hot. Most loose skin is gone and the reserved peanuts are broken into rough pieces about 1/4 inch."
+      ]
+    },
+    {
+      "order": 3,
+      "instruction": "Grind to a smooth butter",
+      "duration": 10,
+      "subSteps": [
+        "Add the remaining warm peanuts and the pinch of rock salt to a dry mixer jar",
+        "Pulse 5-6 times, then run on medium speed in bursts of 30-40 seconds, scraping down the sides after each burst",
+        "Pause 1 minute between bursts so the motor and the butter do not overheat",
+        "Continue 6-8 minutes total: the powder clumps into a thick paste, then loosens into a flowing butter",
+        "VALIDATION: Mixture goes from crumbs to a thick ball to a glossy, pourable paste that drips slowly off a spoon. Jar is warm, not hot."
+      ]
+    },
+    {
+      "order": 4,
+      "instruction": "Blend in ghee and jaggery",
+      "duration": 3,
+      "subSteps": [
+        "Add 1 tbsp melted ghee and 1.5 tbsp powdered jaggery",
+        "Blend 30-40 seconds on medium speed until fully combined",
+        "Taste and add a tiny pinch more salt if needed",
+        "VALIDATION: Butter is silky and uniform, golden-brown with a gloss. No jaggery specks visible and it tastes mildly sweet, mostly nutty."
+      ]
+    },
+    {
+      "order": 5,
+      "instruction": "Fold in the crunch and store",
+      "duration": 5,
+      "subSteps": [
+        "Transfer the butter to a bowl and let it cool 5 minutes",
+        "Fold in the reserved crushed peanuts with a spoon",
+        "Pour into a clean, completely dry glass jar and cool to room temperature before closing",
+        "Store in a cool place for 2 weeks, or in the fridge for up to 1 month",
+        "VALIDATION: Butter is thick and spreadable with visible peanut pieces. It thickens slightly as it cools and holds its shape on a spoon."
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "name": "Standard",
+      "adjustments": {}
+    },
+    {
+      "name": "Creamy",
+      "adjustments": {}
+    }
+  ],
+  "seo": {
+    "metaTitle": "Healthy Crunchy Peanut Butter Recipe with Jaggery & Ghee",
+    "metaDescription": "Make healthy crunchy peanut butter at home with skin-on roasted peanuts, a spoon of ghee and a little jaggery. No refined sugar or palm oil. Ready in 40 min."
+  },
+  "publishedAt": "2026-10-23T00:00:00Z"
+}

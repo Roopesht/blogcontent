@@ -1,5 +1,30 @@
 [
   {
+    "slug": "homemade-crunchy-peanut-butter",
+    "title": "Homemade Crunchy Peanut Butter with Jaggery and Ghee",
+    "description": "A wholesome crunchy peanut butter made from skin-on roasted peanuts, a touch of ghee, and a little jaggery. No refined sugar, no palm oil, no preservatives.",
+    "thumbnailUrl": "https://images.ojasamirai.com/ojasa/recipes/homemade-crunchy-peanut-butter.png",
+    "cuisines": [
+      "Indian"
+    ],
+    "dietaryTags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "healthTags": [
+      "high-protein",
+      "heart-healthy",
+      "fiber-rich"
+    ],
+    "category": "Snack",
+    "difficulty": "easy",
+    "prepTime": 5,
+    "cookTime": 40,
+    "servings": 16,
+    "featured": false,
+    "publishedAt": "2026-10-23T00:00:00Z"
+  },
+  {
     "slug": "moringa-chutney-powder",
     "title": "Moringa Chutney Powder (Drumstick Leaf Podi)",
     "description": "A aromatic, spiced chutney powder made with dried moringa leaves, roasted lentils, and garlic. A nutrient-rich condiment perfect with rice, dosa, and idli.",
