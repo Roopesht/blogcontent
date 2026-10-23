@@ -29,7 +29,7 @@
       "instruction": "Sort and measure the peanuts",
       "duration": 5,
       "subSteps": [
-        "Measure 2 small cups raw skin-on peanuts into a plate",
+        "Measure 2 standard cups (240 ml each) raw skin-on peanuts into a plate",
         "Discard any shriveled, discolored or moldy peanuts",
         "Powder 1.5 tbsp jaggery by crushing or grating it fine so it blends without lumps",
         "VALIDATION: Peanuts are plump, uniform and cream-pink with intact skins. Jaggery is a fine powder with no lumps."
@@ -43,7 +43,7 @@
       "ingredientSlug": "peanuts",
       "amount": 2,
       "unit": "cups",
-      "notes": "skin-on, small cups (about 280 g); sort out any shriveled or moldy ones"
+      "notes": "skin-on, standard 240 ml measuring cups, level (about 290 g); sort out any shriveled or moldy ones"
     },
     {
       "id": 2,
